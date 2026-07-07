@@ -1,2 +1,2 @@
 # school-data-analytics
-Automação em Python e Pandas para identificação de alunos em recuperação escolar, integrada com IA para geração automática de pareceres pedagógicos e relatórios em Excel.
+Este projeto resolve uma dor real das instituições de ensino: o tempo gasto por professores e coordenadores cruzando notas manuais no fim do bimestre. O sistema valida dados de desempenho, filtra alunos abaixo da média usando Pandas e utiliza Inteligência Artificial para gerar um diagnóstico pedagógico humanizado, exportando tudo em uma planilha Excel formatada e pronta para tomada de decisão.
