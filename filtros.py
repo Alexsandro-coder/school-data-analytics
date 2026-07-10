@@ -12,9 +12,17 @@ def visualizar_bimestres_disponiveis(df_recuperacao):
     print('Bimestres disponíveis:')
     for i, b in enumerate(bimestres, 1):
         print(f"[{i}] {b}")
-
-    escolha = int(input('Qual bimestre deseja ver? '))
-    bimestre_escolhido = bimestres[escolha - 1]
+    bimestre_escolhido = ''
+    while True:
+        try:
+            escolha = int(input('Qual bimestre deseja ver? '))
+            if escolha <= len(bimestres):
+                bimestre_escolhido = bimestres[escolha - 1]
+                break
+            else:
+                print(f"Opção inválida. Digite um número entre 1 e {len(bimestres)}.")
+        except ValueError:
+            'Digite apenas o numero correspondente'
     return bimestre_escolhido
 
 def relatorio_pronto(bimestre_escolhido,df_recuperacao):
