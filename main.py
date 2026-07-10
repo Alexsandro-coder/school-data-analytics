@@ -1,4 +1,5 @@
 import pandas as pd
+pd.set_option('display.max_columns', None)
 import filtros as fl
 df = pd.read_csv('alunos_fake_projeto.csv')
 # Visualização original dos dados
@@ -14,3 +15,4 @@ bimestre_escolhido = fl.visualizar_bimestres_disponiveis(df_recuperacao)
 relatorio = fl.relatorio_pronto(bimestre_escolhido,df_recuperacao)
 
 print(relatorio)
+print(fl.relatorio_de_risco(relatorio))

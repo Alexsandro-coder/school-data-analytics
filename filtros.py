@@ -34,3 +34,20 @@ def relatorio_pronto(bimestre_escolhido,df_recuperacao):
     print(f'\nTotal de alunos em recuperação: {len(relatorio["nome"].unique())}')
     print('\n--- Lista de Alunos em Recuperação ---')
     return relatorio
+
+# Função Auxiliar
+def definir_grau_alerta(total):
+    if total <= 2:
+        return "Básico"
+    elif total <= 4:
+        return "Intermediário"
+    else:
+        return "Crítico"
+
+def relatorio_de_risco(relatorio):
+    # Agrupa por aluno, junta as matérias em texto e conta o total delas
+    df_risco = (relatorio.groupby('nome').agg(
+        materias=('materia', lambda x: ', '.join(x.unique())),
+        total_materias=('materia', 'count')).reset_index())
+    df_risco['risco'] = df_risco['total_materias'].apply(definir_grau_alerta)
+    return df_risco
