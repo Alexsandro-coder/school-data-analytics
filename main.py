@@ -7,14 +7,8 @@ print(df.head())
 # Chama a função de filtro definida para a recuperação
 df_recuperacao = fl.preparar_dados_recuperacao(df)
 
-# Filtro por bimestre
-bimestres = df_recuperacao['fase de nota'].unique()
-print('Bimestres disponíveis:')
-for i, b in enumerate(bimestres, 1):
-    print(f"[{i}] {b}")
-
-escolha = int(input('Qual bimestre deseja ver? '))
-bimestre_escolhido = bimestres[escolha - 1]
+# Chama a função de filtro definida para verificar os bimestres
+bimestre_escolhido = fl.visualizar_bimestres_disponiveis(df_recuperacao)
 
 # formatação do relatorio
 relatorio = df_recuperacao[df_recuperacao['fase de nota'] == bimestre_escolhido][['matricula', 'nome', 'materia','fase de nota', 'nota da fase']]

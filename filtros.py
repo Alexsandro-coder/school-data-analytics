@@ -5,3 +5,14 @@ def preparar_dados_recuperacao(df, nota_corte=6.0):
     df_recuperacao['nome'] = df_recuperacao['nome'].str.title()
     df_recuperacao = df_recuperacao.sort_values('nome')
     return df_recuperacao
+
+def visualizar_bimestres_disponiveis(df_recuperacao):
+    # Filtro por bimestre
+    bimestres = df_recuperacao['fase de nota'].unique()
+    print('Bimestres disponíveis:')
+    for i, b in enumerate(bimestres, 1):
+        print(f"[{i}] {b}")
+
+    escolha = int(input('Qual bimestre deseja ver? '))
+    bimestre_escolhido = bimestres[escolha - 1]
+    return bimestre_escolhido
