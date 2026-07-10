@@ -16,3 +16,13 @@ def visualizar_bimestres_disponiveis(df_recuperacao):
     escolha = int(input('Qual bimestre deseja ver? '))
     bimestre_escolhido = bimestres[escolha - 1]
     return bimestre_escolhido
+
+def relatorio_pronto(bimestre_escolhido,df_recuperacao):
+    # formatação do relatorio
+    relatorio = df_recuperacao[df_recuperacao['fase de nota'] == bimestre_escolhido][
+        ['matricula', 'nome', 'materia', 'fase de nota', 'nota da fase']]
+
+    # Mostrar quantos alunos ficaram de recuperação
+    print(f'\nTotal de alunos em recuperação: {len(relatorio["nome"].unique())}')
+    print('\n--- Lista de Alunos em Recuperação ---')
+    return relatorio
