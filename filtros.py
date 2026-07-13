@@ -25,3 +25,10 @@ def visualizar_bimestres_disponiveis(df_recuperacao):
             print('Digite apenas o numero correspondente')
     return bimestre_escolhido
 
+def definir_grau_alerta(total):
+    if total <= 2:
+        return 'Baixo'
+    elif total <= 4:
+        return 'Medio'
+    else:
+        return 'Alto'
