@@ -27,8 +27,8 @@ def visualizar_bimestres_disponiveis(df_recuperacao):
 
 def definir_grau_alerta(total):
     if total <= 2:
-        return 'Baixo'
+        return 'LEVE 🟢'
     elif total <= 4:
-        return 'Medio'
+        return 'ATENÇÃO 🟡'
     else:
-        return 'Alto'
+        return 'LEVE 🟢'

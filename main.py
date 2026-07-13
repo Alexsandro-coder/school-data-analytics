@@ -14,6 +14,7 @@ bimestre_escolhido = fl.visualizar_bimestres_disponiveis(df_recuperacao)
 # Chama a função de filtro definida para retornar um relatorio pronto
 relatorio = rl.relatorio_pronto(bimestre_escolhido,df_recuperacao)
 
+# Chama a função de filtro definida para retornar o relatorio de criticidade
 df_criticidade = rl.relatorio_de_criticidade(relatorio)
 
 print(relatorio)

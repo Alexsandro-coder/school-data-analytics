@@ -16,7 +16,7 @@ def relatorio_de_criticidade(relatorio):
         materias=('materia', lambda x: ', '.join(x.unique())),
         total_materias=('materia', 'count')
     ).reset_index()
-
+    # Cria um grau de riso com base na quantidade de matérias de recuperação
     df_criticidade['risco'] = df_criticidade['total_materias'].apply(definir_grau_alerta)
 
     colunas_desejadas = ['matricula', 'nome', 'materias', 'total_materias', 'risco']
