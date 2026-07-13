@@ -6,7 +6,7 @@ def preparar_dados_recuperacao(df, nota_corte=6.0):
     df_recuperacao = df_recuperacao.sort_values('nome')
     return df_recuperacao
 
-def visualizar_bimestres_disponiveis(df_recuperacao):
+def visualizar_bimestres(df_recuperacao):
     # Filtro por bimestre
     bimestres = df_recuperacao['fase de nota'].unique()
 
@@ -44,8 +44,6 @@ def comparar_bimestres(bimestre_escolhido, df_recuperacao):
 
     print('Bimestres disponíveis:')
     for i, b in enumerate(bimestre_disponiveis, 1):
-        if b == bimestre_escolhido:
-            continue
         print(f"[{i}] {b}")
 
     bimestre_escolhido2 = ''

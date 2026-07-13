@@ -22,3 +22,5 @@ def relatorio_de_criticidade(relatorio):
     colunas_desejadas = ['matricula', 'nome', 'materias', 'total_materias', 'risco']
 
     return df_criticidade[colunas_desejadas]
+
+def relatorio_de_comparacao(df_criticidade,df_criticidade2):

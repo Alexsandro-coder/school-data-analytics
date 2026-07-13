@@ -10,7 +10,7 @@ print(df.head())
 df_recuperacao = fl.preparar_dados_recuperacao(df)
 
 # Chama a função de filtro definida para verificar os bimestres
-bimestre_escolhido = fl.visualizar_bimestres_disponiveis(df_recuperacao)
+bimestre_escolhido = fl.visualizar_bimestres(df_recuperacao)
 
 # Chama a função de filtro definida para retornar um relatorio pronto
 relatorio = rl.relatorio_pronto(bimestre_escolhido,df_recuperacao)
@@ -18,7 +18,10 @@ relatorio = rl.relatorio_pronto(bimestre_escolhido,df_recuperacao)
 # Chama a função de filtro definida para retornar o relatorio de criticidade
 df_criticidade = rl.relatorio_de_criticidade(relatorio)
 
+bimestre_escolhido2 = fl.comparar_bimestres(bimestre_escolhido,df_recuperacao)
+relatorio2 = rl.relatorio_pronto(bimestre_escolhido2,df_recuperacao)
+df_criticidade2 = rl.relatorio_de_criticidade(relatorio2)
+
 print(relatorio)
 print(df_criticidade)
 gf.grafico_de_criticidade(df_criticidade)
-print(fl.comparar_bimestres(bimestre_escolhido,df_recuperacao))
