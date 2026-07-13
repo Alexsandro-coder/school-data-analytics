@@ -16,7 +16,8 @@ def visualizar_bimestres_disponiveis(df_recuperacao):
     while True:
         try:
             escolha = int(input('Qual bimestre deseja ver? '))
-            if escolha <= len(bimestres):
+            # Proteção contra o usuário
+            if 1 <= escolha <= len(bimestres):
                 bimestre_escolhido = bimestres[escolha - 1]
                 break
             else:
@@ -27,8 +28,8 @@ def visualizar_bimestres_disponiveis(df_recuperacao):
 
 def definir_grau_alerta(total):
     if total <= 2:
-        return 'LEVE 🟢'
+        return 'LEVE'
     elif total <= 4:
-        return 'ATENÇÃO 🟡'
+        return 'ATENÇÃO'
     else:
-        return 'LEVE 🟢'
+        return 'CRÍTICO'

@@ -1,6 +1,7 @@
 import pandas as pd
 import filtros as fl
 import relatorios as rl
+import graficos as gf
 df = pd.read_csv('alunos_fake_projeto.csv')
 # Visualização original dos dados
 print(df.head())
@@ -19,3 +20,4 @@ df_criticidade = rl.relatorio_de_criticidade(relatorio)
 
 print(relatorio)
 print(df_criticidade)
+gf.grafico_de_criticidade(df_criticidade)
