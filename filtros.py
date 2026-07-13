@@ -22,15 +22,6 @@ def visualizar_bimestres_disponiveis(df_recuperacao):
             else:
                 print(f"Opção inválida. Digite um número entre 1 e {len(bimestres)}.")
         except ValueError:
-            'Digite apenas o numero correspondente'
+            print('Digite apenas o numero correspondente')
     return bimestre_escolhido
 
-def relatorio_pronto(bimestre_escolhido,df_recuperacao):
-    # formatação do relatorio
-    relatorio = df_recuperacao[df_recuperacao['fase de nota'] == bimestre_escolhido][
-        ['matricula', 'nome', 'materia', 'fase de nota', 'nota da fase']]
-
-    # Mostrar quantos alunos ficaram de recuperação
-    print(f'\nTotal de alunos em recuperação: {len(relatorio["nome"].unique())}')
-    print('\n--- Lista de Alunos em Recuperação ---')
-    return relatorio

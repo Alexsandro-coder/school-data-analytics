@@ -1,5 +1,6 @@
 import pandas as pd
 import filtros as fl
+import relatorios as rl
 df = pd.read_csv('alunos_fake_projeto.csv')
 # Visualização original dos dados
 print(df.head())
@@ -11,6 +12,6 @@ df_recuperacao = fl.preparar_dados_recuperacao(df)
 bimestre_escolhido = fl.visualizar_bimestres_disponiveis(df_recuperacao)
 
 # Chama a função de filtro definida para retornar um relatorio pronto
-relatorio = fl.relatorio_pronto(bimestre_escolhido,df_recuperacao)
+relatorio = rl.relatorio_pronto(bimestre_escolhido,df_recuperacao)
 
 print(relatorio)
