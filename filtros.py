@@ -16,7 +16,7 @@ def visualizar_bimestres(df_recuperacao):
     bimestre_escolhido = ''
     while True:
         try:
-            escolha = int(input('Qual bimestre deseja ver? '))
+            escolha = int(input('Escolha entre as opções disponíveis: '))
             # Proteção contra o usuário
             if 1 <= escolha <= len(bimestres):
                 bimestre_escolhido = bimestres[escolha - 1]
@@ -24,7 +24,7 @@ def visualizar_bimestres(df_recuperacao):
             else:
                 print(f"Opção inválida. Digite um número entre 1 e {len(bimestres)}.")
         except ValueError:
-            print('Digite apenas o numero correspondente')
+            print('Digite apenas o numero correspondente: ')
     return bimestre_escolhido
 
 def definir_grau_alerta(total):
@@ -49,7 +49,7 @@ def comparar_bimestres(bimestre_escolhido, df_recuperacao):
     bimestre_escolhido2 = ''
     while True:
         try:
-            escolha = int(input('Qual bimestre deseja comparar? '))
+            escolha = int(input('Qual bimestre deseja comparar: '))
             # Proteção contra o usuário
             if 1 <= escolha <= len(bimestre_disponiveis):
                 bimestre_escolhido2 = bimestre_disponiveis[escolha - 1]

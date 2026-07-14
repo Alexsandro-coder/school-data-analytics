@@ -2,26 +2,52 @@ import pandas as pd
 import filtros as fl
 import relatorios as rl
 import graficos as gf
+
+def relatorio(bimestre_escolhido,df_recuperacao, gerar_criticidade=False):
+    df_relatorio = rl.relatorio_pronto(bimestre_escolhido,df_recuperacao)
+    if gerar_criticidade == True:
+        df_criticidade = rl.relatorio_de_criticidade(df_relatorio)
+        return df_relatorio, df_criticidade
+    return df_relatorio
+
 df = pd.read_csv('alunos_fake_projeto.csv')
 # Visualização original dos dados
 print(df.head())
 
 # Chama a função de filtro definida para a recuperação
 df_recuperacao = fl.preparar_dados_recuperacao(df)
+try:
+    print('Qual bimestre gostaria de gerar um relatorio?')
+    # Chama a função de filtro definida para verificar os bimestres
+    bimestre_escolhido = fl.visualizar_bimestres(df_recuperacao)
+    resp = str(input('Gostaria de um relatorio de criticidade do bimestre escolhido? '
+                     '[S/N]:'))
+    if resp == 'S':
+        gerar_criticidade = True
+        # Guardamos os dois retornos da função!
+        df_rel, df_crit = (relatorio(bimestre_escolhido, df_recuperacao, gerar_criticidade))
+        print('\n--- Relatório principal ---')
+        print(df_rel)
+        print('\n--- Relatório de criticidade ---')
+        print(df_crit)
 
-# Chama a função de filtro definida para verificar os bimestres
-bimestre_escolhido = fl.visualizar_bimestres(df_recuperacao)
+        resp = str(input('Gostaria de comparar o relatorio de criticidade com outro bimestre ou gerar um grafico?'
+                         '\n [1] Comparar bimestres'
+                         '\n [2] Gerar um grafico'))
+        if resp == '1':
+            gerar_criticidade = True
+            bimestre_de_comparacao = fl.comparar_bimestres(bimestre_escolhido, df_recuperacao)
+            # Buscamos o relatório do outro bimestre também com criticidade!
+            df_rel_comp, df_crit_comp = relatorio(bimestre_de_comparacao, df_recuperacao, gerar_criticidade)
+            print('\n--- Criticidade bimestre comparado ---')
+            print(df_crit_comp)
+        elif resp == '2':
+            gf.grafico_de_criticidade(df_crit)
 
-# Chama a função de filtro definida para retornar um relatorio pronto
-relatorio = rl.relatorio_pronto(bimestre_escolhido,df_recuperacao)
-
-# Chama a função de filtro definida para retornar o relatorio de criticidade
-df_criticidade = rl.relatorio_de_criticidade(relatorio)
-
-bimestre_escolhido2 = fl.comparar_bimestres(bimestre_escolhido,df_recuperacao)
-relatorio2 = rl.relatorio_pronto(bimestre_escolhido2,df_recuperacao)
-df_criticidade2 = rl.relatorio_de_criticidade(relatorio2)
-
-print(relatorio)
-print(df_criticidade)
-gf.grafico_de_criticidade(df_criticidade)
+    else:
+        gerar_criticidade = False
+        df_rel = relatorio(bimestre_escolhido, df_recuperacao, gerar_criticidade)
+        print('\n--- Relatório Principal ---')
+        print(df_rel)
+except Exception as e:
+    print(f"Ocorreu um erro: {e}")

@@ -23,4 +23,3 @@ def relatorio_de_criticidade(relatorio):
 
     return df_criticidade[colunas_desejadas]
 
-def relatorio_de_comparacao(df_criticidade,df_criticidade2):
