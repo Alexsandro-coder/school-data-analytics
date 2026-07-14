@@ -1,3 +1,9 @@
+"""
+Sistema de Análise e Diagnóstico de Desempenho Escolar
+Projeto: school-data-analytics
+Função principal: Processa dados de alunos, gera relatórios de recuperação,
+criticidade, compara bimestres e cria visualizações.
+"""
 import pandas as pd
 import filtros as fl
 import relatorios as rl
@@ -20,8 +26,11 @@ try:
     print('Qual bimestre gostaria de gerar um relatorio?')
     # Chama a função de filtro definida para verificar os bimestres
     bimestre_escolhido = fl.visualizar_bimestres(df_recuperacao)
-    resp = str(input('Gostaria de um relatorio de criticidade do bimestre escolhido? '
-                     '[S/N]:'))
+    while True:
+        resp = str(input('Gostaria de um relatorio de criticidade do bimestre escolhido? [S/N]:')).upper().strip()
+        if resp in ['S', 'N']:
+            break
+        print('Opção inválida! Digite S ou N.')
     if resp == 'S':
         gerar_criticidade = True
         # Guardamos os dois retornos da função!
@@ -30,10 +39,13 @@ try:
         print(df_rel)
         print('\n--- Relatório de criticidade ---')
         print(df_crit)
-
-        resp = str(input('Gostaria de comparar o relatorio de criticidade com outro bimestre ou gerar um grafico?'
-                         '\n [1] Comparar bimestres'
-                         '\n [2] Gerar um grafico'))
+        while True:
+            resp = str(input('Gostaria de comparar o relatorio de criticidade com outro bimestre ou gerar um grafico?'
+                             '\n [1] Comparar bimestres'
+                             '\n [2] Gerar um grafico')).upper().strip()
+            if resp in ['1', '2']:
+                break
+            print('Opção inválida!.')
         if resp == '1':
             gerar_criticidade = True
             bimestre_de_comparacao = fl.comparar_bimestres(bimestre_escolhido, df_recuperacao)
