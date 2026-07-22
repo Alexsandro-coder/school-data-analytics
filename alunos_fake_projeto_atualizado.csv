@@ -1,0 +1,1921 @@
+matricula,nome,materia,fase de nota,av1,av2,nl,nota da fase
+2026001,maria santos 34,ARTE,1 bimestre,7.0,8.6,2.0,8.0
+2026001,maria santos 34,ARTE,2 bimestre,8.2,9.6,1.0,8.5
+2026001,maria santos 34,CIÊNCIAS,1 bimestre,7.1,9.8,0.0,7.7
+2026001,maria santos 34,CIÊNCIAS,2 bimestre,5.9,6.5,1.4,6.3
+2026001,maria santos 34,COOPERATIVISMO,1 bimestre,7.8,3.6,1.4,5.8
+2026001,maria santos 34,COOPERATIVISMO,2 bimestre,7.8,7.3,1.9,7.7
+2026001,maria santos 34,EDUCAÇÃO FÍSICA,1 bimestre,9.1,9.4,1.5,9.1
+2026001,maria santos 34,EDUCAÇÃO FÍSICA,2 bimestre,5.8,4.0,0.8,4.8
+2026001,maria santos 34,FILOSOFIA,1 bimestre,5.1,3.8,0.8,4.4
+2026001,maria santos 34,FILOSOFIA,2 bimestre,7.1,5.1,0.0,5.5
+2026001,maria santos 34,GEOGRAFIA,1 bimestre,8.3,3.8,1.9,6.4
+2026001,maria santos 34,GEOGRAFIA,2 bimestre,8.9,8.9,0.6,8.4
+2026001,maria santos 34,HISTÓRIA,1 bimestre,8.5,3.8,1.6,6.3
+2026001,maria santos 34,HISTÓRIA,2 bimestre,9.3,4.2,1.9,7.0
+2026001,maria santos 34,MATEMÁTICA,1 bimestre,3.7,6.4,0.4,4.8
+2026001,maria santos 34,MATEMÁTICA,2 bimestre,3.2,7.8,0.1,5.0
+2026002,julia lima 89,ARTE,1 bimestre,3.1,5.8,1.2,4.6
+2026002,julia lima 89,ARTE,2 bimestre,9.9,3.3,1.4,6.6
+2026002,julia lima 89,CIÊNCIAS,1 bimestre,8.4,6.6,0.5,7.0
+2026002,julia lima 89,CIÊNCIAS,2 bimestre,4.2,3.3,0.3,3.5
+2026002,julia lima 89,COOPERATIVISMO,1 bimestre,4.4,4.0,0.8,4.2
+2026002,julia lima 89,COOPERATIVISMO,2 bimestre,5.1,7.9,1.8,6.7
+2026002,julia lima 89,EDUCAÇÃO FÍSICA,1 bimestre,4.5,3.4,0.4,3.8
+2026002,julia lima 89,EDUCAÇÃO FÍSICA,2 bimestre,3.5,7.2,1.1,5.4
+2026002,julia lima 89,FILOSOFIA,1 bimestre,4.0,7.6,1.3,5.9
+2026002,julia lima 89,FILOSOFIA,2 bimestre,9.9,8.5,1.9,9.2
+2026002,julia lima 89,GEOGRAFIA,1 bimestre,7.7,3.1,0.3,5.0
+2026002,julia lima 89,GEOGRAFIA,2 bimestre,6.3,3.6,1.5,5.2
+2026002,julia lima 89,HISTÓRIA,1 bimestre,7.4,8.3,1.1,7.6
+2026002,julia lima 89,HISTÓRIA,2 bimestre,3.8,9.0,0.4,6.0
+2026002,julia lima 89,MATEMÁTICA,1 bimestre,7.2,6.4,1.6,6.9
+2026002,julia lima 89,MATEMÁTICA,2 bimestre,3.4,6.0,0.1,4.3
+2026003,pedro souza 97,ARTE,1 bimestre,4.3,5.5,1.9,5.3
+2026003,pedro souza 97,ARTE,2 bimestre,5.0,9.9,1.6,7.5
+2026003,pedro souza 97,CIÊNCIAS,1 bimestre,8.7,9.3,0.8,8.5
+2026003,pedro souza 97,CIÊNCIAS,2 bimestre,7.2,6.4,1.6,6.9
+2026003,pedro souza 97,COOPERATIVISMO,1 bimestre,3.2,3.9,0.2,3.3
+2026003,pedro souza 97,COOPERATIVISMO,2 bimestre,8.9,5.7,0.3,6.8
+2026003,pedro souza 97,EDUCAÇÃO FÍSICA,1 bimestre,9.8,8.2,0.7,8.5
+2026003,pedro souza 97,EDUCAÇÃO FÍSICA,2 bimestre,10.0,9.7,0.5,9.2
+2026003,pedro souza 97,FILOSOFIA,1 bimestre,5.6,7.6,1.6,6.7
+2026003,pedro souza 97,FILOSOFIA,2 bimestre,4.3,3.9,1.9,4.6
+2026003,pedro souza 97,GEOGRAFIA,1 bimestre,8.7,3.9,1.5,6.4
+2026003,pedro souza 97,GEOGRAFIA,2 bimestre,9.2,8.4,1.0,8.5
+2026003,pedro souza 97,HISTÓRIA,1 bimestre,6.9,8.1,1.8,7.6
+2026003,pedro souza 97,HISTÓRIA,2 bimestre,3.2,7.1,1.2,5.2
+2026003,pedro souza 97,MATEMÁTICA,1 bimestre,8.0,9.4,1.9,8.8
+2026003,pedro souza 97,MATEMÁTICA,2 bimestre,3.1,8.4,1.9,6.1
+2026004,JOÃO SILVA 52,ARTE,1 bimestre,6.4,3.3,1.1,4.9
+2026004,JOÃO SILVA 52,ARTE,2 bimestre,9.3,6.8,1.2,7.9
+2026004,JOÃO SILVA 52,CIÊNCIAS,1 bimestre,8.6,6.3,0.2,6.9
+2026004,JOÃO SILVA 52,CIÊNCIAS,2 bimestre,8.9,3.6,0.7,6.0
+2026004,JOÃO SILVA 52,COOPERATIVISMO,1 bimestre,7.1,3.6,1.6,5.6
+2026004,JOÃO SILVA 52,COOPERATIVISMO,2 bimestre,6.0,8.7,1.1,7.2
+2026004,JOÃO SILVA 52,EDUCAÇÃO FÍSICA,1 bimestre,4.4,7.3,1.7,6.1
+2026004,JOÃO SILVA 52,EDUCAÇÃO FÍSICA,2 bimestre,9.7,8.7,1.4,9.0
+2026004,JOÃO SILVA 52,FILOSOFIA,1 bimestre,6.5,6.1,1.0,6.2
+2026004,JOÃO SILVA 52,FILOSOFIA,2 bimestre,4.8,5.5,1.2,5.2
+2026004,JOÃO SILVA 52,GEOGRAFIA,1 bimestre,7.9,8.6,0.5,7.7
+2026004,JOÃO SILVA 52,GEOGRAFIA,2 bimestre,7.9,3.7,1.4,5.9
+2026004,JOÃO SILVA 52,HISTÓRIA,1 bimestre,8.1,7.4,1.8,7.9
+2026004,JOÃO SILVA 52,HISTÓRIA,2 bimestre,8.3,3.2,0.9,5.6
+2026004,JOÃO SILVA 52,MATEMÁTICA,1 bimestre,3.7,9.4,1.7,6.7
+2026004,JOÃO SILVA 52,MATEMÁTICA,2 bimestre,7.5,3.6,1.2,5.6
+2026005,lucas oliveira 88,ARTE,1 bimestre,7.6,5.0,1.0,6.2
+2026005,lucas oliveira 88,ARTE,2 bimestre,6.9,7.2,0.5,6.6
+2026005,lucas oliveira 88,CIÊNCIAS,1 bimestre,9.5,5.8,0.7,7.3
+2026005,lucas oliveira 88,CIÊNCIAS,2 bimestre,6.0,7.5,1.1,6.6
+2026005,lucas oliveira 88,COOPERATIVISMO,1 bimestre,5.9,4.1,1.2,5.1
+2026005,lucas oliveira 88,COOPERATIVISMO,2 bimestre,7.9,4.9,1.2,6.4
+2026005,lucas oliveira 88,EDUCAÇÃO FÍSICA,1 bimestre,5.3,8.5,0.2,6.4
+2026005,lucas oliveira 88,EDUCAÇÃO FÍSICA,2 bimestre,7.0,9.8,1.1,8.1
+2026005,lucas oliveira 88,FILOSOFIA,1 bimestre,5.5,4.3,2.0,5.4
+2026005,lucas oliveira 88,FILOSOFIA,2 bimestre,5.3,8.8,0.8,6.8
+2026005,lucas oliveira 88,GEOGRAFIA,1 bimestre,5.3,8.0,1.8,6.9
+2026005,lucas oliveira 88,GEOGRAFIA,2 bimestre,4.6,4.9,1.3,4.9
+2026005,lucas oliveira 88,HISTÓRIA,1 bimestre,5.3,8.5,1.9,7.1
+2026005,lucas oliveira 88,HISTÓRIA,2 bimestre,7.6,8.4,0.4,7.5
+2026005,lucas oliveira 88,MATEMÁTICA,1 bimestre,6.5,9.4,1.6,8.0
+2026005,lucas oliveira 88,MATEMÁTICA,2 bimestre,6.0,6.8,1.4,6.5
+2026006,BEATRIZ PEREIRA 40,ARTE,1 bimestre,6.8,5.8,1.7,6.5
+2026006,BEATRIZ PEREIRA 40,ARTE,2 bimestre,3.6,6.6,1.4,5.3
+2026006,BEATRIZ PEREIRA 40,CIÊNCIAS,1 bimestre,10.0,7.1,1.3,8.4
+2026006,BEATRIZ PEREIRA 40,CIÊNCIAS,2 bimestre,7.9,6.3,0.9,6.9
+2026006,BEATRIZ PEREIRA 40,COOPERATIVISMO,1 bimestre,8.1,9.0,1.4,8.4
+2026006,BEATRIZ PEREIRA 40,COOPERATIVISMO,2 bimestre,3.3,3.7,1.2,3.7
+2026006,BEATRIZ PEREIRA 40,EDUCAÇÃO FÍSICA,1 bimestre,6.6,3.9,1.5,5.5
+2026006,BEATRIZ PEREIRA 40,EDUCAÇÃO FÍSICA,2 bimestre,8.3,4.9,1.0,6.5
+2026006,BEATRIZ PEREIRA 40,FILOSOFIA,1 bimestre,8.2,7.1,2.0,7.9
+2026006,BEATRIZ PEREIRA 40,FILOSOFIA,2 bimestre,4.2,4.3,1.4,4.5
+2026006,BEATRIZ PEREIRA 40,GEOGRAFIA,1 bimestre,8.0,7.7,0.0,7.1
+2026006,BEATRIZ PEREIRA 40,GEOGRAFIA,2 bimestre,8.2,5.9,0.2,6.5
+2026006,BEATRIZ PEREIRA 40,HISTÓRIA,1 bimestre,8.4,5.9,1.5,7.2
+2026006,BEATRIZ PEREIRA 40,HISTÓRIA,2 bimestre,7.3,4.5,0.1,5.4
+2026006,BEATRIZ PEREIRA 40,MATEMÁTICA,1 bimestre,5.3,4.1,1.5,5.0
+2026006,BEATRIZ PEREIRA 40,MATEMÁTICA,2 bimestre,6.0,4.8,0.7,5.2
+2026007,beatriz pereira 91,ARTE,1 bimestre,8.4,7.5,1.0,7.7
+2026007,beatriz pereira 91,ARTE,2 bimestre,6.3,6.3,1.4,6.4
+2026007,beatriz pereira 91,CIÊNCIAS,1 bimestre,4.2,8.3,1.7,6.5
+2026007,beatriz pereira 91,CIÊNCIAS,2 bimestre,6.9,4.7,0.0,5.3
+2026007,beatriz pereira 91,COOPERATIVISMO,1 bimestre,4.7,9.7,1.1,7.0
+2026007,beatriz pereira 91,COOPERATIVISMO,2 bimestre,6.8,5.5,1.7,6.4
+2026007,beatriz pereira 91,EDUCAÇÃO FÍSICA,1 bimestre,3.5,4.0,0.5,3.6
+2026007,beatriz pereira 91,EDUCAÇÃO FÍSICA,2 bimestre,4.6,9.1,0.9,6.6
+2026007,beatriz pereira 91,FILOSOFIA,1 bimestre,6.7,7.6,0.2,6.6
+2026007,beatriz pereira 91,FILOSOFIA,2 bimestre,3.0,5.3,1.2,4.3
+2026007,beatriz pereira 91,GEOGRAFIA,1 bimestre,6.0,9.9,0.7,7.5
+2026007,beatriz pereira 91,GEOGRAFIA,2 bimestre,3.9,9.5,1.6,6.8
+2026007,beatriz pereira 91,HISTÓRIA,1 bimestre,9.6,9.1,1.2,9.0
+2026007,beatriz pereira 91,HISTÓRIA,2 bimestre,9.6,7.1,1.2,8.1
+2026007,beatriz pereira 91,MATEMÁTICA,1 bimestre,9.1,7.1,1.4,8.0
+2026007,beatriz pereira 91,MATEMÁTICA,2 bimestre,8.1,7.3,1.1,7.5
+2026008,marcos costa 85,ARTE,1 bimestre,5.4,6.7,1.5,6.2
+2026008,marcos costa 85,ARTE,2 bimestre,5.3,7.6,1.0,6.3
+2026008,marcos costa 85,CIÊNCIAS,1 bimestre,8.5,6.0,1.8,7.4
+2026008,marcos costa 85,CIÊNCIAS,2 bimestre,3.8,8.2,0.8,5.8
+2026008,marcos costa 85,COOPERATIVISMO,1 bimestre,9.2,8.6,1.3,8.7
+2026008,marcos costa 85,COOPERATIVISMO,2 bimestre,9.1,9.8,1.2,9.1
+2026008,marcos costa 85,EDUCAÇÃO FÍSICA,1 bimestre,5.3,4.5,0.9,4.9
+2026008,marcos costa 85,EDUCAÇÃO FÍSICA,2 bimestre,7.5,6.6,0.4,6.6
+2026008,marcos costa 85,FILOSOFIA,1 bimestre,4.0,9.4,1.7,6.9
+2026008,marcos costa 85,FILOSOFIA,2 bimestre,3.4,7.9,0.8,5.5
+2026008,marcos costa 85,GEOGRAFIA,1 bimestre,5.4,7.3,1.0,6.2
+2026008,marcos costa 85,GEOGRAFIA,2 bimestre,4.8,4.4,0.7,4.5
+2026008,marcos costa 85,HISTÓRIA,1 bimestre,4.6,3.6,2.0,4.6
+2026008,marcos costa 85,HISTÓRIA,2 bimestre,4.8,5.6,1.2,5.3
+2026008,marcos costa 85,MATEMÁTICA,1 bimestre,6.5,5.6,0.1,5.5
+2026008,marcos costa 85,MATEMÁTICA,2 bimestre,3.3,6.0,0.5,4.5
+2026009,beatriz pereira 22,ARTE,1 bimestre,7.9,9.3,1.3,8.4
+2026009,beatriz pereira 22,ARTE,2 bimestre,6.0,8.8,1.2,7.3
+2026009,beatriz pereira 22,CIÊNCIAS,1 bimestre,8.4,3.0,1.7,6.0
+2026009,beatriz pereira 22,CIÊNCIAS,2 bimestre,5.4,5.4,1.2,5.5
+2026009,beatriz pereira 22,COOPERATIVISMO,1 bimestre,4.4,5.4,1.2,5.0
+2026009,beatriz pereira 22,COOPERATIVISMO,2 bimestre,6.7,8.4,1.4,7.5
+2026009,beatriz pereira 22,EDUCAÇÃO FÍSICA,1 bimestre,9.9,7.0,0.1,7.7
+2026009,beatriz pereira 22,EDUCAÇÃO FÍSICA,2 bimestre,9.0,8.2,0.1,7.9
+2026009,beatriz pereira 22,FILOSOFIA,1 bimestre,8.7,8.9,1.9,8.9
+2026009,beatriz pereira 22,FILOSOFIA,2 bimestre,7.2,9.2,1.4,8.1
+2026009,beatriz pereira 22,GEOGRAFIA,1 bimestre,9.3,4.4,1.0,6.7
+2026009,beatriz pereira 22,GEOGRAFIA,2 bimestre,8.8,3.6,0.3,5.8
+2026009,beatriz pereira 22,HISTÓRIA,1 bimestre,7.6,5.8,1.5,6.8
+2026009,beatriz pereira 22,HISTÓRIA,2 bimestre,9.4,7.7,1.6,8.5
+2026009,beatriz pereira 22,MATEMÁTICA,1 bimestre,4.1,6.6,0.6,5.1
+2026009,beatriz pereira 22,MATEMÁTICA,2 bimestre,6.2,9.8,1.6,8.0
+2026010,joão silva 67,ARTE,1 bimestre,8.9,4.6,0.9,6.5
+2026010,joão silva 67,ARTE,2 bimestre,9.9,5.8,1.0,7.6
+2026010,joão silva 67,CIÊNCIAS,1 bimestre,3.7,5.8,0.1,4.4
+2026010,joão silva 67,CIÊNCIAS,2 bimestre,10.0,9.3,0.3,8.9
+2026010,joão silva 67,COOPERATIVISMO,1 bimestre,4.9,5.1,1.6,5.3
+2026010,joão silva 67,COOPERATIVISMO,2 bimestre,6.7,9.8,1.9,8.4
+2026010,joão silva 67,EDUCAÇÃO FÍSICA,1 bimestre,9.6,5.0,1.6,7.4
+2026010,joão silva 67,EDUCAÇÃO FÍSICA,2 bimestre,9.1,3.9,0.4,6.1
+2026010,joão silva 67,FILOSOFIA,1 bimestre,6.0,6.9,1.1,6.4
+2026010,joão silva 67,FILOSOFIA,2 bimestre,5.8,6.6,0.2,5.7
+2026010,joão silva 67,GEOGRAFIA,1 bimestre,6.1,5.1,0.2,5.2
+2026010,joão silva 67,GEOGRAFIA,2 bimestre,9.1,5.0,0.8,6.8
+2026010,joão silva 67,HISTÓRIA,1 bimestre,6.4,7.4,0.1,6.3
+2026010,joão silva 67,HISTÓRIA,2 bimestre,3.8,3.8,1.9,4.3
+2026010,joão silva 67,MATEMÁTICA,1 bimestre,6.9,7.6,0.7,6.9
+2026010,joão silva 67,MATEMÁTICA,2 bimestre,9.8,4.0,1.1,6.8
+2026011,PEDRO SOUZA 62,ARTE,1 bimestre,5.3,8.3,1.2,6.7
+2026011,PEDRO SOUZA 62,ARTE,2 bimestre,9.2,3.6,0.2,5.9
+2026011,PEDRO SOUZA 62,CIÊNCIAS,1 bimestre,5.8,5.9,1.3,5.9
+2026011,PEDRO SOUZA 62,CIÊNCIAS,2 bimestre,3.5,6.0,1.7,5.1
+2026011,PEDRO SOUZA 62,COOPERATIVISMO,1 bimestre,5.8,4.6,0.7,5.0
+2026011,PEDRO SOUZA 62,COOPERATIVISMO,2 bimestre,8.7,8.0,0.3,7.7
+2026011,PEDRO SOUZA 62,EDUCAÇÃO FÍSICA,1 bimestre,5.6,6.2,1.7,6.1
+2026011,PEDRO SOUZA 62,EDUCAÇÃO FÍSICA,2 bimestre,8.5,3.2,1.6,6.0
+2026011,PEDRO SOUZA 62,FILOSOFIA,1 bimestre,10.0,8.9,0.0,8.6
+2026011,PEDRO SOUZA 62,FILOSOFIA,2 bimestre,4.2,7.7,1.9,6.3
+2026011,PEDRO SOUZA 62,GEOGRAFIA,1 bimestre,5.6,9.2,1.0,7.2
+2026011,PEDRO SOUZA 62,GEOGRAFIA,2 bimestre,3.9,7.8,2.0,6.2
+2026011,PEDRO SOUZA 62,HISTÓRIA,1 bimestre,8.5,6.9,0.2,7.1
+2026011,PEDRO SOUZA 62,HISTÓRIA,2 bimestre,7.1,9.3,0.9,7.9
+2026011,PEDRO SOUZA 62,MATEMÁTICA,1 bimestre,5.4,7.9,1.5,6.7
+2026011,PEDRO SOUZA 62,MATEMÁTICA,2 bimestre,7.3,6.1,0.8,6.5
+2026012,MARCOS COSTA 36,ARTE,1 bimestre,6.9,6.2,1.3,6.5
+2026012,MARCOS COSTA 36,ARTE,2 bimestre,7.0,6.9,0.2,6.4
+2026012,MARCOS COSTA 36,CIÊNCIAS,1 bimestre,3.4,9.7,0.5,6.2
+2026012,MARCOS COSTA 36,CIÊNCIAS,2 bimestre,4.9,8.8,1.5,6.9
+2026012,MARCOS COSTA 36,COOPERATIVISMO,1 bimestre,5.3,8.0,1.2,6.6
+2026012,MARCOS COSTA 36,COOPERATIVISMO,2 bimestre,7.5,7.5,0.2,6.9
+2026012,MARCOS COSTA 36,EDUCAÇÃO FÍSICA,1 bimestre,5.7,5.9,1.5,6.0
+2026012,MARCOS COSTA 36,EDUCAÇÃO FÍSICA,2 bimestre,7.0,8.1,0.9,7.3
+2026012,MARCOS COSTA 36,FILOSOFIA,1 bimestre,5.8,4.1,0.1,4.5
+2026012,MARCOS COSTA 36,FILOSOFIA,2 bimestre,7.2,7.1,1.0,7.0
+2026012,MARCOS COSTA 36,GEOGRAFIA,1 bimestre,7.7,6.8,0.8,7.0
+2026012,MARCOS COSTA 36,GEOGRAFIA,2 bimestre,7.0,8.6,0.1,7.1
+2026012,MARCOS COSTA 36,HISTÓRIA,1 bimestre,3.8,4.0,1.7,4.3
+2026012,MARCOS COSTA 36,HISTÓRIA,2 bimestre,6.7,5.6,1.3,6.2
+2026012,MARCOS COSTA 36,MATEMÁTICA,1 bimestre,3.5,9.4,0.1,5.9
+2026012,MARCOS COSTA 36,MATEMÁTICA,2 bimestre,8.6,7.7,1.3,8.0
+2026013,LUCAS OLIVEIRA 51,ARTE,1 bimestre,6.2,9.1,0.9,7.4
+2026013,LUCAS OLIVEIRA 51,ARTE,2 bimestre,8.0,9.3,0.6,8.1
+2026013,LUCAS OLIVEIRA 51,CIÊNCIAS,1 bimestre,9.4,3.1,1.7,6.5
+2026013,LUCAS OLIVEIRA 51,CIÊNCIAS,2 bimestre,3.8,6.1,0.1,4.5
+2026013,LUCAS OLIVEIRA 51,COOPERATIVISMO,1 bimestre,7.1,9.8,1.4,8.3
+2026013,LUCAS OLIVEIRA 51,COOPERATIVISMO,2 bimestre,8.3,3.0,1.2,5.7
+2026013,LUCAS OLIVEIRA 51,EDUCAÇÃO FÍSICA,1 bimestre,6.2,8.7,0.5,7.0
+2026013,LUCAS OLIVEIRA 51,EDUCAÇÃO FÍSICA,2 bimestre,7.7,7.9,1.4,7.7
+2026013,LUCAS OLIVEIRA 51,FILOSOFIA,1 bimestre,5.4,3.5,0.9,4.5
+2026013,LUCAS OLIVEIRA 51,FILOSOFIA,2 bimestre,5.2,8.6,1.5,7.0
+2026013,LUCAS OLIVEIRA 51,GEOGRAFIA,1 bimestre,6.3,8.0,1.9,7.4
+2026013,LUCAS OLIVEIRA 51,GEOGRAFIA,2 bimestre,5.6,9.5,1.6,7.6
+2026013,LUCAS OLIVEIRA 51,HISTÓRIA,1 bimestre,8.0,8.9,0.1,7.7
+2026013,LUCAS OLIVEIRA 51,HISTÓRIA,2 bimestre,6.7,8.4,0.9,7.3
+2026013,LUCAS OLIVEIRA 51,MATEMÁTICA,1 bimestre,5.2,3.1,0.8,4.1
+2026013,LUCAS OLIVEIRA 51,MATEMÁTICA,2 bimestre,8.4,4.2,0.6,6.0
+2026014,JOÃO SILVA 17,ARTE,1 bimestre,5.3,4.3,0.8,4.7
+2026014,JOÃO SILVA 17,ARTE,2 bimestre,8.7,4.3,1.6,6.6
+2026014,JOÃO SILVA 17,CIÊNCIAS,1 bimestre,9.5,7.9,1.1,8.4
+2026014,JOÃO SILVA 17,CIÊNCIAS,2 bimestre,4.4,6.9,1.4,5.8
+2026014,JOÃO SILVA 17,COOPERATIVISMO,1 bimestre,9.7,3.8,1.8,7.0
+2026014,JOÃO SILVA 17,COOPERATIVISMO,2 bimestre,9.2,3.9,0.5,6.2
+2026014,JOÃO SILVA 17,EDUCAÇÃO FÍSICA,1 bimestre,5.8,6.3,0.9,5.9
+2026014,JOÃO SILVA 17,EDUCAÇÃO FÍSICA,2 bimestre,3.3,4.3,0.6,3.7
+2026014,JOÃO SILVA 17,FILOSOFIA,1 bimestre,6.7,8.7,1.1,7.5
+2026014,JOÃO SILVA 17,FILOSOFIA,2 bimestre,7.6,8.4,1.5,8.0
+2026014,JOÃO SILVA 17,GEOGRAFIA,1 bimestre,7.3,3.4,0.6,5.1
+2026014,JOÃO SILVA 17,GEOGRAFIA,2 bimestre,3.9,8.3,1.5,6.2
+2026014,JOÃO SILVA 17,HISTÓRIA,1 bimestre,4.2,6.7,0.1,5.0
+2026014,JOÃO SILVA 17,HISTÓRIA,2 bimestre,7.7,6.6,0.1,6.5
+2026014,JOÃO SILVA 17,MATEMÁTICA,1 bimestre,9.9,9.0,0.0,8.6
+2026014,JOÃO SILVA 17,MATEMÁTICA,2 bimestre,9.7,5.3,0.0,6.8
+2026015,lucas oliveira 64,ARTE,1 bimestre,6.0,7.3,0.6,6.3
+2026015,lucas oliveira 64,ARTE,2 bimestre,7.5,5.5,1.9,6.8
+2026015,lucas oliveira 64,CIÊNCIAS,1 bimestre,3.6,9.5,1.0,6.4
+2026015,lucas oliveira 64,CIÊNCIAS,2 bimestre,8.1,8.1,1.3,8.0
+2026015,lucas oliveira 64,COOPERATIVISMO,1 bimestre,6.2,4.5,1.9,5.7
+2026015,lucas oliveira 64,COOPERATIVISMO,2 bimestre,6.3,9.0,0.8,7.3
+2026015,lucas oliveira 64,EDUCAÇÃO FÍSICA,1 bimestre,8.1,6.6,1.0,7.1
+2026015,lucas oliveira 64,EDUCAÇÃO FÍSICA,2 bimestre,5.5,5.2,1.1,5.4
+2026015,lucas oliveira 64,FILOSOFIA,1 bimestre,4.8,9.6,1.9,7.4
+2026015,lucas oliveira 64,FILOSOFIA,2 bimestre,6.5,7.6,1.5,7.1
+2026015,lucas oliveira 64,GEOGRAFIA,1 bimestre,4.2,8.7,1.3,6.5
+2026015,lucas oliveira 64,GEOGRAFIA,2 bimestre,3.0,5.8,0.2,4.1
+2026015,lucas oliveira 64,HISTÓRIA,1 bimestre,6.9,7.1,0.5,6.6
+2026015,lucas oliveira 64,HISTÓRIA,2 bimestre,9.5,3.7,1.2,6.5
+2026015,lucas oliveira 64,MATEMÁTICA,1 bimestre,7.7,8.4,0.6,7.6
+2026015,lucas oliveira 64,MATEMÁTICA,2 bimestre,4.4,8.6,0.2,6.0
+2026016,maria santos 69,ARTE,1 bimestre,8.4,8.1,0.6,7.8
+2026016,maria santos 69,ARTE,2 bimestre,4.4,9.2,1.4,6.8
+2026016,maria santos 69,CIÊNCIAS,1 bimestre,9.5,7.6,2.0,8.7
+2026016,maria santos 69,CIÊNCIAS,2 bimestre,4.0,5.1,1.1,4.6
+2026016,maria santos 69,COOPERATIVISMO,1 bimestre,8.9,8.8,1.8,8.9
+2026016,maria santos 69,COOPERATIVISMO,2 bimestre,3.7,4.9,0.8,4.3
+2026016,maria santos 69,EDUCAÇÃO FÍSICA,1 bimestre,8.8,4.0,1.9,6.7
+2026016,maria santos 69,EDUCAÇÃO FÍSICA,2 bimestre,6.9,7.1,1.9,7.2
+2026016,maria santos 69,FILOSOFIA,1 bimestre,7.7,4.9,0.1,5.8
+2026016,maria santos 69,FILOSOFIA,2 bimestre,5.2,4.1,0.8,4.6
+2026016,maria santos 69,GEOGRAFIA,1 bimestre,8.2,8.7,1.9,8.5
+2026016,maria santos 69,GEOGRAFIA,2 bimestre,5.7,8.6,0.3,6.6
+2026016,maria santos 69,HISTÓRIA,1 bimestre,3.7,5.2,1.1,4.5
+2026016,maria santos 69,HISTÓRIA,2 bimestre,9.2,9.5,1.1,9.0
+2026016,maria santos 69,MATEMÁTICA,1 bimestre,6.9,8.8,1.4,7.8
+2026016,maria santos 69,MATEMÁTICA,2 bimestre,3.4,7.6,1.2,5.5
+2026017,JOÃO SILVA 91,ARTE,1 bimestre,9.6,3.9,0.3,6.3
+2026017,JOÃO SILVA 91,ARTE,2 bimestre,8.8,9.8,0.9,8.9
+2026017,JOÃO SILVA 91,CIÊNCIAS,1 bimestre,3.8,3.3,0.4,3.4
+2026017,JOÃO SILVA 91,CIÊNCIAS,2 bimestre,3.1,7.6,1.0,5.3
+2026017,JOÃO SILVA 91,COOPERATIVISMO,1 bimestre,4.3,9.0,1.8,6.9
+2026017,JOÃO SILVA 91,COOPERATIVISMO,2 bimestre,4.3,8.9,1.7,6.8
+2026017,JOÃO SILVA 91,EDUCAÇÃO FÍSICA,1 bimestre,6.4,8.1,1.6,7.3
+2026017,JOÃO SILVA 91,EDUCAÇÃO FÍSICA,2 bimestre,7.8,5.8,1.7,7.0
+2026017,JOÃO SILVA 91,FILOSOFIA,1 bimestre,9.8,6.5,1.6,8.1
+2026017,JOÃO SILVA 91,FILOSOFIA,2 bimestre,7.8,9.9,0.1,8.1
+2026017,JOÃO SILVA 91,GEOGRAFIA,1 bimestre,9.5,9.8,0.1,8.8
+2026017,JOÃO SILVA 91,GEOGRAFIA,2 bimestre,4.7,3.7,1.1,4.3
+2026017,JOÃO SILVA 91,HISTÓRIA,1 bimestre,3.4,9.2,0.7,6.0
+2026017,JOÃO SILVA 91,HISTÓRIA,2 bimestre,10.0,6.9,1.4,8.3
+2026017,JOÃO SILVA 91,MATEMÁTICA,1 bimestre,4.8,7.0,0.6,5.6
+2026017,JOÃO SILVA 91,MATEMÁTICA,2 bimestre,4.3,9.1,0.7,6.4
+2026018,MARCOS COSTA 56,ARTE,1 bimestre,7.0,8.9,1.0,7.7
+2026018,MARCOS COSTA 56,ARTE,2 bimestre,5.8,6.2,0.3,5.6
+2026018,MARCOS COSTA 56,CIÊNCIAS,1 bimestre,3.7,5.3,1.4,4.7
+2026018,MARCOS COSTA 56,CIÊNCIAS,2 bimestre,7.8,6.9,0.2,6.8
+2026018,MARCOS COSTA 56,COOPERATIVISMO,1 bimestre,7.1,8.3,1.3,7.6
+2026018,MARCOS COSTA 56,COOPERATIVISMO,2 bimestre,6.6,3.2,1.2,5.0
+2026018,MARCOS COSTA 56,EDUCAÇÃO FÍSICA,1 bimestre,8.0,3.0,0.8,5.4
+2026018,MARCOS COSTA 56,EDUCAÇÃO FÍSICA,2 bimestre,5.8,7.5,0.2,6.1
+2026018,MARCOS COSTA 56,FILOSOFIA,1 bimestre,3.4,4.5,0.8,4.0
+2026018,MARCOS COSTA 56,FILOSOFIA,2 bimestre,7.9,8.4,1.8,8.2
+2026018,MARCOS COSTA 56,GEOGRAFIA,1 bimestre,4.9,9.2,1.3,7.0
+2026018,MARCOS COSTA 56,GEOGRAFIA,2 bimestre,8.8,5.0,1.3,6.9
+2026018,MARCOS COSTA 56,HISTÓRIA,1 bimestre,6.0,5.3,1.7,5.9
+2026018,MARCOS COSTA 56,HISTÓRIA,2 bimestre,9.8,9.4,0.6,9.0
+2026018,MARCOS COSTA 56,MATEMÁTICA,1 bimestre,7.1,9.2,1.3,8.0
+2026018,MARCOS COSTA 56,MATEMÁTICA,2 bimestre,7.7,3.0,1.9,5.7
+2026019,MARIA SANTOS 60,ARTE,1 bimestre,3.6,8.2,1.2,5.9
+2026019,MARIA SANTOS 60,ARTE,2 bimestre,5.4,7.8,1.5,6.7
+2026019,MARIA SANTOS 60,CIÊNCIAS,1 bimestre,4.8,7.9,0.5,6.0
+2026019,MARIA SANTOS 60,CIÊNCIAS,2 bimestre,3.8,3.5,1.6,4.0
+2026019,MARIA SANTOS 60,COOPERATIVISMO,1 bimestre,9.2,8.5,1.0,8.5
+2026019,MARIA SANTOS 60,COOPERATIVISMO,2 bimestre,7.5,7.8,0.7,7.3
+2026019,MARIA SANTOS 60,EDUCAÇÃO FÍSICA,1 bimestre,6.2,6.2,0.2,5.7
+2026019,MARIA SANTOS 60,EDUCAÇÃO FÍSICA,2 bimestre,5.7,6.0,2.0,6.2
+2026019,MARIA SANTOS 60,FILOSOFIA,1 bimestre,6.5,4.8,0.6,5.4
+2026019,MARIA SANTOS 60,FILOSOFIA,2 bimestre,5.8,3.3,1.4,4.8
+2026019,MARIA SANTOS 60,GEOGRAFIA,1 bimestre,9.5,7.2,0.2,7.7
+2026019,MARIA SANTOS 60,GEOGRAFIA,2 bimestre,5.9,8.7,1.0,7.1
+2026019,MARIA SANTOS 60,HISTÓRIA,1 bimestre,6.0,3.5,0.8,4.7
+2026019,MARIA SANTOS 60,HISTÓRIA,2 bimestre,5.0,8.0,1.8,6.7
+2026019,MARIA SANTOS 60,MATEMÁTICA,1 bimestre,8.1,5.2,0.4,6.2
+2026019,MARIA SANTOS 60,MATEMÁTICA,2 bimestre,5.7,3.4,1.3,4.7
+2026020,MARCOS COSTA 32,ARTE,1 bimestre,8.6,8.8,1.4,8.5
+2026020,MARCOS COSTA 32,ARTE,2 bimestre,7.1,4.2,0.3,5.3
+2026020,MARCOS COSTA 32,CIÊNCIAS,1 bimestre,5.3,9.6,0.1,6.8
+2026020,MARCOS COSTA 32,CIÊNCIAS,2 bimestre,7.4,9.3,1.4,8.2
+2026020,MARCOS COSTA 32,COOPERATIVISMO,1 bimestre,3.9,5.5,1.2,4.8
+2026020,MARCOS COSTA 32,COOPERATIVISMO,2 bimestre,8.5,4.6,0.1,6.0
+2026020,MARCOS COSTA 32,EDUCAÇÃO FÍSICA,1 bimestre,7.9,6.2,1.3,7.0
+2026020,MARCOS COSTA 32,EDUCAÇÃO FÍSICA,2 bimestre,5.9,4.9,1.3,5.5
+2026020,MARCOS COSTA 32,FILOSOFIA,1 bimestre,3.6,7.0,1.4,5.5
+2026020,MARCOS COSTA 32,FILOSOFIA,2 bimestre,5.9,6.9,0.9,6.2
+2026020,MARCOS COSTA 32,GEOGRAFIA,1 bimestre,4.4,9.4,0.3,6.4
+2026020,MARCOS COSTA 32,GEOGRAFIA,2 bimestre,9.8,5.0,1.7,7.5
+2026020,MARCOS COSTA 32,HISTÓRIA,1 bimestre,9.8,8.5,0.6,8.6
+2026020,MARCOS COSTA 32,HISTÓRIA,2 bimestre,3.7,9.4,1.6,6.7
+2026020,MARCOS COSTA 32,MATEMÁTICA,1 bimestre,8.3,4.3,0.1,5.8
+2026020,MARCOS COSTA 32,MATEMÁTICA,2 bimestre,6.9,3.6,0.9,5.2
+2026021,lucas oliveira 9,ARTE,1 bimestre,4.6,8.7,1.6,6.8
+2026021,lucas oliveira 9,ARTE,2 bimestre,6.1,5.7,1.0,5.8
+2026021,lucas oliveira 9,CIÊNCIAS,1 bimestre,3.1,5.6,0.4,4.1
+2026021,lucas oliveira 9,CIÊNCIAS,2 bimestre,8.6,6.4,0.8,7.2
+2026021,lucas oliveira 9,COOPERATIVISMO,1 bimestre,7.0,6.4,1.7,6.9
+2026021,lucas oliveira 9,COOPERATIVISMO,2 bimestre,3.7,8.5,0.8,5.9
+2026021,lucas oliveira 9,EDUCAÇÃO FÍSICA,1 bimestre,7.8,5.8,1.3,6.8
+2026021,lucas oliveira 9,EDUCAÇÃO FÍSICA,2 bimestre,4.7,8.2,0.6,6.1
+2026021,lucas oliveira 9,FILOSOFIA,1 bimestre,7.7,9.0,0.6,7.9
+2026021,lucas oliveira 9,FILOSOFIA,2 bimestre,5.2,6.9,1.3,6.1
+2026021,lucas oliveira 9,GEOGRAFIA,1 bimestre,7.3,7.0,0.3,6.6
+2026021,lucas oliveira 9,GEOGRAFIA,2 bimestre,4.3,6.8,0.1,5.1
+2026021,lucas oliveira 9,HISTÓRIA,1 bimestre,9.0,7.6,0.1,7.6
+2026021,lucas oliveira 9,HISTÓRIA,2 bimestre,9.9,4.6,1.6,7.3
+2026021,lucas oliveira 9,MATEMÁTICA,1 bimestre,7.3,4.5,0.6,5.6
+2026021,lucas oliveira 9,MATEMÁTICA,2 bimestre,4.6,4.1,0.6,4.2
+2026022,pedro souza 67,ARTE,1 bimestre,8.5,7.1,1.7,7.9
+2026022,pedro souza 67,ARTE,2 bimestre,9.9,7.5,0.9,8.3
+2026022,pedro souza 67,CIÊNCIAS,1 bimestre,9.1,6.3,0.9,7.4
+2026022,pedro souza 67,CIÊNCIAS,2 bimestre,9.5,3.5,0.1,6.0
+2026022,pedro souza 67,COOPERATIVISMO,1 bimestre,5.1,3.6,0.7,4.3
+2026022,pedro souza 67,COOPERATIVISMO,2 bimestre,6.4,6.0,1.0,6.1
+2026022,pedro souza 67,EDUCAÇÃO FÍSICA,1 bimestre,4.8,7.2,0.7,5.8
+2026022,pedro souza 67,EDUCAÇÃO FÍSICA,2 bimestre,6.5,8.0,0.4,6.8
+2026022,pedro souza 67,FILOSOFIA,1 bimestre,4.5,7.9,0.4,5.8
+2026022,pedro souza 67,FILOSOFIA,2 bimestre,5.4,4.7,1.0,5.0
+2026022,pedro souza 67,GEOGRAFIA,1 bimestre,3.8,4.8,1.4,4.5
+2026022,pedro souza 67,GEOGRAFIA,2 bimestre,3.9,9.6,0.3,6.3
+2026022,pedro souza 67,HISTÓRIA,1 bimestre,9.0,7.1,1.7,8.1
+2026022,pedro souza 67,HISTÓRIA,2 bimestre,9.4,5.4,0.3,6.9
+2026022,pedro souza 67,MATEMÁTICA,1 bimestre,7.7,9.4,1.0,8.2
+2026022,pedro souza 67,MATEMÁTICA,2 bimestre,8.3,8.1,0.6,7.7
+2026023,ANA SANTOS,ARTE,1 bimestre,8.1,5.5,1.5,6.9
+2026023,ANA SANTOS,ARTE,2 bimestre,3.4,9.6,1.3,6.5
+2026023,ANA SANTOS,CIÊNCIAS,1 bimestre,7.0,5.8,1.7,6.6
+2026023,ANA SANTOS,CIÊNCIAS,2 bimestre,3.4,5.0,0.2,3.9
+2026023,ANA SANTOS,COOPERATIVISMO,1 bimestre,8.9,4.5,1.0,6.5
+2026023,ANA SANTOS,COOPERATIVISMO,2 bimestre,5.1,4.4,1.0,4.8
+2026023,ANA SANTOS,EDUCAÇÃO FÍSICA,1 bimestre,3.1,8.5,0.1,5.3
+2026023,ANA SANTOS,EDUCAÇÃO FÍSICA,2 bimestre,8.0,7.7,1.1,7.6
+2026023,ANA SANTOS,FILOSOFIA,1 bimestre,4.7,4.7,0.6,4.5
+2026023,ANA SANTOS,FILOSOFIA,2 bimestre,4.0,6.4,1.2,5.3
+2026023,ANA SANTOS,GEOGRAFIA,1 bimestre,3.3,5.8,0.8,4.5
+2026023,ANA SANTOS,GEOGRAFIA,2 bimestre,4.7,9.9,0.0,6.6
+2026023,ANA SANTOS,HISTÓRIA,1 bimestre,7.3,8.9,0.8,7.7
+2026023,ANA SANTOS,HISTÓRIA,2 bimestre,3.8,7.1,0.2,5.0
+2026023,ANA SANTOS,MATEMÁTICA,1 bimestre,7.4,8.1,1.6,7.8
+2026023,ANA SANTOS,MATEMÁTICA,2 bimestre,7.8,6.8,0.9,7.0
+2026024,lucas oliveira 91,ARTE,1 bimestre,6.8,4.0,1.1,5.4
+2026024,lucas oliveira 91,ARTE,2 bimestre,8.2,5.7,1.9,7.2
+2026024,lucas oliveira 91,CIÊNCIAS,1 bimestre,6.9,10.0,1.4,8.3
+2026024,lucas oliveira 91,CIÊNCIAS,2 bimestre,7.3,6.8,1.6,7.1
+2026024,lucas oliveira 91,COOPERATIVISMO,1 bimestre,5.3,3.5,1.7,4.8
+2026024,lucas oliveira 91,COOPERATIVISMO,2 bimestre,3.5,9.8,1.4,6.7
+2026024,lucas oliveira 91,EDUCAÇÃO FÍSICA,1 bimestre,3.1,8.5,2.0,6.2
+2026024,lucas oliveira 91,EDUCAÇÃO FÍSICA,2 bimestre,4.1,9.8,1.7,7.1
+2026024,lucas oliveira 91,FILOSOFIA,1 bimestre,4.9,8.1,1.4,6.5
+2026024,lucas oliveira 91,FILOSOFIA,2 bimestre,9.5,5.8,1.4,7.6
+2026024,lucas oliveira 91,GEOGRAFIA,1 bimestre,8.8,8.1,1.3,8.3
+2026024,lucas oliveira 91,GEOGRAFIA,2 bimestre,9.5,5.4,1.1,7.3
+2026024,lucas oliveira 91,HISTÓRIA,1 bimestre,4.7,4.6,0.3,4.4
+2026024,lucas oliveira 91,HISTÓRIA,2 bimestre,4.5,3.0,1.7,4.2
+2026024,lucas oliveira 91,MATEMÁTICA,1 bimestre,6.2,4.0,0.5,4.9
+2026024,lucas oliveira 91,MATEMÁTICA,2 bimestre,7.6,9.3,0.2,7.8
+2026025,BEATRIZ PEREIRA 25,ARTE,1 bimestre,9.2,9.7,0.3,8.7
+2026025,BEATRIZ PEREIRA 25,ARTE,2 bimestre,5.9,6.0,1.6,6.1
+2026025,BEATRIZ PEREIRA 25,CIÊNCIAS,1 bimestre,4.5,5.8,1.3,5.3
+2026025,BEATRIZ PEREIRA 25,CIÊNCIAS,2 bimestre,7.5,9.2,0.3,7.7
+2026025,BEATRIZ PEREIRA 25,COOPERATIVISMO,1 bimestre,3.6,8.9,1.1,6.2
+2026025,BEATRIZ PEREIRA 25,COOPERATIVISMO,2 bimestre,3.5,6.7,0.3,4.8
+2026025,BEATRIZ PEREIRA 25,EDUCAÇÃO FÍSICA,1 bimestre,7.7,4.8,0.4,5.9
+2026025,BEATRIZ PEREIRA 25,EDUCAÇÃO FÍSICA,2 bimestre,10.0,4.1,1.6,7.1
+2026025,BEATRIZ PEREIRA 25,FILOSOFIA,1 bimestre,7.3,9.8,0.1,7.8
+2026025,BEATRIZ PEREIRA 25,FILOSOFIA,2 bimestre,8.4,7.7,2.0,8.2
+2026025,BEATRIZ PEREIRA 25,GEOGRAFIA,1 bimestre,8.0,8.6,0.5,7.8
+2026025,BEATRIZ PEREIRA 25,GEOGRAFIA,2 bimestre,6.9,8.9,0.2,7.3
+2026025,BEATRIZ PEREIRA 25,HISTÓRIA,1 bimestre,7.2,3.9,1.6,5.8
+2026025,BEATRIZ PEREIRA 25,HISTÓRIA,2 bimestre,7.5,8.0,1.4,7.7
+2026025,BEATRIZ PEREIRA 25,MATEMÁTICA,1 bimestre,5.4,4.6,0.9,5.0
+2026025,BEATRIZ PEREIRA 25,MATEMÁTICA,2 bimestre,4.7,6.1,1.8,5.7
+2026026,adeilton olimpio,ARTE,1 bimestre,5.4,5.6,1.7,5.8
+2026026,adeilton olimpio,ARTE,2 bimestre,8.5,3.9,0.3,5.8
+2026026,adeilton olimpio,CIÊNCIAS,1 bimestre,4.4,8.0,0.6,5.9
+2026026,adeilton olimpio,CIÊNCIAS,2 bimestre,7.2,5.7,1.2,6.4
+2026026,adeilton olimpio,COOPERATIVISMO,1 bimestre,3.5,6.0,0.8,4.7
+2026026,adeilton olimpio,COOPERATIVISMO,2 bimestre,5.5,7.2,1.6,6.5
+2026026,adeilton olimpio,EDUCAÇÃO FÍSICA,1 bimestre,8.5,4.3,0.8,6.2
+2026026,adeilton olimpio,EDUCAÇÃO FÍSICA,2 bimestre,6.1,7.5,2.0,7.1
+2026026,adeilton olimpio,FILOSOFIA,1 bimestre,3.3,3.4,1.0,3.5
+2026026,adeilton olimpio,FILOSOFIA,2 bimestre,7.7,4.2,0.6,5.7
+2026026,adeilton olimpio,GEOGRAFIA,1 bimestre,4.7,4.1,1.1,4.5
+2026026,adeilton olimpio,GEOGRAFIA,2 bimestre,9.7,4.6,1.8,7.3
+2026026,adeilton olimpio,HISTÓRIA,1 bimestre,5.2,6.8,1.2,6.0
+2026026,adeilton olimpio,HISTÓRIA,2 bimestre,9.9,5.4,1.6,7.7
+2026026,adeilton olimpio,MATEMÁTICA,1 bimestre,4.6,7.2,1.5,6.0
+2026026,adeilton olimpio,MATEMÁTICA,2 bimestre,5.5,8.1,0.0,6.2
+2026027,julia lima 12,ARTE,1 bimestre,3.5,8.6,0.3,5.6
+2026027,julia lima 12,ARTE,2 bimestre,5.4,4.6,1.1,5.0
+2026027,julia lima 12,CIÊNCIAS,1 bimestre,4.7,6.8,0.6,5.5
+2026027,julia lima 12,CIÊNCIAS,2 bimestre,4.0,5.9,0.5,4.7
+2026027,julia lima 12,COOPERATIVISMO,1 bimestre,5.3,6.2,1.5,5.9
+2026027,julia lima 12,COOPERATIVISMO,2 bimestre,9.8,3.6,0.6,6.4
+2026027,julia lima 12,EDUCAÇÃO FÍSICA,1 bimestre,3.4,5.3,0.9,4.4
+2026027,julia lima 12,EDUCAÇÃO FÍSICA,2 bimestre,4.9,8.9,1.1,6.8
+2026027,julia lima 12,FILOSOFIA,1 bimestre,4.7,5.5,1.2,5.2
+2026027,julia lima 12,FILOSOFIA,2 bimestre,9.2,9.8,1.4,9.3
+2026027,julia lima 12,GEOGRAFIA,1 bimestre,9.3,3.1,0.0,5.6
+2026027,julia lima 12,GEOGRAFIA,2 bimestre,7.8,7.8,1.7,7.9
+2026027,julia lima 12,HISTÓRIA,1 bimestre,4.1,7.0,1.4,5.7
+2026027,julia lima 12,HISTÓRIA,2 bimestre,3.1,3.4,0.0,3.0
+2026027,julia lima 12,MATEMÁTICA,1 bimestre,6.7,7.7,1.7,7.3
+2026027,julia lima 12,MATEMÁTICA,2 bimestre,9.4,8.4,0.7,8.4
+2026028,joão silva 23,ARTE,1 bimestre,5.8,7.4,1.9,6.9
+2026028,joão silva 23,ARTE,2 bimestre,7.2,4.0,0.8,5.5
+2026028,joão silva 23,CIÊNCIAS,1 bimestre,9.4,6.9,0.5,7.6
+2026028,joão silva 23,CIÊNCIAS,2 bimestre,8.8,9.3,0.6,8.5
+2026028,joão silva 23,COOPERATIVISMO,1 bimestre,8.0,9.7,0.3,8.2
+2026028,joão silva 23,COOPERATIVISMO,2 bimestre,4.3,7.5,1.5,6.0
+2026028,joão silva 23,EDUCAÇÃO FÍSICA,1 bimestre,8.2,7.1,1.6,7.7
+2026028,joão silva 23,EDUCAÇÃO FÍSICA,2 bimestre,4.6,9.9,1.5,7.3
+2026028,joão silva 23,FILOSOFIA,1 bimestre,7.6,9.1,1.6,8.3
+2026028,joão silva 23,FILOSOFIA,2 bimestre,8.3,5.2,0.6,6.4
+2026028,joão silva 23,GEOGRAFIA,1 bimestre,6.8,4.1,0.5,5.2
+2026028,joão silva 23,GEOGRAFIA,2 bimestre,4.3,8.1,0.8,6.0
+2026028,joão silva 23,HISTÓRIA,1 bimestre,4.1,3.3,1.3,4.0
+2026028,joão silva 23,HISTÓRIA,2 bimestre,6.8,5.1,1.8,6.2
+2026028,joão silva 23,MATEMÁTICA,1 bimestre,8.2,3.9,1.7,6.3
+2026028,joão silva 23,MATEMÁTICA,2 bimestre,6.1,9.4,0.4,7.2
+2026029,julia lima 70,ARTE,1 bimestre,6.7,9.8,1.8,8.3
+2026029,julia lima 70,ARTE,2 bimestre,8.1,9.9,0.8,8.5
+2026029,julia lima 70,CIÊNCIAS,1 bimestre,7.9,7.7,0.5,7.3
+2026029,julia lima 70,CIÊNCIAS,2 bimestre,7.3,4.9,0.3,5.7
+2026029,julia lima 70,COOPERATIVISMO,1 bimestre,3.7,9.2,0.7,6.2
+2026029,julia lima 70,COOPERATIVISMO,2 bimestre,6.0,7.1,0.5,6.2
+2026029,julia lima 70,EDUCAÇÃO FÍSICA,1 bimestre,4.5,9.4,2.0,7.2
+2026029,julia lima 70,EDUCAÇÃO FÍSICA,2 bimestre,6.3,9.7,0.0,7.3
+2026029,julia lima 70,FILOSOFIA,1 bimestre,7.5,3.7,0.5,5.3
+2026029,julia lima 70,FILOSOFIA,2 bimestre,5.4,5.8,0.9,5.5
+2026029,julia lima 70,GEOGRAFIA,1 bimestre,7.0,9.7,0.6,7.9
+2026029,julia lima 70,GEOGRAFIA,2 bimestre,10.0,3.4,1.5,6.8
+2026029,julia lima 70,HISTÓRIA,1 bimestre,9.0,5.5,0.7,6.9
+2026029,julia lima 70,HISTÓRIA,2 bimestre,8.5,9.7,0.6,8.5
+2026029,julia lima 70,MATEMÁTICA,1 bimestre,7.2,5.0,1.0,6.0
+2026029,julia lima 70,MATEMÁTICA,2 bimestre,9.5,8.0,0.1,8.0
+2026030,joão silva 41,ARTE,1 bimestre,3.1,3.4,0.9,3.4
+2026030,joão silva 41,ARTE,2 bimestre,4.8,4.1,1.0,4.5
+2026030,joão silva 41,CIÊNCIAS,1 bimestre,3.3,8.9,1.4,6.2
+2026030,joão silva 41,CIÊNCIAS,2 bimestre,6.4,9.6,1.8,8.1
+2026030,joão silva 41,COOPERATIVISMO,1 bimestre,8.8,3.4,1.6,6.3
+2026030,joão silva 41,COOPERATIVISMO,2 bimestre,7.0,3.9,1.0,5.4
+2026030,joão silva 41,EDUCAÇÃO FÍSICA,1 bimestre,7.7,6.3,1.1,6.9
+2026030,joão silva 41,EDUCAÇÃO FÍSICA,2 bimestre,4.1,3.6,1.0,4.0
+2026030,joão silva 41,FILOSOFIA,1 bimestre,9.9,9.0,1.1,9.1
+2026030,joão silva 41,FILOSOFIA,2 bimestre,7.0,8.1,0.4,7.0
+2026030,joão silva 41,GEOGRAFIA,1 bimestre,9.2,7.4,0.9,8.0
+2026030,joão silva 41,GEOGRAFIA,2 bimestre,5.3,4.7,1.3,5.1
+2026030,joão silva 41,HISTÓRIA,1 bimestre,4.8,6.1,0.6,5.2
+2026030,joão silva 41,HISTÓRIA,2 bimestre,5.5,6.9,1.3,6.2
+2026030,joão silva 41,MATEMÁTICA,1 bimestre,9.8,5.6,1.3,7.6
+2026030,joão silva 41,MATEMÁTICA,2 bimestre,4.5,5.6,1.6,5.3
+2026031,julia lima 22,ARTE,1 bimestre,7.4,6.9,1.0,7.0
+2026031,julia lima 22,ARTE,2 bimestre,9.9,4.3,0.3,6.6
+2026031,julia lima 22,CIÊNCIAS,1 bimestre,3.9,8.4,0.8,6.0
+2026031,julia lima 22,CIÊNCIAS,2 bimestre,7.2,4.1,0.7,5.5
+2026031,julia lima 22,COOPERATIVISMO,1 bimestre,9.2,9.1,0.1,8.4
+2026031,julia lima 22,COOPERATIVISMO,2 bimestre,7.8,8.2,1.4,7.9
+2026031,julia lima 22,EDUCAÇÃO FÍSICA,1 bimestre,6.6,6.9,0.5,6.4
+2026031,julia lima 22,EDUCAÇÃO FÍSICA,2 bimestre,4.9,6.9,0.7,5.7
+2026031,julia lima 22,FILOSOFIA,1 bimestre,7.1,4.4,0.7,5.5
+2026031,julia lima 22,FILOSOFIA,2 bimestre,8.6,5.2,0.3,6.4
+2026031,julia lima 22,GEOGRAFIA,1 bimestre,7.5,8.9,1.6,8.2
+2026031,julia lima 22,GEOGRAFIA,2 bimestre,5.0,6.8,1.6,6.1
+2026031,julia lima 22,HISTÓRIA,1 bimestre,3.2,4.9,0.9,4.1
+2026031,julia lima 22,HISTÓRIA,2 bimestre,5.0,5.3,2.0,5.6
+2026031,julia lima 22,MATEMÁTICA,1 bimestre,7.4,4.8,1.6,6.3
+2026031,julia lima 22,MATEMÁTICA,2 bimestre,7.8,4.8,0.1,5.8
+2026032,YKARO RAMONN,ARTE,1 bimestre,9.0,5.9,0.2,6.9
+2026032,YKARO RAMONN,ARTE,2 bimestre,9.1,9.4,1.5,9.1
+2026032,YKARO RAMONN,CIÊNCIAS,1 bimestre,4.9,8.0,0.0,5.9
+2026032,YKARO RAMONN,CIÊNCIAS,2 bimestre,8.1,9.3,1.9,8.8
+2026032,YKARO RAMONN,COOPERATIVISMO,1 bimestre,9.6,3.2,2.0,6.7
+2026032,YKARO RAMONN,COOPERATIVISMO,2 bimestre,5.1,8.4,1.7,6.9
+2026032,YKARO RAMONN,EDUCAÇÃO FÍSICA,1 bimestre,3.8,4.6,0.6,4.1
+2026032,YKARO RAMONN,EDUCAÇÃO FÍSICA,2 bimestre,3.2,5.4,0.2,4.0
+2026032,YKARO RAMONN,FILOSOFIA,1 bimestre,9.9,9.3,0.0,8.7
+2026032,YKARO RAMONN,FILOSOFIA,2 bimestre,6.5,3.1,1.0,4.8
+2026032,YKARO RAMONN,GEOGRAFIA,1 bimestre,8.5,8.0,1.4,8.1
+2026032,YKARO RAMONN,GEOGRAFIA,2 bimestre,8.7,6.1,1.0,7.2
+2026032,YKARO RAMONN,HISTÓRIA,1 bimestre,8.1,7.8,1.8,8.0
+2026032,YKARO RAMONN,HISTÓRIA,2 bimestre,3.3,9.6,1.3,6.5
+2026032,YKARO RAMONN,MATEMÁTICA,1 bimestre,4.3,7.1,1.1,5.7
+2026032,YKARO RAMONN,MATEMÁTICA,2 bimestre,7.5,9.6,0.5,8.0
+2026033,julia lima 39,ARTE,1 bimestre,5.2,9.7,1.3,7.4
+2026033,julia lima 39,ARTE,2 bimestre,9.1,3.7,1.0,6.3
+2026033,julia lima 39,CIÊNCIAS,1 bimestre,6.7,8.5,1.2,7.5
+2026033,julia lima 39,CIÊNCIAS,2 bimestre,6.5,4.3,1.3,5.5
+2026033,julia lima 39,COOPERATIVISMO,1 bimestre,6.3,6.3,1.2,6.3
+2026033,julia lima 39,COOPERATIVISMO,2 bimestre,3.2,5.5,1.1,4.5
+2026033,julia lima 39,EDUCAÇÃO FÍSICA,1 bimestre,7.3,5.3,0.8,6.1
+2026033,julia lima 39,EDUCAÇÃO FÍSICA,2 bimestre,4.0,3.1,0.4,3.4
+2026033,julia lima 39,FILOSOFIA,1 bimestre,7.4,6.3,1.8,7.0
+2026033,julia lima 39,FILOSOFIA,2 bimestre,9.4,9.9,0.9,9.2
+2026033,julia lima 39,GEOGRAFIA,1 bimestre,4.8,8.8,1.6,6.9
+2026033,julia lima 39,GEOGRAFIA,2 bimestre,3.5,9.3,0.5,6.0
+2026033,julia lima 39,HISTÓRIA,1 bimestre,5.3,3.2,1.0,4.3
+2026033,julia lima 39,HISTÓRIA,2 bimestre,6.8,7.4,0.9,6.9
+2026033,julia lima 39,MATEMÁTICA,1 bimestre,8.4,9.8,0.9,8.7
+2026033,julia lima 39,MATEMÁTICA,2 bimestre,4.6,3.1,0.7,3.8
+2026034,MARIA SANTOS 49,ARTE,1 bimestre,5.1,9.3,1.2,7.1
+2026034,MARIA SANTOS 49,ARTE,2 bimestre,5.9,3.2,1.4,4.8
+2026034,MARIA SANTOS 49,CIÊNCIAS,1 bimestre,4.9,3.1,1.7,4.4
+2026034,MARIA SANTOS 49,CIÊNCIAS,2 bimestre,8.7,7.9,0.3,7.7
+2026034,MARIA SANTOS 49,COOPERATIVISMO,1 bimestre,9.6,6.0,0.8,7.5
+2026034,MARIA SANTOS 49,COOPERATIVISMO,2 bimestre,4.9,7.9,1.9,6.7
+2026034,MARIA SANTOS 49,EDUCAÇÃO FÍSICA,1 bimestre,9.3,3.8,1.8,6.8
+2026034,MARIA SANTOS 49,EDUCAÇÃO FÍSICA,2 bimestre,3.6,8.8,1.9,6.5
+2026034,MARIA SANTOS 49,FILOSOFIA,1 bimestre,3.3,7.4,1.4,5.5
+2026034,MARIA SANTOS 49,FILOSOFIA,2 bimestre,6.4,3.0,0.0,4.3
+2026034,MARIA SANTOS 49,GEOGRAFIA,1 bimestre,7.2,3.3,1.0,5.2
+2026034,MARIA SANTOS 49,GEOGRAFIA,2 bimestre,4.9,7.2,0.3,5.6
+2026034,MARIA SANTOS 49,HISTÓRIA,1 bimestre,4.0,5.3,1.2,4.8
+2026034,MARIA SANTOS 49,HISTÓRIA,2 bimestre,6.7,9.4,1.2,7.9
+2026034,MARIA SANTOS 49,MATEMÁTICA,1 bimestre,5.7,4.0,1.4,5.0
+2026034,MARIA SANTOS 49,MATEMÁTICA,2 bimestre,8.6,3.1,0.3,5.5
+2026035,joão silva 41,ARTE,1 bimestre,4.8,3.9,0.1,4.0
+2026035,joão silva 41,ARTE,2 bimestre,6.0,3.6,1.8,5.2
+2026035,joão silva 41,CIÊNCIAS,1 bimestre,4.0,9.7,0.3,6.4
+2026035,joão silva 41,CIÊNCIAS,2 bimestre,5.7,9.4,0.4,7.0
+2026035,joão silva 41,COOPERATIVISMO,1 bimestre,5.9,8.2,0.3,6.5
+2026035,joão silva 41,COOPERATIVISMO,2 bimestre,3.2,9.7,0.9,6.3
+2026035,joão silva 41,EDUCAÇÃO FÍSICA,1 bimestre,7.3,9.2,0.3,7.6
+2026035,joão silva 41,EDUCAÇÃO FÍSICA,2 bimestre,3.7,6.0,0.6,4.7
+2026035,joão silva 41,FILOSOFIA,1 bimestre,9.6,4.6,0.1,6.5
+2026035,joão silva 41,FILOSOFIA,2 bimestre,8.1,3.3,0.3,5.3
+2026035,joão silva 41,GEOGRAFIA,1 bimestre,8.5,8.6,1.3,8.4
+2026035,joão silva 41,GEOGRAFIA,2 bimestre,4.5,4.5,1.3,4.7
+2026035,joão silva 41,HISTÓRIA,1 bimestre,9.3,4.1,1.3,6.7
+2026035,joão silva 41,HISTÓRIA,2 bimestre,6.2,3.3,0.7,4.6
+2026035,joão silva 41,MATEMÁTICA,1 bimestre,4.9,8.6,0.9,6.5
+2026035,joão silva 41,MATEMÁTICA,2 bimestre,6.4,6.1,0.7,6.0
+2026036,marcos costa 26,ARTE,1 bimestre,6.3,9.5,2.0,8.1
+2026036,marcos costa 26,ARTE,2 bimestre,7.0,7.9,1.4,7.4
+2026036,marcos costa 26,CIÊNCIAS,1 bimestre,7.4,3.8,1.3,5.7
+2026036,marcos costa 26,CIÊNCIAS,2 bimestre,8.3,9.4,1.3,8.6
+2026036,marcos costa 26,COOPERATIVISMO,1 bimestre,3.9,5.8,1.2,5.0
+2026036,marcos costa 26,COOPERATIVISMO,2 bimestre,4.9,7.3,1.1,6.0
+2026036,marcos costa 26,EDUCAÇÃO FÍSICA,1 bimestre,3.3,8.3,0.8,5.6
+2026036,marcos costa 26,EDUCAÇÃO FÍSICA,2 bimestre,5.7,3.4,0.2,4.2
+2026036,marcos costa 26,FILOSOFIA,1 bimestre,7.1,8.3,1.6,7.7
+2026036,marcos costa 26,FILOSOFIA,2 bimestre,5.7,6.8,1.8,6.5
+2026036,marcos costa 26,GEOGRAFIA,1 bimestre,4.1,7.2,1.2,5.7
+2026036,marcos costa 26,GEOGRAFIA,2 bimestre,6.6,7.8,0.8,6.9
+2026036,marcos costa 26,HISTÓRIA,1 bimestre,8.0,5.6,0.6,6.5
+2026036,marcos costa 26,HISTÓRIA,2 bimestre,4.0,6.0,0.9,5.0
+2026036,marcos costa 26,MATEMÁTICA,1 bimestre,6.0,8.2,1.4,7.1
+2026036,marcos costa 26,MATEMÁTICA,2 bimestre,9.3,5.5,0.7,7.0
+2026037,lucas oliveira 60,ARTE,1 bimestre,9.5,5.3,1.1,7.2
+2026037,lucas oliveira 60,ARTE,2 bimestre,8.6,8.3,1.5,8.4
+2026037,lucas oliveira 60,CIÊNCIAS,1 bimestre,8.3,8.6,1.4,8.3
+2026037,lucas oliveira 60,CIÊNCIAS,2 bimestre,8.5,4.5,0.9,6.3
+2026037,lucas oliveira 60,COOPERATIVISMO,1 bimestre,7.0,9.0,0.7,7.6
+2026037,lucas oliveira 60,COOPERATIVISMO,2 bimestre,7.3,6.3,0.9,6.6
+2026037,lucas oliveira 60,EDUCAÇÃO FÍSICA,1 bimestre,9.9,9.6,0.1,8.9
+2026037,lucas oliveira 60,EDUCAÇÃO FÍSICA,2 bimestre,3.8,8.3,0.7,5.8
+2026037,lucas oliveira 60,FILOSOFIA,1 bimestre,6.8,6.4,0.1,6.0
+2026037,lucas oliveira 60,FILOSOFIA,2 bimestre,5.8,7.1,1.3,6.5
+2026037,lucas oliveira 60,GEOGRAFIA,1 bimestre,7.5,4.0,0.8,5.6
+2026037,lucas oliveira 60,GEOGRAFIA,2 bimestre,8.2,7.9,1.7,8.1
+2026037,lucas oliveira 60,HISTÓRIA,1 bimestre,6.8,5.7,1.3,6.3
+2026037,lucas oliveira 60,HISTÓRIA,2 bimestre,5.9,6.5,0.7,6.0
+2026037,lucas oliveira 60,MATEMÁTICA,1 bimestre,7.5,8.2,0.9,7.5
+2026037,lucas oliveira 60,MATEMÁTICA,2 bimestre,8.6,9.1,0.9,8.5
+2026038,beatriz pereira 1,ARTE,1 bimestre,4.6,5.8,0.9,5.1
+2026038,beatriz pereira 1,ARTE,2 bimestre,3.2,7.1,0.3,4.8
+2026038,beatriz pereira 1,CIÊNCIAS,1 bimestre,3.5,4.3,0.4,3.7
+2026038,beatriz pereira 1,CIÊNCIAS,2 bimestre,6.8,8.8,1.9,8.0
+2026038,beatriz pereira 1,COOPERATIVISMO,1 bimestre,5.3,3.0,0.1,3.8
+2026038,beatriz pereira 1,COOPERATIVISMO,2 bimestre,6.1,9.3,1.2,7.5
+2026038,beatriz pereira 1,EDUCAÇÃO FÍSICA,1 bimestre,7.6,6.8,1.1,7.0
+2026038,beatriz pereira 1,EDUCAÇÃO FÍSICA,2 bimestre,7.1,4.0,1.1,5.5
+2026038,beatriz pereira 1,FILOSOFIA,1 bimestre,5.5,4.9,1.4,5.4
+2026038,beatriz pereira 1,FILOSOFIA,2 bimestre,7.8,4.7,1.8,6.5
+2026038,beatriz pereira 1,GEOGRAFIA,1 bimestre,7.8,5.0,1.3,6.4
+2026038,beatriz pereira 1,GEOGRAFIA,2 bimestre,6.7,4.7,0.1,5.2
+2026038,beatriz pereira 1,HISTÓRIA,1 bimestre,9.6,3.7,1.2,6.6
+2026038,beatriz pereira 1,HISTÓRIA,2 bimestre,4.0,7.2,0.4,5.3
+2026038,beatriz pereira 1,MATEMÁTICA,1 bimestre,8.4,8.0,1.1,8.0
+2026038,beatriz pereira 1,MATEMÁTICA,2 bimestre,4.6,9.2,0.8,6.6
+2026039,BEATRIZ PEREIRA 37,ARTE,1 bimestre,6.1,4.8,0.4,5.1
+2026039,BEATRIZ PEREIRA 37,ARTE,2 bimestre,3.4,6.5,0.2,4.6
+2026039,BEATRIZ PEREIRA 37,CIÊNCIAS,1 bimestre,4.9,3.9,1.9,4.9
+2026039,BEATRIZ PEREIRA 37,CIÊNCIAS,2 bimestre,3.4,8.3,0.2,5.4
+2026039,BEATRIZ PEREIRA 37,COOPERATIVISMO,1 bimestre,3.8,9.6,1.1,6.6
+2026039,BEATRIZ PEREIRA 37,COOPERATIVISMO,2 bimestre,5.7,9.4,1.2,7.4
+2026039,BEATRIZ PEREIRA 37,EDUCAÇÃO FÍSICA,1 bimestre,5.7,9.6,0.0,7.0
+2026039,BEATRIZ PEREIRA 37,EDUCAÇÃO FÍSICA,2 bimestre,7.2,8.3,1.5,7.7
+2026039,BEATRIZ PEREIRA 37,FILOSOFIA,1 bimestre,8.2,4.6,0.1,5.9
+2026039,BEATRIZ PEREIRA 37,FILOSOFIA,2 bimestre,10.0,5.1,0.6,7.1
+2026039,BEATRIZ PEREIRA 37,GEOGRAFIA,1 bimestre,5.2,6.0,1.4,5.7
+2026039,BEATRIZ PEREIRA 37,GEOGRAFIA,2 bimestre,5.8,3.2,1.9,5.0
+2026039,BEATRIZ PEREIRA 37,HISTÓRIA,1 bimestre,5.3,7.4,0.3,5.9
+2026039,BEATRIZ PEREIRA 37,HISTÓRIA,2 bimestre,8.0,5.6,1.8,7.0
+2026039,BEATRIZ PEREIRA 37,MATEMÁTICA,1 bimestre,9.5,7.2,0.1,7.6
+2026039,BEATRIZ PEREIRA 37,MATEMÁTICA,2 bimestre,5.6,10.0,1.8,7.9
+2026040,carlos silva,ARTE,1 bimestre,8.0,6.4,1.5,7.2
+2026040,carlos silva,ARTE,2 bimestre,3.5,8.3,1.6,6.1
+2026040,carlos silva,CIÊNCIAS,1 bimestre,4.3,4.7,1.5,4.8
+2026040,carlos silva,CIÊNCIAS,2 bimestre,6.7,6.8,0.7,6.5
+2026040,carlos silva,COOPERATIVISMO,1 bimestre,3.5,3.6,1.2,3.8
+2026040,carlos silva,COOPERATIVISMO,2 bimestre,3.9,6.8,0.5,5.1
+2026040,carlos silva,EDUCAÇÃO FÍSICA,1 bimestre,3.3,6.5,0.7,4.8
+2026040,carlos silva,EDUCAÇÃO FÍSICA,2 bimestre,4.2,9.7,1.8,7.1
+2026040,carlos silva,FILOSOFIA,1 bimestre,7.2,5.6,1.6,6.5
+2026040,carlos silva,FILOSOFIA,2 bimestre,5.4,5.1,0.2,4.9
+2026040,carlos silva,GEOGRAFIA,1 bimestre,8.5,7.0,0.7,7.4
+2026040,carlos silva,GEOGRAFIA,2 bimestre,8.7,4.5,0.6,6.3
+2026040,carlos silva,HISTÓRIA,1 bimestre,7.8,8.0,1.2,7.7
+2026040,carlos silva,HISTÓRIA,2 bimestre,5.4,6.7,1.4,6.1
+2026040,carlos silva,MATEMÁTICA,1 bimestre,5.3,8.7,1.2,6.9
+2026040,carlos silva,MATEMÁTICA,2 bimestre,6.4,8.5,1.9,7.6
+2026041,BEATRIZ PEREIRA 41,ARTE,1 bimestre,6.4,5.5,1.5,6.1
+2026041,BEATRIZ PEREIRA 41,ARTE,2 bimestre,3.6,7.1,0.3,5.0
+2026041,BEATRIZ PEREIRA 41,CIÊNCIAS,1 bimestre,8.9,6.2,0.5,7.1
+2026041,BEATRIZ PEREIRA 41,CIÊNCIAS,2 bimestre,4.3,9.5,1.2,6.8
+2026041,BEATRIZ PEREIRA 41,COOPERATIVISMO,1 bimestre,8.6,3.0,1.9,6.1
+2026041,BEATRIZ PEREIRA 41,COOPERATIVISMO,2 bimestre,6.6,3.9,2.0,5.7
+2026041,BEATRIZ PEREIRA 41,EDUCAÇÃO FÍSICA,1 bimestre,5.6,7.6,0.9,6.4
+2026041,BEATRIZ PEREIRA 41,EDUCAÇÃO FÍSICA,2 bimestre,5.8,6.4,1.5,6.2
+2026041,BEATRIZ PEREIRA 41,FILOSOFIA,1 bimestre,5.5,5.4,0.9,5.4
+2026041,BEATRIZ PEREIRA 41,FILOSOFIA,2 bimestre,6.1,5.2,0.1,5.2
+2026041,BEATRIZ PEREIRA 41,GEOGRAFIA,1 bimestre,9.4,5.7,0.8,7.2
+2026041,BEATRIZ PEREIRA 41,GEOGRAFIA,2 bimestre,4.8,6.8,0.3,5.4
+2026041,BEATRIZ PEREIRA 41,HISTÓRIA,1 bimestre,3.8,6.7,0.5,5.0
+2026041,BEATRIZ PEREIRA 41,HISTÓRIA,2 bimestre,8.1,8.5,0.8,7.9
+2026041,BEATRIZ PEREIRA 41,MATEMÁTICA,1 bimestre,7.4,3.2,0.5,5.0
+2026041,BEATRIZ PEREIRA 41,MATEMÁTICA,2 bimestre,5.8,4.8,0.5,5.0
+2026042,julia lima 86,ARTE,1 bimestre,3.1,4.1,1.2,3.8
+2026042,julia lima 86,ARTE,2 bimestre,7.7,9.7,0.7,8.2
+2026042,julia lima 86,CIÊNCIAS,1 bimestre,8.6,7.4,0.2,7.4
+2026042,julia lima 86,CIÊNCIAS,2 bimestre,8.9,8.0,0.8,8.0
+2026042,julia lima 86,COOPERATIVISMO,1 bimestre,7.1,3.4,0.6,5.0
+2026042,julia lima 86,COOPERATIVISMO,2 bimestre,7.2,7.5,1.8,7.5
+2026042,julia lima 86,EDUCAÇÃO FÍSICA,1 bimestre,5.5,4.9,0.3,4.9
+2026042,julia lima 86,EDUCAÇÃO FÍSICA,2 bimestre,5.2,8.3,1.2,6.7
+2026042,julia lima 86,FILOSOFIA,1 bimestre,9.2,4.3,1.4,6.8
+2026042,julia lima 86,FILOSOFIA,2 bimestre,4.5,4.3,0.4,4.2
+2026042,julia lima 86,GEOGRAFIA,1 bimestre,5.6,5.4,0.7,5.3
+2026042,julia lima 86,GEOGRAFIA,2 bimestre,4.3,4.5,0.1,4.0
+2026042,julia lima 86,HISTÓRIA,1 bimestre,3.1,9.6,0.6,6.0
+2026042,julia lima 86,HISTÓRIA,2 bimestre,3.7,3.6,0.4,3.5
+2026042,julia lima 86,MATEMÁTICA,1 bimestre,3.5,7.7,1.7,5.9
+2026042,julia lima 86,MATEMÁTICA,2 bimestre,6.5,9.9,1.8,8.3
+2026043,MARIA OLIVEIRA,ARTE,1 bimestre,9.5,7.7,0.7,8.1
+2026043,MARIA OLIVEIRA,ARTE,2 bimestre,3.6,8.7,0.8,6.0
+2026043,MARIA OLIVEIRA,CIÊNCIAS,1 bimestre,3.5,7.0,0.5,5.0
+2026043,MARIA OLIVEIRA,CIÊNCIAS,2 bimestre,4.2,8.0,1.9,6.4
+2026043,MARIA OLIVEIRA,COOPERATIVISMO,1 bimestre,3.3,8.6,0.4,5.6
+2026043,MARIA OLIVEIRA,COOPERATIVISMO,2 bimestre,9.6,7.8,0.3,8.0
+2026043,MARIA OLIVEIRA,EDUCAÇÃO FÍSICA,1 bimestre,8.2,7.4,0.8,7.5
+2026043,MARIA OLIVEIRA,EDUCAÇÃO FÍSICA,2 bimestre,4.9,4.6,0.0,4.3
+2026043,MARIA OLIVEIRA,FILOSOFIA,1 bimestre,7.1,4.6,0.6,5.6
+2026043,MARIA OLIVEIRA,FILOSOFIA,2 bimestre,7.6,8.6,0.9,7.8
+2026043,MARIA OLIVEIRA,GEOGRAFIA,1 bimestre,4.4,3.8,0.9,4.1
+2026043,MARIA OLIVEIRA,GEOGRAFIA,2 bimestre,4.4,5.6,0.6,4.8
+2026043,MARIA OLIVEIRA,HISTÓRIA,1 bimestre,6.2,9.9,1.7,8.1
+2026043,MARIA OLIVEIRA,HISTÓRIA,2 bimestre,7.8,9.1,0.2,7.8
+2026043,MARIA OLIVEIRA,MATEMÁTICA,1 bimestre,7.6,3.1,1.1,5.4
+2026043,MARIA OLIVEIRA,MATEMÁTICA,2 bimestre,9.0,6.4,1.8,7.8
+2026044,LUCAS OLIVEIRA 7,ARTE,1 bimestre,6.8,5.4,2.0,6.5
+2026044,LUCAS OLIVEIRA 7,ARTE,2 bimestre,7.9,6.9,1.4,7.4
+2026044,LUCAS OLIVEIRA 7,CIÊNCIAS,1 bimestre,7.4,6.4,0.2,6.4
+2026044,LUCAS OLIVEIRA 7,CIÊNCIAS,2 bimestre,5.3,5.0,0.1,4.7
+2026044,LUCAS OLIVEIRA 7,COOPERATIVISMO,1 bimestre,9.6,6.5,1.1,7.8
+2026044,LUCAS OLIVEIRA 7,COOPERATIVISMO,2 bimestre,5.8,6.6,0.3,5.8
+2026044,LUCAS OLIVEIRA 7,EDUCAÇÃO FÍSICA,1 bimestre,5.3,8.9,0.3,6.6
+2026044,LUCAS OLIVEIRA 7,EDUCAÇÃO FÍSICA,2 bimestre,7.5,4.3,0.4,5.5
+2026044,LUCAS OLIVEIRA 7,FILOSOFIA,1 bimestre,8.3,6.7,1.3,7.4
+2026044,LUCAS OLIVEIRA 7,FILOSOFIA,2 bimestre,9.4,6.4,1.7,8.0
+2026044,LUCAS OLIVEIRA 7,GEOGRAFIA,1 bimestre,8.2,8.4,1.5,8.2
+2026044,LUCAS OLIVEIRA 7,GEOGRAFIA,2 bimestre,8.0,6.5,1.6,7.3
+2026044,LUCAS OLIVEIRA 7,HISTÓRIA,1 bimestre,6.5,3.8,0.5,4.9
+2026044,LUCAS OLIVEIRA 7,HISTÓRIA,2 bimestre,5.8,9.6,1.0,7.5
+2026044,LUCAS OLIVEIRA 7,MATEMÁTICA,1 bimestre,4.2,7.5,0.1,5.4
+2026044,LUCAS OLIVEIRA 7,MATEMÁTICA,2 bimestre,3.8,8.5,0.6,5.9
+2026045,joão silva 66,ARTE,1 bimestre,6.0,7.3,0.7,6.4
+2026045,joão silva 66,ARTE,2 bimestre,7.7,9.0,0.4,7.8
+2026045,joão silva 66,CIÊNCIAS,1 bimestre,6.6,5.2,0.8,5.7
+2026045,joão silva 66,CIÊNCIAS,2 bimestre,4.6,5.1,1.5,5.1
+2026045,joão silva 66,COOPERATIVISMO,1 bimestre,6.1,8.3,0.9,7.0
+2026045,joão silva 66,COOPERATIVISMO,2 bimestre,4.4,3.3,1.3,4.1
+2026045,joão silva 66,EDUCAÇÃO FÍSICA,1 bimestre,6.0,5.0,0.9,5.4
+2026045,joão silva 66,EDUCAÇÃO FÍSICA,2 bimestre,7.7,6.8,1.6,7.3
+2026045,joão silva 66,FILOSOFIA,1 bimestre,4.3,8.2,1.0,6.1
+2026045,joão silva 66,FILOSOFIA,2 bimestre,4.3,7.5,1.2,5.9
+2026045,joão silva 66,GEOGRAFIA,1 bimestre,8.3,8.9,0.5,8.0
+2026045,joão silva 66,GEOGRAFIA,2 bimestre,6.4,4.8,0.8,5.5
+2026045,joão silva 66,HISTÓRIA,1 bimestre,8.7,9.0,1.6,8.8
+2026045,joão silva 66,HISTÓRIA,2 bimestre,4.1,3.7,1.9,4.4
+2026045,joão silva 66,MATEMÁTICA,1 bimestre,3.1,3.4,1.2,3.5
+2026045,joão silva 66,MATEMÁTICA,2 bimestre,6.4,3.8,1.2,5.2
+2026046,JULIA LIMA 92,ARTE,1 bimestre,7.4,9.2,0.0,7.5
+2026046,JULIA LIMA 92,ARTE,2 bimestre,3.7,4.0,1.1,4.0
+2026046,JULIA LIMA 92,CIÊNCIAS,1 bimestre,7.3,3.1,1.0,5.2
+2026046,JULIA LIMA 92,CIÊNCIAS,2 bimestre,5.9,7.0,1.6,6.6
+2026046,JULIA LIMA 92,COOPERATIVISMO,1 bimestre,3.8,3.7,0.1,3.5
+2026046,JULIA LIMA 92,COOPERATIVISMO,2 bimestre,4.5,3.8,0.8,4.1
+2026046,JULIA LIMA 92,EDUCAÇÃO FÍSICA,1 bimestre,4.9,9.1,0.4,6.5
+2026046,JULIA LIMA 92,EDUCAÇÃO FÍSICA,2 bimestre,3.6,8.7,1.6,6.3
+2026046,JULIA LIMA 92,FILOSOFIA,1 bimestre,4.5,4.6,1.8,5.0
+2026046,JULIA LIMA 92,FILOSOFIA,2 bimestre,8.2,3.9,1.8,6.3
+2026046,JULIA LIMA 92,GEOGRAFIA,1 bimestre,4.8,9.6,1.1,7.0
+2026046,JULIA LIMA 92,GEOGRAFIA,2 bimestre,6.7,4.5,0.5,5.3
+2026046,JULIA LIMA 92,HISTÓRIA,1 bimestre,7.2,9.6,1.0,8.1
+2026046,JULIA LIMA 92,HISTÓRIA,2 bimestre,4.7,3.1,0.0,3.5
+2026046,JULIA LIMA 92,MATEMÁTICA,1 bimestre,4.0,7.4,1.6,5.9
+2026046,JULIA LIMA 92,MATEMÁTICA,2 bimestre,3.6,3.9,1.1,3.9
+2026047,marcos costa 14,ARTE,1 bimestre,7.2,6.8,1.8,7.2
+2026047,marcos costa 14,ARTE,2 bimestre,5.0,4.9,1.4,5.1
+2026047,marcos costa 14,CIÊNCIAS,1 bimestre,9.3,4.2,1.9,7.0
+2026047,marcos costa 14,CIÊNCIAS,2 bimestre,7.6,8.4,0.8,7.6
+2026047,marcos costa 14,COOPERATIVISMO,1 bimestre,5.0,8.6,0.1,6.2
+2026047,marcos costa 14,COOPERATIVISMO,2 bimestre,5.6,6.2,0.7,5.7
+2026047,marcos costa 14,EDUCAÇÃO FÍSICA,1 bimestre,5.6,6.5,1.5,6.2
+2026047,marcos costa 14,EDUCAÇÃO FÍSICA,2 bimestre,3.9,3.8,0.2,3.6
+2026047,marcos costa 14,FILOSOFIA,1 bimestre,5.2,3.2,1.9,4.7
+2026047,marcos costa 14,FILOSOFIA,2 bimestre,5.9,4.4,1.0,5.1
+2026047,marcos costa 14,GEOGRAFIA,1 bimestre,4.6,8.8,1.0,6.5
+2026047,marcos costa 14,GEOGRAFIA,2 bimestre,4.5,5.0,1.7,5.1
+2026047,marcos costa 14,HISTÓRIA,1 bimestre,4.2,5.1,2.0,5.1
+2026047,marcos costa 14,HISTÓRIA,2 bimestre,5.4,8.3,1.8,7.0
+2026047,marcos costa 14,MATEMÁTICA,1 bimestre,4.2,8.9,1.8,6.8
+2026047,marcos costa 14,MATEMÁTICA,2 bimestre,8.2,3.6,0.0,5.4
+2026048,JULIA LIMA 61,ARTE,1 bimestre,9.2,9.6,0.6,8.8
+2026048,JULIA LIMA 61,ARTE,2 bimestre,6.6,8.4,0.1,6.9
+2026048,JULIA LIMA 61,CIÊNCIAS,1 bimestre,6.3,6.2,0.2,5.8
+2026048,JULIA LIMA 61,CIÊNCIAS,2 bimestre,7.8,4.1,0.0,5.4
+2026048,JULIA LIMA 61,COOPERATIVISMO,1 bimestre,6.6,6.4,0.9,6.3
+2026048,JULIA LIMA 61,COOPERATIVISMO,2 bimestre,4.7,5.1,2.0,5.4
+2026048,JULIA LIMA 61,EDUCAÇÃO FÍSICA,1 bimestre,7.1,7.3,0.3,6.7
+2026048,JULIA LIMA 61,EDUCAÇÃO FÍSICA,2 bimestre,7.6,8.7,0.2,7.5
+2026048,JULIA LIMA 61,FILOSOFIA,1 bimestre,4.8,5.9,1.6,5.6
+2026048,JULIA LIMA 61,FILOSOFIA,2 bimestre,3.7,4.7,1.8,4.6
+2026048,JULIA LIMA 61,GEOGRAFIA,1 bimestre,4.2,5.3,0.4,4.5
+2026048,JULIA LIMA 61,GEOGRAFIA,2 bimestre,7.2,5.3,0.8,6.0
+2026048,JULIA LIMA 61,HISTÓRIA,1 bimestre,5.0,4.8,1.9,5.3
+2026048,JULIA LIMA 61,HISTÓRIA,2 bimestre,3.2,5.2,1.5,4.5
+2026048,JULIA LIMA 61,MATEMÁTICA,1 bimestre,3.4,5.3,1.0,4.4
+2026048,JULIA LIMA 61,MATEMÁTICA,2 bimestre,9.7,4.2,1.5,7.0
+2026049,beatriz pereira 44,ARTE,1 bimestre,5.6,3.5,0.3,4.3
+2026049,beatriz pereira 44,ARTE,2 bimestre,6.3,5.6,0.5,5.6
+2026049,beatriz pereira 44,CIÊNCIAS,1 bimestre,8.3,8.2,1.4,8.1
+2026049,beatriz pereira 44,CIÊNCIAS,2 bimestre,6.2,5.1,0.2,5.2
+2026049,beatriz pereira 44,COOPERATIVISMO,1 bimestre,3.5,7.2,0.9,5.3
+2026049,beatriz pereira 44,COOPERATIVISMO,2 bimestre,9.1,9.4,0.3,8.5
+2026049,beatriz pereira 44,EDUCAÇÃO FÍSICA,1 bimestre,6.6,6.0,1.2,6.3
+2026049,beatriz pereira 44,EDUCAÇÃO FÍSICA,2 bimestre,6.0,3.7,1.3,5.0
+2026049,beatriz pereira 44,FILOSOFIA,1 bimestre,5.4,5.5,1.0,5.4
+2026049,beatriz pereira 44,FILOSOFIA,2 bimestre,7.3,3.7,1.6,5.7
+2026049,beatriz pereira 44,GEOGRAFIA,1 bimestre,8.9,8.1,0.1,7.8
+2026049,beatriz pereira 44,GEOGRAFIA,2 bimestre,8.5,9.9,1.6,9.1
+2026049,beatriz pereira 44,HISTÓRIA,1 bimestre,5.9,8.4,1.5,7.2
+2026049,beatriz pereira 44,HISTÓRIA,2 bimestre,4.6,9.2,0.0,6.3
+2026049,beatriz pereira 44,MATEMÁTICA,1 bimestre,10.0,7.2,1.7,8.6
+2026049,beatriz pereira 44,MATEMÁTICA,2 bimestre,6.5,6.5,1.8,6.7
+2026050,maria santos 68,ARTE,1 bimestre,4.6,8.5,0.9,6.4
+2026050,maria santos 68,ARTE,2 bimestre,9.5,8.9,1.3,9.0
+2026050,maria santos 68,CIÊNCIAS,1 bimestre,5.5,6.1,1.7,6.0
+2026050,maria santos 68,CIÊNCIAS,2 bimestre,5.4,5.4,0.5,5.1
+2026050,maria santos 68,COOPERATIVISMO,1 bimestre,7.3,3.2,1.6,5.5
+2026050,maria santos 68,COOPERATIVISMO,2 bimestre,3.7,4.2,0.6,3.9
+2026050,maria santos 68,EDUCAÇÃO FÍSICA,1 bimestre,5.9,6.2,2.0,6.4
+2026050,maria santos 68,EDUCAÇÃO FÍSICA,2 bimestre,3.8,8.8,1.2,6.3
+2026050,maria santos 68,FILOSOFIA,1 bimestre,5.4,4.2,0.8,4.7
+2026050,maria santos 68,FILOSOFIA,2 bimestre,8.0,10.0,1.7,9.0
+2026050,maria santos 68,GEOGRAFIA,1 bimestre,4.6,5.8,0.5,5.0
+2026050,maria santos 68,GEOGRAFIA,2 bimestre,5.1,5.6,1.3,5.5
+2026050,maria santos 68,HISTÓRIA,1 bimestre,4.8,7.4,0.6,5.8
+2026050,maria santos 68,HISTÓRIA,2 bimestre,5.3,3.9,1.6,4.9
+2026050,maria santos 68,MATEMÁTICA,1 bimestre,8.1,9.3,0.3,8.0
+2026050,maria santos 68,MATEMÁTICA,2 bimestre,4.6,4.6,1.5,4.9
+2026051,gabriela souza 24,ARTE,1 bimestre,9.2,8.8,0.7,7.5
+2026051,gabriela souza 24,ARTE,2 bimestre,7.2,9.6,1.4,9.1
+2026051,gabriela souza 24,CIÊNCIAS,1 bimestre,7.1,9.9,1.7,7.6
+2026051,gabriela souza 24,CIÊNCIAS,2 bimestre,7.5,7.6,1.0,8.6
+2026051,gabriela souza 24,COOPERATIVISMO,1 bimestre,8.3,7.9,1.4,7.4
+2026051,gabriela souza 24,COOPERATIVISMO,2 bimestre,7.9,8.1,1.2,9.4
+2026051,gabriela souza 24,EDUCAÇÃO FÍSICA,1 bimestre,7.6,8.5,1.4,7.1
+2026051,gabriela souza 24,EDUCAÇÃO FÍSICA,2 bimestre,8.8,7.5,0.6,9.8
+2026051,gabriela souza 24,FILOSOFIA,1 bimestre,9.9,9.4,1.0,7.3
+2026051,gabriela souza 24,FILOSOFIA,2 bimestre,9.1,8.3,0.7,8.5
+2026051,gabriela souza 24,GEOGRAFIA,1 bimestre,7.1,9.7,0.9,9.0
+2026051,gabriela souza 24,GEOGRAFIA,2 bimestre,7.9,8.6,1.3,7.6
+2026051,gabriela souza 24,HISTÓRIA,1 bimestre,9.9,9.3,1.9,9.7
+2026051,gabriela souza 24,HISTÓRIA,2 bimestre,8.8,9.8,0.6,7.6
+2026051,gabriela souza 24,MATEMÁTICA,1 bimestre,7.1,8.0,1.1,7.8
+2026051,gabriela souza 24,MATEMÁTICA,2 bimestre,9.5,8.1,0.9,8.6
+2026052,isabela silva 98,ARTE,1 bimestre,10.0,9.3,0.8,7.0
+2026052,isabela silva 98,ARTE,2 bimestre,9.4,9.1,1.6,9.3
+2026052,isabela silva 98,CIÊNCIAS,1 bimestre,7.2,8.1,0.7,9.6
+2026052,isabela silva 98,CIÊNCIAS,2 bimestre,8.9,8.0,0.6,7.9
+2026052,isabela silva 98,COOPERATIVISMO,1 bimestre,8.0,9.2,1.5,9.7
+2026052,isabela silva 98,COOPERATIVISMO,2 bimestre,8.4,7.4,1.6,9.3
+2026052,isabela silva 98,EDUCAÇÃO FÍSICA,1 bimestre,8.7,9.3,1.2,8.6
+2026052,isabela silva 98,EDUCAÇÃO FÍSICA,2 bimestre,8.3,7.1,0.7,7.1
+2026052,isabela silva 98,FILOSOFIA,1 bimestre,8.9,7.9,1.3,9.7
+2026052,isabela silva 98,FILOSOFIA,2 bimestre,7.7,8.2,1.6,7.7
+2026052,isabela silva 98,GEOGRAFIA,1 bimestre,7.2,7.9,0.7,9.8
+2026052,isabela silva 98,GEOGRAFIA,2 bimestre,9.4,8.9,1.8,9.4
+2026052,isabela silva 98,HISTÓRIA,1 bimestre,7.6,9.7,1.3,9.4
+2026052,isabela silva 98,HISTÓRIA,2 bimestre,9.7,8.0,0.7,7.7
+2026052,isabela silva 98,MATEMÁTICA,1 bimestre,8.3,9.5,1.8,7.0
+2026052,isabela silva 98,MATEMÁTICA,2 bimestre,8.5,8.3,0.8,7.4
+2026053,lucas pereira 88,ARTE,1 bimestre,7.5,7.7,1.3,8.2
+2026053,lucas pereira 88,ARTE,2 bimestre,7.2,7.8,0.9,9.1
+2026053,lucas pereira 88,CIÊNCIAS,1 bimestre,9.1,7.4,2.0,7.8
+2026053,lucas pereira 88,CIÊNCIAS,2 bimestre,9.9,8.2,0.5,8.0
+2026053,lucas pereira 88,COOPERATIVISMO,1 bimestre,8.9,9.0,1.3,8.3
+2026053,lucas pereira 88,COOPERATIVISMO,2 bimestre,8.7,8.8,0.6,8.1
+2026053,lucas pereira 88,EDUCAÇÃO FÍSICA,1 bimestre,7.7,9.4,1.2,10.0
+2026053,lucas pereira 88,EDUCAÇÃO FÍSICA,2 bimestre,8.2,9.4,1.7,7.5
+2026053,lucas pereira 88,FILOSOFIA,1 bimestre,8.5,9.1,1.8,8.0
+2026053,lucas pereira 88,FILOSOFIA,2 bimestre,7.7,9.1,1.7,8.0
+2026053,lucas pereira 88,GEOGRAFIA,1 bimestre,7.3,9.8,1.1,8.6
+2026053,lucas pereira 88,GEOGRAFIA,2 bimestre,9.5,9.0,1.6,7.6
+2026053,lucas pereira 88,HISTÓRIA,1 bimestre,8.6,9.1,0.8,7.5
+2026053,lucas pereira 88,HISTÓRIA,2 bimestre,9.9,8.5,0.9,10.0
+2026053,lucas pereira 88,MATEMÁTICA,1 bimestre,9.9,8.7,1.8,7.6
+2026053,lucas pereira 88,MATEMÁTICA,2 bimestre,7.8,9.1,1.8,9.6
+2026054,ana pereira 84,ARTE,1 bimestre,9.8,9.4,1.5,8.7
+2026054,ana pereira 84,ARTE,2 bimestre,8.1,9.8,2.0,7.9
+2026054,ana pereira 84,CIÊNCIAS,1 bimestre,7.9,8.5,1.2,10.0
+2026054,ana pereira 84,CIÊNCIAS,2 bimestre,7.5,7.1,1.2,7.5
+2026054,ana pereira 84,COOPERATIVISMO,1 bimestre,8.1,9.2,1.6,7.9
+2026054,ana pereira 84,COOPERATIVISMO,2 bimestre,8.6,8.5,1.5,7.8
+2026054,ana pereira 84,EDUCAÇÃO FÍSICA,1 bimestre,8.8,9.9,1.2,9.7
+2026054,ana pereira 84,EDUCAÇÃO FÍSICA,2 bimestre,8.3,8.1,1.5,9.0
+2026054,ana pereira 84,FILOSOFIA,1 bimestre,9.6,7.7,1.2,8.7
+2026054,ana pereira 84,FILOSOFIA,2 bimestre,9.3,7.1,2.0,8.4
+2026054,ana pereira 84,GEOGRAFIA,1 bimestre,7.8,9.7,1.6,9.9
+2026054,ana pereira 84,GEOGRAFIA,2 bimestre,8.0,8.7,1.4,9.9
+2026054,ana pereira 84,HISTÓRIA,1 bimestre,7.2,7.9,0.8,7.8
+2026054,ana pereira 84,HISTÓRIA,2 bimestre,8.5,8.1,1.1,9.5
+2026054,ana pereira 84,MATEMÁTICA,1 bimestre,9.8,7.2,0.8,9.0
+2026054,ana pereira 84,MATEMÁTICA,2 bimestre,8.1,7.8,0.9,8.0
+2026055,henrique silva 18,ARTE,1 bimestre,9.1,8.1,0.9,9.4
+2026055,henrique silva 18,ARTE,2 bimestre,9.4,9.6,1.9,8.5
+2026055,henrique silva 18,CIÊNCIAS,1 bimestre,8.5,9.4,1.5,9.1
+2026055,henrique silva 18,CIÊNCIAS,2 bimestre,9.4,9.7,1.0,8.1
+2026055,henrique silva 18,COOPERATIVISMO,1 bimestre,7.3,8.7,0.6,8.4
+2026055,henrique silva 18,COOPERATIVISMO,2 bimestre,8.6,7.9,1.4,7.1
+2026055,henrique silva 18,EDUCAÇÃO FÍSICA,1 bimestre,7.1,9.5,1.0,7.4
+2026055,henrique silva 18,EDUCAÇÃO FÍSICA,2 bimestre,8.6,9.3,0.8,8.9
+2026055,henrique silva 18,FILOSOFIA,1 bimestre,7.3,7.2,1.3,8.6
+2026055,henrique silva 18,FILOSOFIA,2 bimestre,8.9,9.2,2.0,8.5
+2026055,henrique silva 18,GEOGRAFIA,1 bimestre,8.0,9.4,0.9,8.3
+2026055,henrique silva 18,GEOGRAFIA,2 bimestre,7.2,7.1,1.9,9.5
+2026055,henrique silva 18,HISTÓRIA,1 bimestre,9.1,8.2,0.8,7.5
+2026055,henrique silva 18,HISTÓRIA,2 bimestre,7.8,8.6,1.6,9.0
+2026055,henrique silva 18,MATEMÁTICA,1 bimestre,7.8,9.9,1.6,8.7
+2026055,henrique silva 18,MATEMÁTICA,2 bimestre,8.8,8.3,0.9,8.1
+2026056,eduarda ferreira 66,ARTE,1 bimestre,8.0,7.3,0.6,7.9
+2026056,eduarda ferreira 66,ARTE,2 bimestre,9.9,7.5,0.5,9.3
+2026056,eduarda ferreira 66,CIÊNCIAS,1 bimestre,9.4,8.0,1.2,8.9
+2026056,eduarda ferreira 66,CIÊNCIAS,2 bimestre,7.1,9.8,1.8,7.8
+2026056,eduarda ferreira 66,COOPERATIVISMO,1 bimestre,7.0,9.8,1.3,8.6
+2026056,eduarda ferreira 66,COOPERATIVISMO,2 bimestre,9.1,8.8,1.9,9.8
+2026056,eduarda ferreira 66,EDUCAÇÃO FÍSICA,1 bimestre,9.6,8.9,1.7,9.0
+2026056,eduarda ferreira 66,EDUCAÇÃO FÍSICA,2 bimestre,8.7,7.4,1.7,9.5
+2026056,eduarda ferreira 66,FILOSOFIA,1 bimestre,8.9,9.5,1.5,7.6
+2026056,eduarda ferreira 66,FILOSOFIA,2 bimestre,7.8,7.6,1.1,7.1
+2026056,eduarda ferreira 66,GEOGRAFIA,1 bimestre,8.9,8.0,1.5,8.2
+2026056,eduarda ferreira 66,GEOGRAFIA,2 bimestre,9.0,8.0,0.9,8.5
+2026056,eduarda ferreira 66,HISTÓRIA,1 bimestre,9.1,8.0,1.9,7.1
+2026056,eduarda ferreira 66,HISTÓRIA,2 bimestre,8.3,9.9,1.3,8.3
+2026056,eduarda ferreira 66,MATEMÁTICA,1 bimestre,8.7,8.7,1.6,7.4
+2026056,eduarda ferreira 66,MATEMÁTICA,2 bimestre,7.8,8.7,1.8,8.7
+2026057,lucas silva 64,ARTE,1 bimestre,9.3,9.3,0.7,9.7
+2026057,lucas silva 64,ARTE,2 bimestre,8.5,9.5,1.0,9.7
+2026057,lucas silva 64,CIÊNCIAS,1 bimestre,8.2,7.0,1.9,7.3
+2026057,lucas silva 64,CIÊNCIAS,2 bimestre,8.0,9.9,1.9,8.7
+2026057,lucas silva 64,COOPERATIVISMO,1 bimestre,8.9,8.3,0.9,8.0
+2026057,lucas silva 64,COOPERATIVISMO,2 bimestre,9.0,9.3,1.7,9.4
+2026057,lucas silva 64,EDUCAÇÃO FÍSICA,1 bimestre,7.3,8.5,0.6,8.6
+2026057,lucas silva 64,EDUCAÇÃO FÍSICA,2 bimestre,8.3,9.7,1.0,7.4
+2026057,lucas silva 64,FILOSOFIA,1 bimestre,7.4,9.3,1.4,7.3
+2026057,lucas silva 64,FILOSOFIA,2 bimestre,7.3,9.1,0.6,9.5
+2026057,lucas silva 64,GEOGRAFIA,1 bimestre,9.1,7.2,0.6,10.0
+2026057,lucas silva 64,GEOGRAFIA,2 bimestre,8.1,8.1,1.7,9.8
+2026057,lucas silva 64,HISTÓRIA,1 bimestre,10.0,9.3,1.1,7.3
+2026057,lucas silva 64,HISTÓRIA,2 bimestre,9.3,8.7,1.1,9.7
+2026057,lucas silva 64,MATEMÁTICA,1 bimestre,7.3,8.5,0.5,8.4
+2026057,lucas silva 64,MATEMÁTICA,2 bimestre,7.2,7.4,0.7,8.9
+2026058,ana oliveira 86,ARTE,1 bimestre,7.7,8.2,1.2,7.2
+2026058,ana oliveira 86,ARTE,2 bimestre,8.6,8.3,1.7,9.9
+2026058,ana oliveira 86,CIÊNCIAS,1 bimestre,8.7,8.0,0.6,9.8
+2026058,ana oliveira 86,CIÊNCIAS,2 bimestre,9.8,7.8,1.5,7.2
+2026058,ana oliveira 86,COOPERATIVISMO,1 bimestre,7.5,7.7,0.9,10.0
+2026058,ana oliveira 86,COOPERATIVISMO,2 bimestre,9.1,8.2,1.6,9.7
+2026058,ana oliveira 86,EDUCAÇÃO FÍSICA,1 bimestre,9.9,7.2,1.1,7.3
+2026058,ana oliveira 86,EDUCAÇÃO FÍSICA,2 bimestre,8.0,7.5,1.5,8.2
+2026058,ana oliveira 86,FILOSOFIA,1 bimestre,7.7,7.8,1.0,7.8
+2026058,ana oliveira 86,FILOSOFIA,2 bimestre,8.4,7.1,0.9,8.2
+2026058,ana oliveira 86,GEOGRAFIA,1 bimestre,8.8,7.8,0.7,7.2
+2026058,ana oliveira 86,GEOGRAFIA,2 bimestre,9.8,8.2,1.4,9.8
+2026058,ana oliveira 86,HISTÓRIA,1 bimestre,7.2,9.6,1.3,7.5
+2026058,ana oliveira 86,HISTÓRIA,2 bimestre,8.2,9.3,1.2,10.0
+2026058,ana oliveira 86,MATEMÁTICA,1 bimestre,8.1,9.2,1.1,9.5
+2026058,ana oliveira 86,MATEMÁTICA,2 bimestre,8.7,7.2,0.6,7.4
+2026059,otávio alves 15,ARTE,1 bimestre,9.1,8.6,1.6,9.7
+2026059,otávio alves 15,ARTE,2 bimestre,8.8,9.2,1.6,8.1
+2026059,otávio alves 15,CIÊNCIAS,1 bimestre,7.7,7.6,0.9,7.8
+2026059,otávio alves 15,CIÊNCIAS,2 bimestre,7.6,9.6,1.6,7.1
+2026059,otávio alves 15,COOPERATIVISMO,1 bimestre,7.8,7.1,1.2,8.4
+2026059,otávio alves 15,COOPERATIVISMO,2 bimestre,9.5,7.9,1.7,9.9
+2026059,otávio alves 15,EDUCAÇÃO FÍSICA,1 bimestre,7.3,9.4,1.4,8.4
+2026059,otávio alves 15,EDUCAÇÃO FÍSICA,2 bimestre,8.3,9.4,1.5,9.4
+2026059,otávio alves 15,FILOSOFIA,1 bimestre,9.7,8.9,2.0,8.8
+2026059,otávio alves 15,FILOSOFIA,2 bimestre,8.9,8.7,0.6,9.2
+2026059,otávio alves 15,GEOGRAFIA,1 bimestre,8.6,8.4,1.9,7.9
+2026059,otávio alves 15,GEOGRAFIA,2 bimestre,8.6,9.1,1.7,8.4
+2026059,otávio alves 15,HISTÓRIA,1 bimestre,9.5,9.3,0.6,7.1
+2026059,otávio alves 15,HISTÓRIA,2 bimestre,8.9,8.0,0.8,8.7
+2026059,otávio alves 15,MATEMÁTICA,1 bimestre,8.0,8.6,1.2,8.8
+2026059,otávio alves 15,MATEMÁTICA,2 bimestre,8.2,9.1,0.8,9.1
+2026060,carla oliveira 36,ARTE,1 bimestre,9.0,7.5,0.8,7.1
+2026060,carla oliveira 36,ARTE,2 bimestre,7.5,7.8,0.8,7.3
+2026060,carla oliveira 36,CIÊNCIAS,1 bimestre,7.4,8.4,0.8,8.1
+2026060,carla oliveira 36,CIÊNCIAS,2 bimestre,8.5,9.1,0.6,9.4
+2026060,carla oliveira 36,COOPERATIVISMO,1 bimestre,8.9,7.2,1.8,9.8
+2026060,carla oliveira 36,COOPERATIVISMO,2 bimestre,7.2,7.8,1.7,9.2
+2026060,carla oliveira 36,EDUCAÇÃO FÍSICA,1 bimestre,7.6,7.6,1.1,8.5
+2026060,carla oliveira 36,EDUCAÇÃO FÍSICA,2 bimestre,8.9,8.1,1.2,9.2
+2026060,carla oliveira 36,FILOSOFIA,1 bimestre,7.1,7.8,1.6,9.7
+2026060,carla oliveira 36,FILOSOFIA,2 bimestre,8.5,8.6,0.7,8.3
+2026060,carla oliveira 36,GEOGRAFIA,1 bimestre,8.6,7.7,0.9,8.1
+2026060,carla oliveira 36,GEOGRAFIA,2 bimestre,7.1,8.0,0.8,8.0
+2026060,carla oliveira 36,HISTÓRIA,1 bimestre,7.4,9.7,1.4,9.0
+2026060,carla oliveira 36,HISTÓRIA,2 bimestre,9.4,8.5,0.6,8.6
+2026060,carla oliveira 36,MATEMÁTICA,1 bimestre,8.8,9.2,1.1,7.4
+2026060,carla oliveira 36,MATEMÁTICA,2 bimestre,7.9,8.1,1.5,8.7
+2026061,mariana ferreira 42,ARTE,1 bimestre,7.0,7.7,1.0,8.5
+2026061,mariana ferreira 42,ARTE,2 bimestre,9.6,7.3,1.7,7.2
+2026061,mariana ferreira 42,CIÊNCIAS,1 bimestre,9.5,7.2,0.5,9.1
+2026061,mariana ferreira 42,CIÊNCIAS,2 bimestre,10.0,9.7,1.4,9.8
+2026061,mariana ferreira 42,COOPERATIVISMO,1 bimestre,7.0,9.9,1.2,9.2
+2026061,mariana ferreira 42,COOPERATIVISMO,2 bimestre,9.5,9.2,1.3,8.4
+2026061,mariana ferreira 42,EDUCAÇÃO FÍSICA,1 bimestre,9.5,7.6,2.0,9.1
+2026061,mariana ferreira 42,EDUCAÇÃO FÍSICA,2 bimestre,7.6,9.2,1.3,9.1
+2026061,mariana ferreira 42,FILOSOFIA,1 bimestre,9.3,7.3,1.3,9.8
+2026061,mariana ferreira 42,FILOSOFIA,2 bimestre,8.0,8.8,1.1,8.4
+2026061,mariana ferreira 42,GEOGRAFIA,1 bimestre,8.6,8.6,0.8,9.1
+2026061,mariana ferreira 42,GEOGRAFIA,2 bimestre,7.3,7.4,0.5,7.4
+2026061,mariana ferreira 42,HISTÓRIA,1 bimestre,8.4,8.8,1.7,7.3
+2026061,mariana ferreira 42,HISTÓRIA,2 bimestre,9.6,9.2,1.1,9.8
+2026061,mariana ferreira 42,MATEMÁTICA,1 bimestre,10.0,7.6,1.1,9.8
+2026061,mariana ferreira 42,MATEMÁTICA,2 bimestre,9.2,7.1,1.7,9.5
+2026062,eduarda oliveira 94,ARTE,1 bimestre,7.6,7.7,1.5,9.7
+2026062,eduarda oliveira 94,ARTE,2 bimestre,7.9,8.8,1.5,8.4
+2026062,eduarda oliveira 94,CIÊNCIAS,1 bimestre,9.1,9.7,1.4,8.6
+2026062,eduarda oliveira 94,CIÊNCIAS,2 bimestre,8.3,8.7,1.0,8.2
+2026062,eduarda oliveira 94,COOPERATIVISMO,1 bimestre,8.6,7.2,0.8,8.6
+2026062,eduarda oliveira 94,COOPERATIVISMO,2 bimestre,8.3,8.0,1.6,9.1
+2026062,eduarda oliveira 94,EDUCAÇÃO FÍSICA,1 bimestre,7.5,9.6,1.2,9.2
+2026062,eduarda oliveira 94,EDUCAÇÃO FÍSICA,2 bimestre,8.7,10.0,1.6,9.1
+2026062,eduarda oliveira 94,FILOSOFIA,1 bimestre,9.3,7.4,0.8,9.1
+2026062,eduarda oliveira 94,FILOSOFIA,2 bimestre,8.5,9.3,0.7,8.6
+2026062,eduarda oliveira 94,GEOGRAFIA,1 bimestre,8.1,8.4,1.4,8.5
+2026062,eduarda oliveira 94,GEOGRAFIA,2 bimestre,8.6,8.5,1.1,9.3
+2026062,eduarda oliveira 94,HISTÓRIA,1 bimestre,7.0,8.8,1.3,9.1
+2026062,eduarda oliveira 94,HISTÓRIA,2 bimestre,8.8,9.5,1.9,8.0
+2026062,eduarda oliveira 94,MATEMÁTICA,1 bimestre,7.7,8.3,0.9,8.8
+2026062,eduarda oliveira 94,MATEMÁTICA,2 bimestre,9.7,7.4,0.7,7.8
+2026063,henrique souza 77,ARTE,1 bimestre,9.4,7.1,1.5,9.3
+2026063,henrique souza 77,ARTE,2 bimestre,8.1,7.2,0.6,7.3
+2026063,henrique souza 77,CIÊNCIAS,1 bimestre,9.5,9.7,0.7,7.7
+2026063,henrique souza 77,CIÊNCIAS,2 bimestre,7.5,7.6,1.8,8.0
+2026063,henrique souza 77,COOPERATIVISMO,1 bimestre,7.9,7.7,1.4,8.1
+2026063,henrique souza 77,COOPERATIVISMO,2 bimestre,9.2,7.6,1.7,8.8
+2026063,henrique souza 77,EDUCAÇÃO FÍSICA,1 bimestre,7.3,8.2,1.8,9.8
+2026063,henrique souza 77,EDUCAÇÃO FÍSICA,2 bimestre,8.4,8.4,1.9,8.8
+2026063,henrique souza 77,FILOSOFIA,1 bimestre,7.1,9.7,0.9,8.7
+2026063,henrique souza 77,FILOSOFIA,2 bimestre,7.5,7.1,1.0,9.3
+2026063,henrique souza 77,GEOGRAFIA,1 bimestre,7.8,7.7,0.8,8.5
+2026063,henrique souza 77,GEOGRAFIA,2 bimestre,9.9,8.4,1.3,9.6
+2026063,henrique souza 77,HISTÓRIA,1 bimestre,8.6,7.6,0.9,7.9
+2026063,henrique souza 77,HISTÓRIA,2 bimestre,8.2,8.3,1.7,8.0
+2026063,henrique souza 77,MATEMÁTICA,1 bimestre,8.4,8.9,1.1,9.5
+2026063,henrique souza 77,MATEMÁTICA,2 bimestre,8.8,7.9,1.6,8.6
+2026064,paula santos 47,ARTE,1 bimestre,9.3,7.3,1.0,7.2
+2026064,paula santos 47,ARTE,2 bimestre,9.3,7.8,1.8,8.6
+2026064,paula santos 47,CIÊNCIAS,1 bimestre,9.4,9.9,1.8,9.6
+2026064,paula santos 47,CIÊNCIAS,2 bimestre,8.2,8.7,0.9,7.6
+2026064,paula santos 47,COOPERATIVISMO,1 bimestre,8.5,8.8,1.0,8.7
+2026064,paula santos 47,COOPERATIVISMO,2 bimestre,9.7,8.7,1.6,9.4
+2026064,paula santos 47,EDUCAÇÃO FÍSICA,1 bimestre,10.0,8.8,1.7,9.9
+2026064,paula santos 47,EDUCAÇÃO FÍSICA,2 bimestre,9.8,7.4,1.1,8.0
+2026064,paula santos 47,FILOSOFIA,1 bimestre,7.3,8.9,1.6,9.5
+2026064,paula santos 47,FILOSOFIA,2 bimestre,7.4,9.6,1.5,9.1
+2026064,paula santos 47,GEOGRAFIA,1 bimestre,9.7,8.9,1.0,9.5
+2026064,paula santos 47,GEOGRAFIA,2 bimestre,8.1,7.1,1.7,8.0
+2026064,paula santos 47,HISTÓRIA,1 bimestre,9.3,8.1,1.8,7.7
+2026064,paula santos 47,HISTÓRIA,2 bimestre,9.9,9.3,0.7,8.7
+2026064,paula santos 47,MATEMÁTICA,1 bimestre,10.0,8.4,0.8,8.5
+2026064,paula santos 47,MATEMÁTICA,2 bimestre,8.5,9.2,1.5,8.2
+2026065,isabela ferreira 31,ARTE,1 bimestre,9.5,10.0,1.3,7.5
+2026065,isabela ferreira 31,ARTE,2 bimestre,7.8,7.1,1.9,7.4
+2026065,isabela ferreira 31,CIÊNCIAS,1 bimestre,8.7,7.8,1.3,9.0
+2026065,isabela ferreira 31,CIÊNCIAS,2 bimestre,9.5,7.6,0.5,7.4
+2026065,isabela ferreira 31,COOPERATIVISMO,1 bimestre,9.7,9.6,1.4,8.8
+2026065,isabela ferreira 31,COOPERATIVISMO,2 bimestre,9.0,7.5,1.9,8.3
+2026065,isabela ferreira 31,EDUCAÇÃO FÍSICA,1 bimestre,8.1,8.6,0.6,7.5
+2026065,isabela ferreira 31,EDUCAÇÃO FÍSICA,2 bimestre,9.2,7.2,1.4,7.7
+2026065,isabela ferreira 31,FILOSOFIA,1 bimestre,8.2,7.9,1.0,9.2
+2026065,isabela ferreira 31,FILOSOFIA,2 bimestre,7.9,8.7,1.2,9.0
+2026065,isabela ferreira 31,GEOGRAFIA,1 bimestre,9.8,9.2,0.8,7.1
+2026065,isabela ferreira 31,GEOGRAFIA,2 bimestre,7.8,8.8,0.6,8.5
+2026065,isabela ferreira 31,HISTÓRIA,1 bimestre,8.8,8.0,1.7,7.3
+2026065,isabela ferreira 31,HISTÓRIA,2 bimestre,7.2,9.2,1.2,9.1
+2026065,isabela ferreira 31,MATEMÁTICA,1 bimestre,8.3,7.7,1.7,9.4
+2026065,isabela ferreira 31,MATEMÁTICA,2 bimestre,9.1,7.8,1.4,8.1
+2026066,lucas silva 70,ARTE,1 bimestre,9.4,9.1,1.3,7.3
+2026066,lucas silva 70,ARTE,2 bimestre,9.9,9.3,1.5,9.3
+2026066,lucas silva 70,CIÊNCIAS,1 bimestre,9.2,8.9,2.0,9.7
+2026066,lucas silva 70,CIÊNCIAS,2 bimestre,8.9,9.1,0.6,9.0
+2026066,lucas silva 70,COOPERATIVISMO,1 bimestre,7.1,8.8,2.0,8.7
+2026066,lucas silva 70,COOPERATIVISMO,2 bimestre,8.4,7.9,0.7,9.2
+2026066,lucas silva 70,EDUCAÇÃO FÍSICA,1 bimestre,7.6,7.3,1.1,9.4
+2026066,lucas silva 70,EDUCAÇÃO FÍSICA,2 bimestre,9.2,7.2,1.2,8.6
+2026066,lucas silva 70,FILOSOFIA,1 bimestre,8.9,9.0,1.0,8.7
+2026066,lucas silva 70,FILOSOFIA,2 bimestre,8.4,9.7,1.3,8.3
+2026066,lucas silva 70,GEOGRAFIA,1 bimestre,8.2,8.7,1.7,8.6
+2026066,lucas silva 70,GEOGRAFIA,2 bimestre,9.0,9.2,1.3,8.3
+2026066,lucas silva 70,HISTÓRIA,1 bimestre,9.6,8.3,1.2,10.0
+2026066,lucas silva 70,HISTÓRIA,2 bimestre,7.0,7.6,1.1,9.8
+2026066,lucas silva 70,MATEMÁTICA,1 bimestre,7.2,7.0,0.6,7.3
+2026066,lucas silva 70,MATEMÁTICA,2 bimestre,7.1,8.4,1.4,7.8
+2026067,joão lima 93,ARTE,1 bimestre,9.2,7.7,0.7,8.1
+2026067,joão lima 93,ARTE,2 bimestre,7.9,7.9,0.9,7.1
+2026067,joão lima 93,CIÊNCIAS,1 bimestre,7.1,10.0,1.1,8.2
+2026067,joão lima 93,CIÊNCIAS,2 bimestre,9.0,7.7,1.9,9.4
+2026067,joão lima 93,COOPERATIVISMO,1 bimestre,7.3,8.3,1.8,9.8
+2026067,joão lima 93,COOPERATIVISMO,2 bimestre,8.4,8.8,0.8,10.0
+2026067,joão lima 93,EDUCAÇÃO FÍSICA,1 bimestre,7.7,9.8,1.5,8.8
+2026067,joão lima 93,EDUCAÇÃO FÍSICA,2 bimestre,8.5,7.7,0.8,7.7
+2026067,joão lima 93,FILOSOFIA,1 bimestre,7.6,9.3,1.0,7.2
+2026067,joão lima 93,FILOSOFIA,2 bimestre,9.9,9.7,1.9,10.0
+2026067,joão lima 93,GEOGRAFIA,1 bimestre,7.5,8.2,1.6,9.1
+2026067,joão lima 93,GEOGRAFIA,2 bimestre,7.5,9.4,0.8,7.7
+2026067,joão lima 93,HISTÓRIA,1 bimestre,8.6,8.8,1.4,7.3
+2026067,joão lima 93,HISTÓRIA,2 bimestre,9.6,7.8,0.7,9.7
+2026067,joão lima 93,MATEMÁTICA,1 bimestre,9.9,9.6,1.7,9.0
+2026067,joão lima 93,MATEMÁTICA,2 bimestre,8.7,7.3,1.1,8.1
+2026068,henrique rodrigues 57,ARTE,1 bimestre,8.5,7.2,0.8,9.0
+2026068,henrique rodrigues 57,ARTE,2 bimestre,7.2,9.6,1.2,8.4
+2026068,henrique rodrigues 57,CIÊNCIAS,1 bimestre,8.8,9.5,1.0,9.0
+2026068,henrique rodrigues 57,CIÊNCIAS,2 bimestre,8.7,7.8,1.8,9.4
+2026068,henrique rodrigues 57,COOPERATIVISMO,1 bimestre,9.0,9.6,1.8,9.1
+2026068,henrique rodrigues 57,COOPERATIVISMO,2 bimestre,9.5,9.1,1.5,8.9
+2026068,henrique rodrigues 57,EDUCAÇÃO FÍSICA,1 bimestre,9.3,7.5,1.8,9.6
+2026068,henrique rodrigues 57,EDUCAÇÃO FÍSICA,2 bimestre,7.1,9.5,0.7,8.0
+2026068,henrique rodrigues 57,FILOSOFIA,1 bimestre,9.2,7.5,1.7,9.5
+2026068,henrique rodrigues 57,FILOSOFIA,2 bimestre,8.5,7.0,0.9,8.9
+2026068,henrique rodrigues 57,GEOGRAFIA,1 bimestre,9.9,8.9,0.9,8.9
+2026068,henrique rodrigues 57,GEOGRAFIA,2 bimestre,8.6,9.3,0.7,9.3
+2026068,henrique rodrigues 57,HISTÓRIA,1 bimestre,8.6,9.9,1.0,8.9
+2026068,henrique rodrigues 57,HISTÓRIA,2 bimestre,9.8,7.3,1.9,9.1
+2026068,henrique rodrigues 57,MATEMÁTICA,1 bimestre,7.2,7.9,1.6,7.2
+2026068,henrique rodrigues 57,MATEMÁTICA,2 bimestre,8.7,8.0,1.4,7.1
+2026069,rafael souza 61,ARTE,1 bimestre,9.3,7.1,0.5,8.0
+2026069,rafael souza 61,ARTE,2 bimestre,8.5,9.3,1.5,8.3
+2026069,rafael souza 61,CIÊNCIAS,1 bimestre,7.8,10.0,1.1,8.4
+2026069,rafael souza 61,CIÊNCIAS,2 bimestre,7.5,9.4,1.5,7.7
+2026069,rafael souza 61,COOPERATIVISMO,1 bimestre,7.2,9.0,1.5,7.8
+2026069,rafael souza 61,COOPERATIVISMO,2 bimestre,9.9,7.5,1.1,9.8
+2026069,rafael souza 61,EDUCAÇÃO FÍSICA,1 bimestre,8.3,8.9,1.1,7.8
+2026069,rafael souza 61,EDUCAÇÃO FÍSICA,2 bimestre,10.0,8.2,1.8,7.7
+2026069,rafael souza 61,FILOSOFIA,1 bimestre,7.6,7.1,1.5,8.1
+2026069,rafael souza 61,FILOSOFIA,2 bimestre,9.6,8.4,2.0,7.6
+2026069,rafael souza 61,GEOGRAFIA,1 bimestre,9.6,9.3,1.7,9.5
+2026069,rafael souza 61,GEOGRAFIA,2 bimestre,9.3,8.9,0.7,7.1
+2026069,rafael souza 61,HISTÓRIA,1 bimestre,9.8,8.8,1.7,8.4
+2026069,rafael souza 61,HISTÓRIA,2 bimestre,7.4,7.4,1.5,8.3
+2026069,rafael souza 61,MATEMÁTICA,1 bimestre,7.6,8.5,0.6,8.7
+2026069,rafael souza 61,MATEMÁTICA,2 bimestre,7.8,9.4,1.0,8.4
+2026070,henrique rodrigues 27,ARTE,1 bimestre,9.0,8.2,2.0,9.2
+2026070,henrique rodrigues 27,ARTE,2 bimestre,9.0,9.3,1.9,9.7
+2026070,henrique rodrigues 27,CIÊNCIAS,1 bimestre,9.2,9.2,0.7,7.3
+2026070,henrique rodrigues 27,CIÊNCIAS,2 bimestre,8.7,7.1,1.2,7.6
+2026070,henrique rodrigues 27,COOPERATIVISMO,1 bimestre,8.0,9.3,1.9,7.2
+2026070,henrique rodrigues 27,COOPERATIVISMO,2 bimestre,8.6,9.6,0.6,9.5
+2026070,henrique rodrigues 27,EDUCAÇÃO FÍSICA,1 bimestre,8.1,8.0,2.0,7.6
+2026070,henrique rodrigues 27,EDUCAÇÃO FÍSICA,2 bimestre,9.1,9.5,0.6,9.0
+2026070,henrique rodrigues 27,FILOSOFIA,1 bimestre,9.9,7.4,1.8,8.8
+2026070,henrique rodrigues 27,FILOSOFIA,2 bimestre,8.8,8.8,0.9,9.8
+2026070,henrique rodrigues 27,GEOGRAFIA,1 bimestre,9.8,8.9,1.7,8.8
+2026070,henrique rodrigues 27,GEOGRAFIA,2 bimestre,8.5,9.0,1.3,8.8
+2026070,henrique rodrigues 27,HISTÓRIA,1 bimestre,9.4,8.4,0.6,7.5
+2026070,henrique rodrigues 27,HISTÓRIA,2 bimestre,8.3,9.2,1.4,9.0
+2026070,henrique rodrigues 27,MATEMÁTICA,1 bimestre,8.4,8.8,1.0,8.4
+2026070,henrique rodrigues 27,MATEMÁTICA,2 bimestre,9.2,9.6,1.2,7.1
+2026071,lucas santos 79,ARTE,1 bimestre,9.2,7.7,2.0,9.9
+2026071,lucas santos 79,ARTE,2 bimestre,9.0,7.6,1.5,7.2
+2026071,lucas santos 79,CIÊNCIAS,1 bimestre,7.1,7.8,1.2,9.6
+2026071,lucas santos 79,CIÊNCIAS,2 bimestre,9.2,9.2,1.1,8.0
+2026071,lucas santos 79,COOPERATIVISMO,1 bimestre,8.1,10.0,0.6,9.6
+2026071,lucas santos 79,COOPERATIVISMO,2 bimestre,8.7,8.3,1.6,8.5
+2026071,lucas santos 79,EDUCAÇÃO FÍSICA,1 bimestre,9.6,9.7,1.1,7.8
+2026071,lucas santos 79,EDUCAÇÃO FÍSICA,2 bimestre,8.8,9.7,0.8,8.9
+2026071,lucas santos 79,FILOSOFIA,1 bimestre,8.9,9.2,0.7,9.1
+2026071,lucas santos 79,FILOSOFIA,2 bimestre,9.7,7.5,0.9,9.9
+2026071,lucas santos 79,GEOGRAFIA,1 bimestre,7.5,9.6,1.2,7.7
+2026071,lucas santos 79,GEOGRAFIA,2 bimestre,9.6,8.3,1.3,8.1
+2026071,lucas santos 79,HISTÓRIA,1 bimestre,8.8,7.5,1.1,9.9
+2026071,lucas santos 79,HISTÓRIA,2 bimestre,7.8,9.0,1.0,9.3
+2026071,lucas santos 79,MATEMÁTICA,1 bimestre,7.4,9.9,1.2,7.7
+2026071,lucas santos 79,MATEMÁTICA,2 bimestre,7.2,7.5,1.3,8.0
+2026072,isabela silva 14,ARTE,1 bimestre,7.7,8.9,1.6,7.5
+2026072,isabela silva 14,ARTE,2 bimestre,7.5,7.1,1.6,9.0
+2026072,isabela silva 14,CIÊNCIAS,1 bimestre,8.4,9.5,1.7,8.8
+2026072,isabela silva 14,CIÊNCIAS,2 bimestre,9.6,7.6,0.7,7.8
+2026072,isabela silva 14,COOPERATIVISMO,1 bimestre,7.2,8.6,1.9,7.1
+2026072,isabela silva 14,COOPERATIVISMO,2 bimestre,7.4,8.4,1.9,7.9
+2026072,isabela silva 14,EDUCAÇÃO FÍSICA,1 bimestre,8.5,7.1,0.7,10.0
+2026072,isabela silva 14,EDUCAÇÃO FÍSICA,2 bimestre,9.9,7.0,1.9,8.9
+2026072,isabela silva 14,FILOSOFIA,1 bimestre,9.6,8.4,1.3,8.5
+2026072,isabela silva 14,FILOSOFIA,2 bimestre,9.0,7.4,0.5,7.9
+2026072,isabela silva 14,GEOGRAFIA,1 bimestre,9.1,7.6,1.5,9.9
+2026072,isabela silva 14,GEOGRAFIA,2 bimestre,7.3,9.0,1.2,9.6
+2026072,isabela silva 14,HISTÓRIA,1 bimestre,7.5,9.1,1.8,9.8
+2026072,isabela silva 14,HISTÓRIA,2 bimestre,9.0,8.5,1.4,9.6
+2026072,isabela silva 14,MATEMÁTICA,1 bimestre,8.7,7.1,1.9,9.1
+2026072,isabela silva 14,MATEMÁTICA,2 bimestre,9.0,7.6,1.5,8.2
+2026073,eduarda lima 71,ARTE,1 bimestre,9.0,10.0,0.6,9.9
+2026073,eduarda lima 71,ARTE,2 bimestre,8.2,9.6,1.7,8.7
+2026073,eduarda lima 71,CIÊNCIAS,1 bimestre,9.2,9.6,1.1,8.0
+2026073,eduarda lima 71,CIÊNCIAS,2 bimestre,9.0,9.4,1.6,9.4
+2026073,eduarda lima 71,COOPERATIVISMO,1 bimestre,8.3,9.5,0.7,8.6
+2026073,eduarda lima 71,COOPERATIVISMO,2 bimestre,7.0,8.0,1.0,8.2
+2026073,eduarda lima 71,EDUCAÇÃO FÍSICA,1 bimestre,9.1,8.2,1.2,7.7
+2026073,eduarda lima 71,EDUCAÇÃO FÍSICA,2 bimestre,8.1,7.7,0.6,8.8
+2026073,eduarda lima 71,FILOSOFIA,1 bimestre,9.0,8.9,1.2,8.1
+2026073,eduarda lima 71,FILOSOFIA,2 bimestre,9.6,8.6,1.2,7.1
+2026073,eduarda lima 71,GEOGRAFIA,1 bimestre,8.0,8.1,1.1,8.7
+2026073,eduarda lima 71,GEOGRAFIA,2 bimestre,8.6,8.8,1.6,9.4
+2026073,eduarda lima 71,HISTÓRIA,1 bimestre,9.2,9.9,0.5,7.6
+2026073,eduarda lima 71,HISTÓRIA,2 bimestre,7.0,8.9,1.8,7.7
+2026073,eduarda lima 71,MATEMÁTICA,1 bimestre,9.8,7.2,1.9,8.1
+2026073,eduarda lima 71,MATEMÁTICA,2 bimestre,7.3,8.5,0.9,7.9
+2026074,nathalia oliveira 17,ARTE,1 bimestre,7.9,8.8,1.6,7.8
+2026074,nathalia oliveira 17,ARTE,2 bimestre,8.2,7.4,0.8,9.0
+2026074,nathalia oliveira 17,CIÊNCIAS,1 bimestre,7.5,8.6,1.6,7.3
+2026074,nathalia oliveira 17,CIÊNCIAS,2 bimestre,8.7,7.8,1.9,8.5
+2026074,nathalia oliveira 17,COOPERATIVISMO,1 bimestre,9.4,8.7,0.6,8.9
+2026074,nathalia oliveira 17,COOPERATIVISMO,2 bimestre,9.9,8.8,1.7,9.7
+2026074,nathalia oliveira 17,EDUCAÇÃO FÍSICA,1 bimestre,7.7,7.6,1.4,8.2
+2026074,nathalia oliveira 17,EDUCAÇÃO FÍSICA,2 bimestre,9.5,9.7,1.0,7.7
+2026074,nathalia oliveira 17,FILOSOFIA,1 bimestre,9.3,7.8,1.7,8.3
+2026074,nathalia oliveira 17,FILOSOFIA,2 bimestre,9.0,7.3,1.4,8.4
+2026074,nathalia oliveira 17,GEOGRAFIA,1 bimestre,8.8,7.5,1.6,9.6
+2026074,nathalia oliveira 17,GEOGRAFIA,2 bimestre,7.7,7.3,0.5,8.9
+2026074,nathalia oliveira 17,HISTÓRIA,1 bimestre,8.8,8.6,0.8,8.2
+2026074,nathalia oliveira 17,HISTÓRIA,2 bimestre,8.8,8.5,2.0,7.4
+2026074,nathalia oliveira 17,MATEMÁTICA,1 bimestre,9.1,8.2,1.1,9.2
+2026074,nathalia oliveira 17,MATEMÁTICA,2 bimestre,9.1,10.0,0.7,7.3
+2026075,felipe gomes 41,ARTE,1 bimestre,7.8,7.2,0.6,9.7
+2026075,felipe gomes 41,ARTE,2 bimestre,7.6,8.0,0.8,8.1
+2026075,felipe gomes 41,CIÊNCIAS,1 bimestre,7.2,8.6,0.6,9.4
+2026075,felipe gomes 41,CIÊNCIAS,2 bimestre,7.7,8.6,1.8,9.0
+2026075,felipe gomes 41,COOPERATIVISMO,1 bimestre,8.6,8.0,1.0,9.0
+2026075,felipe gomes 41,COOPERATIVISMO,2 bimestre,10.0,9.0,1.3,9.2
+2026075,felipe gomes 41,EDUCAÇÃO FÍSICA,1 bimestre,8.4,7.2,1.3,9.9
+2026075,felipe gomes 41,EDUCAÇÃO FÍSICA,2 bimestre,7.5,9.1,0.8,8.6
+2026075,felipe gomes 41,FILOSOFIA,1 bimestre,7.3,8.4,1.6,8.0
+2026075,felipe gomes 41,FILOSOFIA,2 bimestre,9.0,9.4,1.9,7.7
+2026075,felipe gomes 41,GEOGRAFIA,1 bimestre,8.2,7.5,2.0,9.8
+2026075,felipe gomes 41,GEOGRAFIA,2 bimestre,8.6,9.5,1.3,8.9
+2026075,felipe gomes 41,HISTÓRIA,1 bimestre,7.3,9.3,0.7,9.5
+2026075,felipe gomes 41,HISTÓRIA,2 bimestre,9.3,9.1,0.6,7.9
+2026075,felipe gomes 41,MATEMÁTICA,1 bimestre,7.8,8.1,0.6,9.8
+2026075,felipe gomes 41,MATEMÁTICA,2 bimestre,8.7,7.9,1.1,8.3
+2026076,diego santos 64,ARTE,1 bimestre,7.5,9.4,1.4,8.7
+2026076,diego santos 64,ARTE,2 bimestre,8.2,8.5,1.1,8.6
+2026076,diego santos 64,CIÊNCIAS,1 bimestre,8.9,9.0,1.3,9.2
+2026076,diego santos 64,CIÊNCIAS,2 bimestre,7.4,7.6,1.7,8.0
+2026076,diego santos 64,COOPERATIVISMO,1 bimestre,7.1,7.5,0.8,9.9
+2026076,diego santos 64,COOPERATIVISMO,2 bimestre,8.7,9.8,1.4,8.4
+2026076,diego santos 64,EDUCAÇÃO FÍSICA,1 bimestre,7.9,8.8,0.7,9.7
+2026076,diego santos 64,EDUCAÇÃO FÍSICA,2 bimestre,9.5,8.0,1.9,9.5
+2026076,diego santos 64,FILOSOFIA,1 bimestre,9.0,7.4,1.2,8.5
+2026076,diego santos 64,FILOSOFIA,2 bimestre,7.7,7.2,1.7,7.4
+2026076,diego santos 64,GEOGRAFIA,1 bimestre,8.8,9.8,1.8,7.8
+2026076,diego santos 64,GEOGRAFIA,2 bimestre,9.6,7.0,0.5,8.8
+2026076,diego santos 64,HISTÓRIA,1 bimestre,8.1,8.2,1.3,7.6
+2026076,diego santos 64,HISTÓRIA,2 bimestre,7.6,8.5,1.6,8.9
+2026076,diego santos 64,MATEMÁTICA,1 bimestre,7.9,8.3,0.8,7.2
+2026076,diego santos 64,MATEMÁTICA,2 bimestre,9.3,7.8,0.8,9.1
+2026077,ana souza 13,ARTE,1 bimestre,10.0,9.4,1.4,7.9
+2026077,ana souza 13,ARTE,2 bimestre,8.9,8.6,1.1,7.4
+2026077,ana souza 13,CIÊNCIAS,1 bimestre,9.7,8.3,0.8,8.1
+2026077,ana souza 13,CIÊNCIAS,2 bimestre,8.2,9.5,1.6,9.3
+2026077,ana souza 13,COOPERATIVISMO,1 bimestre,7.0,8.2,1.2,7.1
+2026077,ana souza 13,COOPERATIVISMO,2 bimestre,7.8,9.3,0.7,8.6
+2026077,ana souza 13,EDUCAÇÃO FÍSICA,1 bimestre,7.6,7.0,0.9,9.9
+2026077,ana souza 13,EDUCAÇÃO FÍSICA,2 bimestre,9.4,9.9,1.2,7.3
+2026077,ana souza 13,FILOSOFIA,1 bimestre,8.6,8.4,1.8,7.3
+2026077,ana souza 13,FILOSOFIA,2 bimestre,8.5,7.5,1.0,9.2
+2026077,ana souza 13,GEOGRAFIA,1 bimestre,8.4,8.1,1.1,8.4
+2026077,ana souza 13,GEOGRAFIA,2 bimestre,9.4,9.7,1.9,9.4
+2026077,ana souza 13,HISTÓRIA,1 bimestre,7.9,9.1,1.2,7.8
+2026077,ana souza 13,HISTÓRIA,2 bimestre,9.5,7.1,1.9,8.4
+2026077,ana souza 13,MATEMÁTICA,1 bimestre,8.9,9.0,1.8,8.9
+2026077,ana souza 13,MATEMÁTICA,2 bimestre,8.8,7.2,1.3,7.5
+2026078,lucas silva 96,ARTE,1 bimestre,9.0,7.1,0.6,9.1
+2026078,lucas silva 96,ARTE,2 bimestre,7.2,7.2,0.5,9.9
+2026078,lucas silva 96,CIÊNCIAS,1 bimestre,9.2,8.1,0.9,8.0
+2026078,lucas silva 96,CIÊNCIAS,2 bimestre,9.3,9.0,0.8,7.5
+2026078,lucas silva 96,COOPERATIVISMO,1 bimestre,7.3,9.0,1.6,7.8
+2026078,lucas silva 96,COOPERATIVISMO,2 bimestre,7.1,7.2,2.0,7.9
+2026078,lucas silva 96,EDUCAÇÃO FÍSICA,1 bimestre,9.3,8.9,1.1,7.6
+2026078,lucas silva 96,EDUCAÇÃO FÍSICA,2 bimestre,7.4,8.8,1.7,8.9
+2026078,lucas silva 96,FILOSOFIA,1 bimestre,8.6,7.1,2.0,9.4
+2026078,lucas silva 96,FILOSOFIA,2 bimestre,7.9,9.9,1.4,8.7
+2026078,lucas silva 96,GEOGRAFIA,1 bimestre,9.2,9.4,1.5,7.4
+2026078,lucas silva 96,GEOGRAFIA,2 bimestre,8.0,9.8,0.8,8.1
+2026078,lucas silva 96,HISTÓRIA,1 bimestre,8.3,8.3,1.4,9.8
+2026078,lucas silva 96,HISTÓRIA,2 bimestre,7.7,7.4,0.8,9.7
+2026078,lucas silva 96,MATEMÁTICA,1 bimestre,8.9,7.9,1.7,9.6
+2026078,lucas silva 96,MATEMÁTICA,2 bimestre,9.5,9.8,0.9,9.3
+2026079,henrique pereira 16,ARTE,1 bimestre,7.5,7.2,1.0,9.3
+2026079,henrique pereira 16,ARTE,2 bimestre,7.8,8.6,1.6,7.3
+2026079,henrique pereira 16,CIÊNCIAS,1 bimestre,9.1,7.3,1.9,8.5
+2026079,henrique pereira 16,CIÊNCIAS,2 bimestre,7.5,8.0,1.1,9.3
+2026079,henrique pereira 16,COOPERATIVISMO,1 bimestre,9.2,8.8,0.7,7.5
+2026079,henrique pereira 16,COOPERATIVISMO,2 bimestre,7.3,8.7,1.8,8.3
+2026079,henrique pereira 16,EDUCAÇÃO FÍSICA,1 bimestre,7.5,8.7,1.7,9.2
+2026079,henrique pereira 16,EDUCAÇÃO FÍSICA,2 bimestre,9.6,7.8,0.8,9.6
+2026079,henrique pereira 16,FILOSOFIA,1 bimestre,9.0,7.9,1.6,9.4
+2026079,henrique pereira 16,FILOSOFIA,2 bimestre,8.8,9.1,1.1,8.6
+2026079,henrique pereira 16,GEOGRAFIA,1 bimestre,8.6,9.5,1.8,9.5
+2026079,henrique pereira 16,GEOGRAFIA,2 bimestre,7.0,9.2,1.6,9.0
+2026079,henrique pereira 16,HISTÓRIA,1 bimestre,9.3,9.5,1.2,8.5
+2026079,henrique pereira 16,HISTÓRIA,2 bimestre,7.4,8.2,1.5,9.3
+2026079,henrique pereira 16,MATEMÁTICA,1 bimestre,7.7,7.4,1.5,7.0
+2026079,henrique pereira 16,MATEMÁTICA,2 bimestre,7.5,7.1,0.8,7.5
+2026080,mariana souza 26,ARTE,1 bimestre,8.8,8.4,1.5,7.2
+2026080,mariana souza 26,ARTE,2 bimestre,8.7,8.7,1.3,8.8
+2026080,mariana souza 26,CIÊNCIAS,1 bimestre,9.0,9.4,0.9,9.5
+2026080,mariana souza 26,CIÊNCIAS,2 bimestre,8.5,7.2,0.6,8.0
+2026080,mariana souza 26,COOPERATIVISMO,1 bimestre,9.4,9.1,1.7,8.6
+2026080,mariana souza 26,COOPERATIVISMO,2 bimestre,8.3,7.4,1.0,8.3
+2026080,mariana souza 26,EDUCAÇÃO FÍSICA,1 bimestre,7.3,7.7,1.4,9.2
+2026080,mariana souza 26,EDUCAÇÃO FÍSICA,2 bimestre,10.0,9.8,1.5,8.3
+2026080,mariana souza 26,FILOSOFIA,1 bimestre,8.9,9.4,0.7,8.2
+2026080,mariana souza 26,FILOSOFIA,2 bimestre,9.5,8.2,1.4,8.8
+2026080,mariana souza 26,GEOGRAFIA,1 bimestre,7.6,8.1,1.0,7.1
+2026080,mariana souza 26,GEOGRAFIA,2 bimestre,7.1,9.5,0.9,8.6
+2026080,mariana souza 26,HISTÓRIA,1 bimestre,7.9,9.8,0.9,8.3
+2026080,mariana souza 26,HISTÓRIA,2 bimestre,9.6,9.5,0.8,9.4
+2026080,mariana souza 26,MATEMÁTICA,1 bimestre,8.4,8.4,0.7,7.2
+2026080,mariana souza 26,MATEMÁTICA,2 bimestre,9.2,8.5,1.2,9.2
+2026081,felipe lima 63,ARTE,1 bimestre,7.7,7.4,1.1,9.8
+2026081,felipe lima 63,ARTE,2 bimestre,8.4,7.0,0.9,7.1
+2026081,felipe lima 63,CIÊNCIAS,1 bimestre,7.1,7.8,0.9,9.4
+2026081,felipe lima 63,CIÊNCIAS,2 bimestre,9.9,8.1,1.1,9.5
+2026081,felipe lima 63,COOPERATIVISMO,1 bimestre,7.8,7.5,1.8,7.1
+2026081,felipe lima 63,COOPERATIVISMO,2 bimestre,8.9,8.7,1.0,7.9
+2026081,felipe lima 63,EDUCAÇÃO FÍSICA,1 bimestre,9.3,7.3,0.9,9.2
+2026081,felipe lima 63,EDUCAÇÃO FÍSICA,2 bimestre,8.6,7.4,1.8,8.2
+2026081,felipe lima 63,FILOSOFIA,1 bimestre,9.5,9.4,1.4,8.5
+2026081,felipe lima 63,FILOSOFIA,2 bimestre,9.9,7.4,1.6,7.6
+2026081,felipe lima 63,GEOGRAFIA,1 bimestre,8.0,7.9,1.9,9.9
+2026081,felipe lima 63,GEOGRAFIA,2 bimestre,7.5,7.1,1.6,8.3
+2026081,felipe lima 63,HISTÓRIA,1 bimestre,7.3,9.1,1.3,9.9
+2026081,felipe lima 63,HISTÓRIA,2 bimestre,7.7,8.2,1.3,9.4
+2026081,felipe lima 63,MATEMÁTICA,1 bimestre,8.6,8.8,0.8,9.5
+2026081,felipe lima 63,MATEMÁTICA,2 bimestre,8.3,7.4,1.5,7.6
+2026082,joão santos 25,ARTE,1 bimestre,8.2,9.0,1.3,7.2
+2026082,joão santos 25,ARTE,2 bimestre,8.5,9.4,1.2,7.2
+2026082,joão santos 25,CIÊNCIAS,1 bimestre,9.4,7.6,0.9,7.5
+2026082,joão santos 25,CIÊNCIAS,2 bimestre,8.0,9.3,1.3,7.6
+2026082,joão santos 25,COOPERATIVISMO,1 bimestre,9.6,9.6,1.8,7.7
+2026082,joão santos 25,COOPERATIVISMO,2 bimestre,8.4,10.0,1.7,7.1
+2026082,joão santos 25,EDUCAÇÃO FÍSICA,1 bimestre,7.2,8.4,1.9,8.6
+2026082,joão santos 25,EDUCAÇÃO FÍSICA,2 bimestre,8.5,7.3,1.5,9.5
+2026082,joão santos 25,FILOSOFIA,1 bimestre,8.1,9.3,1.9,7.6
+2026082,joão santos 25,FILOSOFIA,2 bimestre,8.6,7.9,1.7,8.7
+2026082,joão santos 25,GEOGRAFIA,1 bimestre,8.9,9.4,1.1,9.7
+2026082,joão santos 25,GEOGRAFIA,2 bimestre,8.6,7.5,1.5,9.4
+2026082,joão santos 25,HISTÓRIA,1 bimestre,8.0,9.6,1.9,7.8
+2026082,joão santos 25,HISTÓRIA,2 bimestre,10.0,7.4,0.8,7.6
+2026082,joão santos 25,MATEMÁTICA,1 bimestre,9.7,9.0,0.7,8.3
+2026082,joão santos 25,MATEMÁTICA,2 bimestre,8.8,7.3,1.8,9.4
+2026083,mateus alves 25,ARTE,1 bimestre,10.0,8.5,0.7,9.2
+2026083,mateus alves 25,ARTE,2 bimestre,8.0,10.0,2.0,9.0
+2026083,mateus alves 25,CIÊNCIAS,1 bimestre,7.4,9.1,0.6,7.1
+2026083,mateus alves 25,CIÊNCIAS,2 bimestre,9.5,7.6,1.1,9.9
+2026083,mateus alves 25,COOPERATIVISMO,1 bimestre,8.0,7.9,1.9,7.3
+2026083,mateus alves 25,COOPERATIVISMO,2 bimestre,9.3,10.0,1.9,9.0
+2026083,mateus alves 25,EDUCAÇÃO FÍSICA,1 bimestre,7.9,7.8,1.7,9.6
+2026083,mateus alves 25,EDUCAÇÃO FÍSICA,2 bimestre,8.6,7.7,0.7,7.3
+2026083,mateus alves 25,FILOSOFIA,1 bimestre,9.2,8.3,1.9,9.2
+2026083,mateus alves 25,FILOSOFIA,2 bimestre,7.6,8.8,1.2,8.7
+2026083,mateus alves 25,GEOGRAFIA,1 bimestre,9.2,9.4,1.8,7.8
+2026083,mateus alves 25,GEOGRAFIA,2 bimestre,7.1,9.2,0.7,7.9
+2026083,mateus alves 25,HISTÓRIA,1 bimestre,7.0,9.0,0.8,9.0
+2026083,mateus alves 25,HISTÓRIA,2 bimestre,10.0,7.2,0.6,8.0
+2026083,mateus alves 25,MATEMÁTICA,1 bimestre,9.6,7.6,1.0,7.2
+2026083,mateus alves 25,MATEMÁTICA,2 bimestre,9.3,8.2,1.6,9.7
+2026084,paula alves 18,ARTE,1 bimestre,9.4,9.0,0.9,9.7
+2026084,paula alves 18,ARTE,2 bimestre,9.0,8.7,0.7,8.3
+2026084,paula alves 18,CIÊNCIAS,1 bimestre,8.4,9.6,1.3,8.1
+2026084,paula alves 18,CIÊNCIAS,2 bimestre,9.9,7.3,1.1,7.1
+2026084,paula alves 18,COOPERATIVISMO,1 bimestre,9.2,9.8,0.9,9.6
+2026084,paula alves 18,COOPERATIVISMO,2 bimestre,7.9,9.7,1.6,9.4
+2026084,paula alves 18,EDUCAÇÃO FÍSICA,1 bimestre,7.1,9.9,1.6,7.9
+2026084,paula alves 18,EDUCAÇÃO FÍSICA,2 bimestre,9.5,7.8,1.8,7.3
+2026084,paula alves 18,FILOSOFIA,1 bimestre,9.1,8.6,0.6,7.7
+2026084,paula alves 18,FILOSOFIA,2 bimestre,7.0,8.4,1.0,8.8
+2026084,paula alves 18,GEOGRAFIA,1 bimestre,7.9,7.9,1.6,7.1
+2026084,paula alves 18,GEOGRAFIA,2 bimestre,9.7,9.6,1.5,8.8
+2026084,paula alves 18,HISTÓRIA,1 bimestre,9.7,7.6,0.6,7.7
+2026084,paula alves 18,HISTÓRIA,2 bimestre,9.4,7.1,1.4,10.0
+2026084,paula alves 18,MATEMÁTICA,1 bimestre,9.6,8.6,0.6,9.5
+2026084,paula alves 18,MATEMÁTICA,2 bimestre,8.8,7.3,0.6,9.7
+2026085,diego oliveira 90,ARTE,1 bimestre,7.2,9.9,0.5,9.1
+2026085,diego oliveira 90,ARTE,2 bimestre,7.2,9.7,1.2,7.4
+2026085,diego oliveira 90,CIÊNCIAS,1 bimestre,8.0,7.5,0.8,9.8
+2026085,diego oliveira 90,CIÊNCIAS,2 bimestre,8.3,9.4,1.5,9.0
+2026085,diego oliveira 90,COOPERATIVISMO,1 bimestre,7.4,7.7,1.7,9.9
+2026085,diego oliveira 90,COOPERATIVISMO,2 bimestre,7.8,7.8,1.2,10.0
+2026085,diego oliveira 90,EDUCAÇÃO FÍSICA,1 bimestre,7.8,8.2,1.8,7.0
+2026085,diego oliveira 90,EDUCAÇÃO FÍSICA,2 bimestre,7.1,8.8,1.9,7.7
+2026085,diego oliveira 90,FILOSOFIA,1 bimestre,8.4,8.4,1.2,8.9
+2026085,diego oliveira 90,FILOSOFIA,2 bimestre,8.4,8.3,1.2,8.8
+2026085,diego oliveira 90,GEOGRAFIA,1 bimestre,8.6,9.6,0.6,9.5
+2026085,diego oliveira 90,GEOGRAFIA,2 bimestre,9.5,7.9,1.2,8.3
+2026085,diego oliveira 90,HISTÓRIA,1 bimestre,7.7,8.2,0.6,7.8
+2026085,diego oliveira 90,HISTÓRIA,2 bimestre,9.5,7.9,1.7,8.6
+2026085,diego oliveira 90,MATEMÁTICA,1 bimestre,9.6,8.7,0.5,9.0
+2026085,diego oliveira 90,MATEMÁTICA,2 bimestre,7.1,8.4,1.9,7.5
+2026086,henrique oliveira 85,ARTE,1 bimestre,9.6,9.0,0.9,9.0
+2026086,henrique oliveira 85,ARTE,2 bimestre,7.9,9.2,1.9,9.2
+2026086,henrique oliveira 85,CIÊNCIAS,1 bimestre,9.6,7.0,1.6,9.5
+2026086,henrique oliveira 85,CIÊNCIAS,2 bimestre,7.1,9.6,0.9,9.0
+2026086,henrique oliveira 85,COOPERATIVISMO,1 bimestre,9.4,9.0,0.6,8.8
+2026086,henrique oliveira 85,COOPERATIVISMO,2 bimestre,8.6,9.7,1.1,8.0
+2026086,henrique oliveira 85,EDUCAÇÃO FÍSICA,1 bimestre,9.2,8.2,1.5,8.9
+2026086,henrique oliveira 85,EDUCAÇÃO FÍSICA,2 bimestre,9.7,8.8,1.3,7.4
+2026086,henrique oliveira 85,FILOSOFIA,1 bimestre,7.3,7.5,0.8,8.9
+2026086,henrique oliveira 85,FILOSOFIA,2 bimestre,9.2,8.6,1.7,10.0
+2026086,henrique oliveira 85,GEOGRAFIA,1 bimestre,9.5,9.1,1.3,8.3
+2026086,henrique oliveira 85,GEOGRAFIA,2 bimestre,7.3,8.2,1.9,9.4
+2026086,henrique oliveira 85,HISTÓRIA,1 bimestre,7.6,8.4,1.7,7.2
+2026086,henrique oliveira 85,HISTÓRIA,2 bimestre,8.2,9.6,1.1,7.2
+2026086,henrique oliveira 85,MATEMÁTICA,1 bimestre,8.6,9.6,1.4,7.7
+2026086,henrique oliveira 85,MATEMÁTICA,2 bimestre,8.2,8.4,1.4,9.3
+2026087,henrique gomes 66,ARTE,1 bimestre,7.1,8.2,1.3,8.5
+2026087,henrique gomes 66,ARTE,2 bimestre,7.5,8.9,0.6,9.3
+2026087,henrique gomes 66,CIÊNCIAS,1 bimestre,9.8,8.0,1.3,8.1
+2026087,henrique gomes 66,CIÊNCIAS,2 bimestre,7.0,8.2,1.7,8.8
+2026087,henrique gomes 66,COOPERATIVISMO,1 bimestre,7.3,9.5,1.3,9.5
+2026087,henrique gomes 66,COOPERATIVISMO,2 bimestre,8.7,8.7,0.7,7.5
+2026087,henrique gomes 66,EDUCAÇÃO FÍSICA,1 bimestre,9.9,7.7,2.0,8.6
+2026087,henrique gomes 66,EDUCAÇÃO FÍSICA,2 bimestre,7.4,7.3,0.8,9.8
+2026087,henrique gomes 66,FILOSOFIA,1 bimestre,8.2,8.2,1.0,7.4
+2026087,henrique gomes 66,FILOSOFIA,2 bimestre,8.5,7.4,1.8,8.1
+2026087,henrique gomes 66,GEOGRAFIA,1 bimestre,8.1,8.4,1.2,10.0
+2026087,henrique gomes 66,GEOGRAFIA,2 bimestre,8.6,7.3,1.4,7.5
+2026087,henrique gomes 66,HISTÓRIA,1 bimestre,7.1,9.9,1.7,9.9
+2026087,henrique gomes 66,HISTÓRIA,2 bimestre,8.4,8.6,0.8,7.7
+2026087,henrique gomes 66,MATEMÁTICA,1 bimestre,9.5,8.1,1.7,9.1
+2026087,henrique gomes 66,MATEMÁTICA,2 bimestre,7.5,8.5,1.5,7.7
+2026088,lara alves 77,ARTE,1 bimestre,8.0,8.7,0.7,8.3
+2026088,lara alves 77,ARTE,2 bimestre,8.9,8.5,1.1,10.0
+2026088,lara alves 77,CIÊNCIAS,1 bimestre,9.6,8.9,1.4,8.9
+2026088,lara alves 77,CIÊNCIAS,2 bimestre,7.6,8.2,0.6,8.4
+2026088,lara alves 77,COOPERATIVISMO,1 bimestre,8.6,7.7,1.9,9.7
+2026088,lara alves 77,COOPERATIVISMO,2 bimestre,9.2,8.6,1.8,7.4
+2026088,lara alves 77,EDUCAÇÃO FÍSICA,1 bimestre,9.4,7.4,1.7,7.8
+2026088,lara alves 77,EDUCAÇÃO FÍSICA,2 bimestre,9.6,9.8,0.7,8.4
+2026088,lara alves 77,FILOSOFIA,1 bimestre,9.9,8.5,1.8,8.8
+2026088,lara alves 77,FILOSOFIA,2 bimestre,8.1,7.9,0.8,9.3
+2026088,lara alves 77,GEOGRAFIA,1 bimestre,8.2,8.5,1.2,8.7
+2026088,lara alves 77,GEOGRAFIA,2 bimestre,9.6,9.9,1.1,9.5
+2026088,lara alves 77,HISTÓRIA,1 bimestre,9.3,8.7,1.9,7.6
+2026088,lara alves 77,HISTÓRIA,2 bimestre,7.3,9.6,1.2,9.5
+2026088,lara alves 77,MATEMÁTICA,1 bimestre,9.7,7.2,1.8,8.3
+2026088,lara alves 77,MATEMÁTICA,2 bimestre,8.5,8.9,1.9,7.1
+2026089,lara oliveira 63,ARTE,1 bimestre,8.6,8.9,1.5,9.5
+2026089,lara oliveira 63,ARTE,2 bimestre,8.0,9.2,1.3,9.4
+2026089,lara oliveira 63,CIÊNCIAS,1 bimestre,10.0,7.6,2.0,7.3
+2026089,lara oliveira 63,CIÊNCIAS,2 bimestre,7.0,7.1,1.0,8.9
+2026089,lara oliveira 63,COOPERATIVISMO,1 bimestre,7.2,7.0,1.9,9.5
+2026089,lara oliveira 63,COOPERATIVISMO,2 bimestre,9.4,9.7,1.6,7.3
+2026089,lara oliveira 63,EDUCAÇÃO FÍSICA,1 bimestre,8.2,9.2,0.9,9.1
+2026089,lara oliveira 63,EDUCAÇÃO FÍSICA,2 bimestre,7.1,7.9,1.3,8.9
+2026089,lara oliveira 63,FILOSOFIA,1 bimestre,8.7,9.1,0.5,7.3
+2026089,lara oliveira 63,FILOSOFIA,2 bimestre,9.6,9.0,0.7,9.5
+2026089,lara oliveira 63,GEOGRAFIA,1 bimestre,7.7,8.4,0.7,9.1
+2026089,lara oliveira 63,GEOGRAFIA,2 bimestre,9.0,7.6,1.8,8.2
+2026089,lara oliveira 63,HISTÓRIA,1 bimestre,7.9,7.5,0.9,7.1
+2026089,lara oliveira 63,HISTÓRIA,2 bimestre,8.7,9.5,1.3,7.7
+2026089,lara oliveira 63,MATEMÁTICA,1 bimestre,7.1,7.6,1.1,9.3
+2026089,lara oliveira 63,MATEMÁTICA,2 bimestre,7.6,9.2,1.8,8.4
+2026090,diego pereira 63,ARTE,1 bimestre,7.2,9.0,0.9,9.1
+2026090,diego pereira 63,ARTE,2 bimestre,9.5,9.4,1.3,8.6
+2026090,diego pereira 63,CIÊNCIAS,1 bimestre,7.4,9.3,0.9,8.5
+2026090,diego pereira 63,CIÊNCIAS,2 bimestre,7.9,7.4,1.4,7.2
+2026090,diego pereira 63,COOPERATIVISMO,1 bimestre,9.2,8.0,0.5,8.5
+2026090,diego pereira 63,COOPERATIVISMO,2 bimestre,7.1,7.8,1.6,7.2
+2026090,diego pereira 63,EDUCAÇÃO FÍSICA,1 bimestre,9.5,7.0,0.9,9.2
+2026090,diego pereira 63,EDUCAÇÃO FÍSICA,2 bimestre,7.9,7.3,1.0,7.8
+2026090,diego pereira 63,FILOSOFIA,1 bimestre,9.5,7.9,1.7,9.7
+2026090,diego pereira 63,FILOSOFIA,2 bimestre,8.3,9.7,1.1,9.9
+2026090,diego pereira 63,GEOGRAFIA,1 bimestre,7.3,9.1,1.2,8.2
+2026090,diego pereira 63,GEOGRAFIA,2 bimestre,8.9,9.1,0.5,7.5
+2026090,diego pereira 63,HISTÓRIA,1 bimestre,9.1,9.0,1.9,9.3
+2026090,diego pereira 63,HISTÓRIA,2 bimestre,9.9,9.1,0.9,7.3
+2026090,diego pereira 63,MATEMÁTICA,1 bimestre,9.3,8.9,0.6,8.1
+2026090,diego pereira 63,MATEMÁTICA,2 bimestre,9.9,8.5,1.1,8.4
+2026091,rafael oliveira 80,ARTE,1 bimestre,9.3,8.2,1.7,9.6
+2026091,rafael oliveira 80,ARTE,2 bimestre,7.6,9.0,1.2,9.6
+2026091,rafael oliveira 80,CIÊNCIAS,1 bimestre,7.6,9.0,1.4,7.9
+2026091,rafael oliveira 80,CIÊNCIAS,2 bimestre,7.4,9.0,1.6,7.9
+2026091,rafael oliveira 80,COOPERATIVISMO,1 bimestre,8.9,8.2,1.6,7.6
+2026091,rafael oliveira 80,COOPERATIVISMO,2 bimestre,9.7,7.9,1.1,7.2
+2026091,rafael oliveira 80,EDUCAÇÃO FÍSICA,1 bimestre,7.3,8.5,0.9,9.5
+2026091,rafael oliveira 80,EDUCAÇÃO FÍSICA,2 bimestre,7.0,8.1,1.0,7.1
+2026091,rafael oliveira 80,FILOSOFIA,1 bimestre,7.4,8.2,1.2,8.2
+2026091,rafael oliveira 80,FILOSOFIA,2 bimestre,8.6,8.8,0.5,8.4
+2026091,rafael oliveira 80,GEOGRAFIA,1 bimestre,9.9,8.6,1.5,7.9
+2026091,rafael oliveira 80,GEOGRAFIA,2 bimestre,9.3,9.3,1.3,9.9
+2026091,rafael oliveira 80,HISTÓRIA,1 bimestre,7.4,7.1,1.7,9.4
+2026091,rafael oliveira 80,HISTÓRIA,2 bimestre,7.4,7.8,0.5,7.9
+2026091,rafael oliveira 80,MATEMÁTICA,1 bimestre,9.3,8.6,1.0,8.1
+2026091,rafael oliveira 80,MATEMÁTICA,2 bimestre,7.0,7.9,1.5,9.9
+2026092,nathalia oliveira 82,ARTE,1 bimestre,8.6,9.5,1.4,7.9
+2026092,nathalia oliveira 82,ARTE,2 bimestre,7.6,7.5,1.8,9.1
+2026092,nathalia oliveira 82,CIÊNCIAS,1 bimestre,9.8,8.8,1.2,7.2
+2026092,nathalia oliveira 82,CIÊNCIAS,2 bimestre,9.0,8.7,2.0,7.7
+2026092,nathalia oliveira 82,COOPERATIVISMO,1 bimestre,8.6,9.0,1.5,8.7
+2026092,nathalia oliveira 82,COOPERATIVISMO,2 bimestre,9.3,7.6,1.6,8.9
+2026092,nathalia oliveira 82,EDUCAÇÃO FÍSICA,1 bimestre,9.7,9.5,1.0,7.8
+2026092,nathalia oliveira 82,EDUCAÇÃO FÍSICA,2 bimestre,9.9,8.6,1.9,7.5
+2026092,nathalia oliveira 82,FILOSOFIA,1 bimestre,8.9,9.4,1.9,8.0
+2026092,nathalia oliveira 82,FILOSOFIA,2 bimestre,9.2,8.6,0.6,9.1
+2026092,nathalia oliveira 82,GEOGRAFIA,1 bimestre,9.1,9.8,1.2,7.7
+2026092,nathalia oliveira 82,GEOGRAFIA,2 bimestre,7.1,8.2,1.0,9.3
+2026092,nathalia oliveira 82,HISTÓRIA,1 bimestre,8.1,9.8,1.9,8.9
+2026092,nathalia oliveira 82,HISTÓRIA,2 bimestre,9.8,9.3,1.3,7.5
+2026092,nathalia oliveira 82,MATEMÁTICA,1 bimestre,8.4,8.7,1.8,8.4
+2026092,nathalia oliveira 82,MATEMÁTICA,2 bimestre,9.7,9.0,0.7,10.0
+2026093,rafael ferreira 50,ARTE,1 bimestre,7.6,9.9,2.0,9.1
+2026093,rafael ferreira 50,ARTE,2 bimestre,9.9,8.7,0.9,8.3
+2026093,rafael ferreira 50,CIÊNCIAS,1 bimestre,8.8,7.2,1.4,9.9
+2026093,rafael ferreira 50,CIÊNCIAS,2 bimestre,7.6,9.4,1.9,9.8
+2026093,rafael ferreira 50,COOPERATIVISMO,1 bimestre,9.9,8.6,2.0,9.3
+2026093,rafael ferreira 50,COOPERATIVISMO,2 bimestre,7.5,8.4,1.6,7.7
+2026093,rafael ferreira 50,EDUCAÇÃO FÍSICA,1 bimestre,8.9,9.0,0.7,8.7
+2026093,rafael ferreira 50,EDUCAÇÃO FÍSICA,2 bimestre,9.3,8.5,0.5,7.0
+2026093,rafael ferreira 50,FILOSOFIA,1 bimestre,8.1,9.8,0.8,8.9
+2026093,rafael ferreira 50,FILOSOFIA,2 bimestre,7.7,8.0,1.8,9.2
+2026093,rafael ferreira 50,GEOGRAFIA,1 bimestre,7.3,8.3,0.5,8.4
+2026093,rafael ferreira 50,GEOGRAFIA,2 bimestre,9.0,7.4,0.9,8.2
+2026093,rafael ferreira 50,HISTÓRIA,1 bimestre,9.8,10.0,0.6,9.3
+2026093,rafael ferreira 50,HISTÓRIA,2 bimestre,8.1,8.2,1.6,9.8
+2026093,rafael ferreira 50,MATEMÁTICA,1 bimestre,9.9,8.7,1.0,9.4
+2026093,rafael ferreira 50,MATEMÁTICA,2 bimestre,7.8,8.7,1.0,9.0
+2026094,rafael silva 67,ARTE,1 bimestre,9.6,9.9,0.5,9.5
+2026094,rafael silva 67,ARTE,2 bimestre,9.3,7.7,1.9,7.4
+2026094,rafael silva 67,CIÊNCIAS,1 bimestre,9.0,7.7,1.1,9.2
+2026094,rafael silva 67,CIÊNCIAS,2 bimestre,8.7,8.3,1.0,9.5
+2026094,rafael silva 67,COOPERATIVISMO,1 bimestre,7.4,8.3,1.9,9.5
+2026094,rafael silva 67,COOPERATIVISMO,2 bimestre,8.2,9.3,1.7,9.7
+2026094,rafael silva 67,EDUCAÇÃO FÍSICA,1 bimestre,8.6,7.6,0.9,7.9
+2026094,rafael silva 67,EDUCAÇÃO FÍSICA,2 bimestre,8.8,7.1,1.5,8.1
+2026094,rafael silva 67,FILOSOFIA,1 bimestre,7.9,9.6,1.2,7.3
+2026094,rafael silva 67,FILOSOFIA,2 bimestre,9.5,7.1,1.6,9.3
+2026094,rafael silva 67,GEOGRAFIA,1 bimestre,8.1,9.5,1.3,8.4
+2026094,rafael silva 67,GEOGRAFIA,2 bimestre,7.1,7.9,1.9,8.2
+2026094,rafael silva 67,HISTÓRIA,1 bimestre,8.6,8.6,1.4,7.2
+2026094,rafael silva 67,HISTÓRIA,2 bimestre,8.1,9.2,0.8,7.6
+2026094,rafael silva 67,MATEMÁTICA,1 bimestre,7.0,8.3,1.8,7.2
+2026094,rafael silva 67,MATEMÁTICA,2 bimestre,7.6,7.9,1.6,8.9
+2026095,isabela rodrigues 22,ARTE,1 bimestre,8.3,7.9,1.0,9.1
+2026095,isabela rodrigues 22,ARTE,2 bimestre,9.5,7.5,1.1,9.7
+2026095,isabela rodrigues 22,CIÊNCIAS,1 bimestre,9.4,10.0,1.6,8.2
+2026095,isabela rodrigues 22,CIÊNCIAS,2 bimestre,8.8,9.0,0.6,8.6
+2026095,isabela rodrigues 22,COOPERATIVISMO,1 bimestre,9.1,7.5,1.7,8.8
+2026095,isabela rodrigues 22,COOPERATIVISMO,2 bimestre,9.9,7.1,0.9,8.8
+2026095,isabela rodrigues 22,EDUCAÇÃO FÍSICA,1 bimestre,7.9,9.1,1.6,7.3
+2026095,isabela rodrigues 22,EDUCAÇÃO FÍSICA,2 bimestre,8.5,8.5,1.1,9.8
+2026095,isabela rodrigues 22,FILOSOFIA,1 bimestre,9.5,9.1,1.6,8.4
+2026095,isabela rodrigues 22,FILOSOFIA,2 bimestre,9.8,9.1,1.6,9.6
+2026095,isabela rodrigues 22,GEOGRAFIA,1 bimestre,7.8,9.4,0.8,8.0
+2026095,isabela rodrigues 22,GEOGRAFIA,2 bimestre,8.0,9.9,1.8,9.1
+2026095,isabela rodrigues 22,HISTÓRIA,1 bimestre,9.2,8.7,1.9,8.5
+2026095,isabela rodrigues 22,HISTÓRIA,2 bimestre,8.1,7.5,1.7,9.2
+2026095,isabela rodrigues 22,MATEMÁTICA,1 bimestre,8.2,7.1,1.8,7.0
+2026095,isabela rodrigues 22,MATEMÁTICA,2 bimestre,9.1,9.9,1.2,7.7
+2026096,sofia ferreira 58,ARTE,1 bimestre,8.6,8.3,1.0,8.4
+2026096,sofia ferreira 58,ARTE,2 bimestre,7.4,9.9,1.6,9.9
+2026096,sofia ferreira 58,CIÊNCIAS,1 bimestre,7.7,9.6,1.7,9.0
+2026096,sofia ferreira 58,CIÊNCIAS,2 bimestre,8.9,7.9,1.7,8.5
+2026096,sofia ferreira 58,COOPERATIVISMO,1 bimestre,7.2,7.9,1.9,9.6
+2026096,sofia ferreira 58,COOPERATIVISMO,2 bimestre,9.9,8.9,0.9,7.5
+2026096,sofia ferreira 58,EDUCAÇÃO FÍSICA,1 bimestre,7.6,7.1,1.1,7.6
+2026096,sofia ferreira 58,EDUCAÇÃO FÍSICA,2 bimestre,8.2,9.8,1.1,9.6
+2026096,sofia ferreira 58,FILOSOFIA,1 bimestre,8.8,7.7,1.0,7.3
+2026096,sofia ferreira 58,FILOSOFIA,2 bimestre,8.0,9.0,0.6,7.6
+2026096,sofia ferreira 58,GEOGRAFIA,1 bimestre,8.1,9.9,1.7,9.2
+2026096,sofia ferreira 58,GEOGRAFIA,2 bimestre,7.3,9.3,1.7,8.8
+2026096,sofia ferreira 58,HISTÓRIA,1 bimestre,10.0,8.0,1.9,9.7
+2026096,sofia ferreira 58,HISTÓRIA,2 bimestre,7.0,8.4,2.0,7.3
+2026096,sofia ferreira 58,MATEMÁTICA,1 bimestre,8.6,9.9,1.3,7.6
+2026096,sofia ferreira 58,MATEMÁTICA,2 bimestre,8.7,7.6,1.3,7.2
+2026097,carla gomes 98,ARTE,1 bimestre,9.2,8.9,1.3,9.1
+2026097,carla gomes 98,ARTE,2 bimestre,7.4,8.8,0.8,9.8
+2026097,carla gomes 98,CIÊNCIAS,1 bimestre,7.2,8.3,1.5,8.4
+2026097,carla gomes 98,CIÊNCIAS,2 bimestre,7.3,8.7,1.5,9.1
+2026097,carla gomes 98,COOPERATIVISMO,1 bimestre,8.1,8.7,1.2,9.0
+2026097,carla gomes 98,COOPERATIVISMO,2 bimestre,8.8,8.6,0.9,7.0
+2026097,carla gomes 98,EDUCAÇÃO FÍSICA,1 bimestre,7.5,7.4,1.2,8.8
+2026097,carla gomes 98,EDUCAÇÃO FÍSICA,2 bimestre,7.6,9.8,0.5,9.3
+2026097,carla gomes 98,FILOSOFIA,1 bimestre,8.9,8.1,0.6,8.9
+2026097,carla gomes 98,FILOSOFIA,2 bimestre,8.2,9.8,1.3,9.8
+2026097,carla gomes 98,GEOGRAFIA,1 bimestre,7.7,9.2,1.4,9.2
+2026097,carla gomes 98,GEOGRAFIA,2 bimestre,7.6,9.0,1.2,9.2
+2026097,carla gomes 98,HISTÓRIA,1 bimestre,8.0,9.7,0.6,9.4
+2026097,carla gomes 98,HISTÓRIA,2 bimestre,9.6,9.5,1.3,8.3
+2026097,carla gomes 98,MATEMÁTICA,1 bimestre,10.0,7.7,1.3,9.0
+2026097,carla gomes 98,MATEMÁTICA,2 bimestre,9.1,7.6,1.5,9.5
+2026098,nathalia souza 56,ARTE,1 bimestre,7.1,8.1,0.5,7.2
+2026098,nathalia souza 56,ARTE,2 bimestre,9.7,8.1,1.1,7.6
+2026098,nathalia souza 56,CIÊNCIAS,1 bimestre,8.8,8.8,1.1,8.0
+2026098,nathalia souza 56,CIÊNCIAS,2 bimestre,9.7,8.1,1.2,7.8
+2026098,nathalia souza 56,COOPERATIVISMO,1 bimestre,9.4,8.2,1.3,7.8
+2026098,nathalia souza 56,COOPERATIVISMO,2 bimestre,10.0,7.9,1.7,8.3
+2026098,nathalia souza 56,EDUCAÇÃO FÍSICA,1 bimestre,7.6,9.4,1.0,9.6
+2026098,nathalia souza 56,EDUCAÇÃO FÍSICA,2 bimestre,9.7,9.6,0.6,9.4
+2026098,nathalia souza 56,FILOSOFIA,1 bimestre,8.2,9.6,1.5,9.5
+2026098,nathalia souza 56,FILOSOFIA,2 bimestre,8.5,8.6,0.7,9.4
+2026098,nathalia souza 56,GEOGRAFIA,1 bimestre,8.3,8.5,1.7,8.8
+2026098,nathalia souza 56,GEOGRAFIA,2 bimestre,7.6,8.8,1.1,8.4
+2026098,nathalia souza 56,HISTÓRIA,1 bimestre,7.1,7.6,0.9,9.1
+2026098,nathalia souza 56,HISTÓRIA,2 bimestre,7.0,8.2,1.9,7.3
+2026098,nathalia souza 56,MATEMÁTICA,1 bimestre,8.5,9.4,1.9,9.2
+2026098,nathalia souza 56,MATEMÁTICA,2 bimestre,9.2,9.5,1.2,9.4
+2026099,ana souza 21,ARTE,1 bimestre,7.7,8.5,1.3,8.1
+2026099,ana souza 21,ARTE,2 bimestre,8.1,9.5,1.7,7.9
+2026099,ana souza 21,CIÊNCIAS,1 bimestre,9.7,9.9,1.0,8.1
+2026099,ana souza 21,CIÊNCIAS,2 bimestre,8.5,9.8,1.8,7.3
+2026099,ana souza 21,COOPERATIVISMO,1 bimestre,8.2,8.7,1.3,7.6
+2026099,ana souza 21,COOPERATIVISMO,2 bimestre,9.6,9.0,1.8,9.6
+2026099,ana souza 21,EDUCAÇÃO FÍSICA,1 bimestre,9.2,8.3,1.4,7.5
+2026099,ana souza 21,EDUCAÇÃO FÍSICA,2 bimestre,9.0,7.5,1.5,7.7
+2026099,ana souza 21,FILOSOFIA,1 bimestre,7.4,7.5,0.5,9.2
+2026099,ana souza 21,FILOSOFIA,2 bimestre,9.2,8.5,0.7,7.3
+2026099,ana souza 21,GEOGRAFIA,1 bimestre,7.1,7.5,1.8,7.7
+2026099,ana souza 21,GEOGRAFIA,2 bimestre,8.1,7.3,0.8,8.6
+2026099,ana souza 21,HISTÓRIA,1 bimestre,8.8,7.7,0.6,8.2
+2026099,ana souza 21,HISTÓRIA,2 bimestre,7.7,7.7,1.9,8.8
+2026099,ana souza 21,MATEMÁTICA,1 bimestre,8.7,8.2,1.1,8.6
+2026099,ana souza 21,MATEMÁTICA,2 bimestre,9.1,9.1,0.8,8.5
+2026100,sofia ferreira 10,ARTE,1 bimestre,8.9,8.6,0.7,8.8
+2026100,sofia ferreira 10,ARTE,2 bimestre,7.4,8.0,0.7,9.1
+2026100,sofia ferreira 10,CIÊNCIAS,1 bimestre,7.6,8.2,1.8,7.6
+2026100,sofia ferreira 10,CIÊNCIAS,2 bimestre,8.5,8.3,0.5,9.4
+2026100,sofia ferreira 10,COOPERATIVISMO,1 bimestre,7.2,8.4,1.3,8.9
+2026100,sofia ferreira 10,COOPERATIVISMO,2 bimestre,9.1,7.8,0.5,9.2
+2026100,sofia ferreira 10,EDUCAÇÃO FÍSICA,1 bimestre,8.6,9.5,1.7,9.5
+2026100,sofia ferreira 10,EDUCAÇÃO FÍSICA,2 bimestre,8.5,8.0,1.7,8.4
+2026100,sofia ferreira 10,FILOSOFIA,1 bimestre,7.6,9.6,1.8,8.4
+2026100,sofia ferreira 10,FILOSOFIA,2 bimestre,7.2,8.2,1.7,9.7
+2026100,sofia ferreira 10,GEOGRAFIA,1 bimestre,7.6,7.2,1.8,8.2
+2026100,sofia ferreira 10,GEOGRAFIA,2 bimestre,8.6,9.9,0.6,8.9
+2026100,sofia ferreira 10,HISTÓRIA,1 bimestre,7.2,8.1,1.7,8.3
+2026100,sofia ferreira 10,HISTÓRIA,2 bimestre,10.0,8.7,1.0,7.7
+2026100,sofia ferreira 10,MATEMÁTICA,1 bimestre,8.1,8.1,0.6,8.1
+2026100,sofia ferreira 10,MATEMÁTICA,2 bimestre,8.4,9.2,1.5,9.1
+2026101,lara santos 71,ARTE,1 bimestre,9.5,8.1,1.4,7.3
+2026101,lara santos 71,ARTE,2 bimestre,7.3,7.1,1.4,8.3
+2026101,lara santos 71,CIÊNCIAS,1 bimestre,8.6,8.6,1.0,9.0
+2026101,lara santos 71,CIÊNCIAS,2 bimestre,9.3,7.0,0.8,9.1
+2026101,lara santos 71,COOPERATIVISMO,1 bimestre,8.2,9.0,1.0,8.2
+2026101,lara santos 71,COOPERATIVISMO,2 bimestre,7.5,7.8,1.4,8.3
+2026101,lara santos 71,EDUCAÇÃO FÍSICA,1 bimestre,9.3,9.6,1.3,9.3
+2026101,lara santos 71,EDUCAÇÃO FÍSICA,2 bimestre,7.9,8.2,1.6,8.2
+2026101,lara santos 71,FILOSOFIA,1 bimestre,8.8,7.6,1.4,9.6
+2026101,lara santos 71,FILOSOFIA,2 bimestre,9.6,9.2,1.6,8.7
+2026101,lara santos 71,GEOGRAFIA,1 bimestre,8.8,7.4,1.2,8.4
+2026101,lara santos 71,GEOGRAFIA,2 bimestre,9.9,8.3,1.3,8.6
+2026101,lara santos 71,HISTÓRIA,1 bimestre,8.9,9.2,0.8,8.6
+2026101,lara santos 71,HISTÓRIA,2 bimestre,9.5,8.4,0.9,9.0
+2026101,lara santos 71,MATEMÁTICA,1 bimestre,9.5,7.2,1.7,9.5
+2026101,lara santos 71,MATEMÁTICA,2 bimestre,8.4,9.9,1.7,9.3
+2026102,thiago silva 37,ARTE,1 bimestre,7.7,8.4,0.9,8.2
+2026102,thiago silva 37,ARTE,2 bimestre,9.7,9.5,1.4,9.6
+2026102,thiago silva 37,CIÊNCIAS,1 bimestre,9.4,8.3,0.8,8.5
+2026102,thiago silva 37,CIÊNCIAS,2 bimestre,9.2,8.3,1.5,7.3
+2026102,thiago silva 37,COOPERATIVISMO,1 bimestre,9.2,9.4,1.6,9.9
+2026102,thiago silva 37,COOPERATIVISMO,2 bimestre,9.5,9.7,1.9,9.4
+2026102,thiago silva 37,EDUCAÇÃO FÍSICA,1 bimestre,9.0,7.0,1.2,8.7
+2026102,thiago silva 37,EDUCAÇÃO FÍSICA,2 bimestre,7.9,8.0,1.9,9.7
+2026102,thiago silva 37,FILOSOFIA,1 bimestre,9.5,8.2,0.5,7.2
+2026102,thiago silva 37,FILOSOFIA,2 bimestre,7.9,7.0,0.5,9.7
+2026102,thiago silva 37,GEOGRAFIA,1 bimestre,9.1,7.9,0.7,8.5
+2026102,thiago silva 37,GEOGRAFIA,2 bimestre,7.0,9.8,1.1,8.2
+2026102,thiago silva 37,HISTÓRIA,1 bimestre,8.2,7.2,1.5,9.2
+2026102,thiago silva 37,HISTÓRIA,2 bimestre,9.0,7.4,1.4,8.7
+2026102,thiago silva 37,MATEMÁTICA,1 bimestre,9.6,8.1,1.1,8.9
+2026102,thiago silva 37,MATEMÁTICA,2 bimestre,8.9,8.4,1.2,8.5
+2026103,paula gomes 93,ARTE,1 bimestre,9.8,8.5,1.9,9.5
+2026103,paula gomes 93,ARTE,2 bimestre,8.1,9.6,0.7,9.8
+2026103,paula gomes 93,CIÊNCIAS,1 bimestre,8.9,7.2,1.5,9.9
+2026103,paula gomes 93,CIÊNCIAS,2 bimestre,7.2,8.7,1.6,9.4
+2026103,paula gomes 93,COOPERATIVISMO,1 bimestre,8.2,7.6,0.6,8.7
+2026103,paula gomes 93,COOPERATIVISMO,2 bimestre,8.4,9.8,0.6,9.1
+2026103,paula gomes 93,EDUCAÇÃO FÍSICA,1 bimestre,7.1,7.5,1.2,8.4
+2026103,paula gomes 93,EDUCAÇÃO FÍSICA,2 bimestre,9.1,9.7,1.5,9.9
+2026103,paula gomes 93,FILOSOFIA,1 bimestre,9.6,8.8,1.8,8.9
+2026103,paula gomes 93,FILOSOFIA,2 bimestre,7.2,9.2,0.6,8.8
+2026103,paula gomes 93,GEOGRAFIA,1 bimestre,9.1,7.2,0.8,9.7
+2026103,paula gomes 93,GEOGRAFIA,2 bimestre,8.8,7.7,1.5,8.8
+2026103,paula gomes 93,HISTÓRIA,1 bimestre,8.5,9.9,1.5,8.1
+2026103,paula gomes 93,HISTÓRIA,2 bimestre,9.4,9.7,0.7,7.6
+2026103,paula gomes 93,MATEMÁTICA,1 bimestre,7.6,9.1,1.4,8.9
+2026103,paula gomes 93,MATEMÁTICA,2 bimestre,9.8,9.3,0.7,8.0
+2026104,lucas silva 26,ARTE,1 bimestre,9.6,9.8,0.6,8.2
+2026104,lucas silva 26,ARTE,2 bimestre,7.2,7.6,0.8,8.4
+2026104,lucas silva 26,CIÊNCIAS,1 bimestre,7.8,7.3,0.8,7.4
+2026104,lucas silva 26,CIÊNCIAS,2 bimestre,9.9,9.3,2.0,8.3
+2026104,lucas silva 26,COOPERATIVISMO,1 bimestre,7.8,9.4,1.0,7.9
+2026104,lucas silva 26,COOPERATIVISMO,2 bimestre,7.7,7.4,0.9,8.1
+2026104,lucas silva 26,EDUCAÇÃO FÍSICA,1 bimestre,9.0,7.2,0.8,9.4
+2026104,lucas silva 26,EDUCAÇÃO FÍSICA,2 bimestre,7.4,8.0,1.8,7.5
+2026104,lucas silva 26,FILOSOFIA,1 bimestre,7.2,8.5,1.0,8.7
+2026104,lucas silva 26,FILOSOFIA,2 bimestre,9.4,7.4,1.4,8.5
+2026104,lucas silva 26,GEOGRAFIA,1 bimestre,7.4,8.9,0.9,8.5
+2026104,lucas silva 26,GEOGRAFIA,2 bimestre,7.2,8.4,1.0,9.5
+2026104,lucas silva 26,HISTÓRIA,1 bimestre,7.2,8.3,1.2,9.2
+2026104,lucas silva 26,HISTÓRIA,2 bimestre,8.7,9.0,1.7,9.6
+2026104,lucas silva 26,MATEMÁTICA,1 bimestre,7.9,8.6,1.8,10.0
+2026104,lucas silva 26,MATEMÁTICA,2 bimestre,9.7,8.1,0.8,8.5
+2026105,otávio lima 72,ARTE,1 bimestre,8.7,9.1,1.5,7.4
+2026105,otávio lima 72,ARTE,2 bimestre,9.4,7.4,1.5,8.2
+2026105,otávio lima 72,CIÊNCIAS,1 bimestre,8.5,9.7,1.8,9.5
+2026105,otávio lima 72,CIÊNCIAS,2 bimestre,8.5,9.2,1.3,9.6
+2026105,otávio lima 72,COOPERATIVISMO,1 bimestre,8.2,9.9,1.9,9.2
+2026105,otávio lima 72,COOPERATIVISMO,2 bimestre,7.8,7.4,1.8,7.5
+2026105,otávio lima 72,EDUCAÇÃO FÍSICA,1 bimestre,9.6,8.5,1.1,9.7
+2026105,otávio lima 72,EDUCAÇÃO FÍSICA,2 bimestre,8.8,8.7,1.3,8.1
+2026105,otávio lima 72,FILOSOFIA,1 bimestre,9.4,7.8,1.9,9.7
+2026105,otávio lima 72,FILOSOFIA,2 bimestre,8.0,9.2,1.4,8.0
+2026105,otávio lima 72,GEOGRAFIA,1 bimestre,10.0,7.1,0.9,8.6
+2026105,otávio lima 72,GEOGRAFIA,2 bimestre,8.6,8.8,1.6,8.9
+2026105,otávio lima 72,HISTÓRIA,1 bimestre,8.8,7.2,1.1,7.7
+2026105,otávio lima 72,HISTÓRIA,2 bimestre,7.8,8.7,0.8,7.9
+2026105,otávio lima 72,MATEMÁTICA,1 bimestre,7.7,9.8,1.9,8.8
+2026105,otávio lima 72,MATEMÁTICA,2 bimestre,9.8,9.4,1.4,7.0
+2026106,otávio alves 11,ARTE,1 bimestre,9.3,8.5,1.6,9.8
+2026106,otávio alves 11,ARTE,2 bimestre,8.1,9.1,1.2,9.0
+2026106,otávio alves 11,CIÊNCIAS,1 bimestre,9.3,7.1,1.5,7.7
+2026106,otávio alves 11,CIÊNCIAS,2 bimestre,9.0,8.4,1.7,7.4
+2026106,otávio alves 11,COOPERATIVISMO,1 bimestre,8.9,7.8,1.8,9.8
+2026106,otávio alves 11,COOPERATIVISMO,2 bimestre,10.0,9.4,1.6,7.6
+2026106,otávio alves 11,EDUCAÇÃO FÍSICA,1 bimestre,8.0,8.4,1.7,9.7
+2026106,otávio alves 11,EDUCAÇÃO FÍSICA,2 bimestre,7.6,9.8,1.5,8.8
+2026106,otávio alves 11,FILOSOFIA,1 bimestre,7.6,7.2,1.4,9.0
+2026106,otávio alves 11,FILOSOFIA,2 bimestre,7.6,8.7,1.8,9.5
+2026106,otávio alves 11,GEOGRAFIA,1 bimestre,9.8,8.1,1.0,9.2
+2026106,otávio alves 11,GEOGRAFIA,2 bimestre,8.3,7.3,0.9,8.3
+2026106,otávio alves 11,HISTÓRIA,1 bimestre,7.9,8.0,0.9,7.1
+2026106,otávio alves 11,HISTÓRIA,2 bimestre,8.9,8.8,1.5,7.6
+2026106,otávio alves 11,MATEMÁTICA,1 bimestre,7.9,8.9,1.4,8.5
+2026106,otávio alves 11,MATEMÁTICA,2 bimestre,8.1,9.7,1.0,8.4
+2026107,paula lima 69,ARTE,1 bimestre,10.0,7.9,1.0,7.2
+2026107,paula lima 69,ARTE,2 bimestre,8.3,7.8,1.0,9.5
+2026107,paula lima 69,CIÊNCIAS,1 bimestre,9.8,7.6,1.1,9.8
+2026107,paula lima 69,CIÊNCIAS,2 bimestre,7.2,7.3,0.7,8.8
+2026107,paula lima 69,COOPERATIVISMO,1 bimestre,7.5,9.9,1.2,8.5
+2026107,paula lima 69,COOPERATIVISMO,2 bimestre,7.7,8.4,1.5,9.3
+2026107,paula lima 69,EDUCAÇÃO FÍSICA,1 bimestre,9.3,8.7,1.9,9.5
+2026107,paula lima 69,EDUCAÇÃO FÍSICA,2 bimestre,9.3,7.2,0.5,7.6
+2026107,paula lima 69,FILOSOFIA,1 bimestre,9.0,8.2,1.1,9.7
+2026107,paula lima 69,FILOSOFIA,2 bimestre,9.7,9.7,1.0,9.1
+2026107,paula lima 69,GEOGRAFIA,1 bimestre,7.8,7.6,0.8,8.0
+2026107,paula lima 69,GEOGRAFIA,2 bimestre,8.3,9.5,0.7,9.2
+2026107,paula lima 69,HISTÓRIA,1 bimestre,8.6,7.9,1.2,7.9
+2026107,paula lima 69,HISTÓRIA,2 bimestre,8.8,8.3,0.7,7.3
+2026107,paula lima 69,MATEMÁTICA,1 bimestre,8.6,9.7,1.0,9.2
+2026107,paula lima 69,MATEMÁTICA,2 bimestre,9.0,9.8,1.7,8.7
+2026108,carla pereira 19,ARTE,1 bimestre,8.0,7.0,1.7,9.4
+2026108,carla pereira 19,ARTE,2 bimestre,7.3,8.7,1.2,7.4
+2026108,carla pereira 19,CIÊNCIAS,1 bimestre,9.9,7.6,0.6,8.8
+2026108,carla pereira 19,CIÊNCIAS,2 bimestre,9.2,7.1,1.5,8.6
+2026108,carla pereira 19,COOPERATIVISMO,1 bimestre,7.3,7.5,1.4,7.9
+2026108,carla pereira 19,COOPERATIVISMO,2 bimestre,9.8,9.5,2.0,7.8
+2026108,carla pereira 19,EDUCAÇÃO FÍSICA,1 bimestre,9.9,8.3,1.0,7.2
+2026108,carla pereira 19,EDUCAÇÃO FÍSICA,2 bimestre,7.2,9.1,1.2,7.7
+2026108,carla pereira 19,FILOSOFIA,1 bimestre,8.8,7.8,1.4,8.1
+2026108,carla pereira 19,FILOSOFIA,2 bimestre,9.5,9.5,1.2,8.1
+2026108,carla pereira 19,GEOGRAFIA,1 bimestre,8.1,9.4,1.0,7.6
+2026108,carla pereira 19,GEOGRAFIA,2 bimestre,7.3,8.4,1.2,9.5
+2026108,carla pereira 19,HISTÓRIA,1 bimestre,7.7,8.1,1.7,9.5
+2026108,carla pereira 19,HISTÓRIA,2 bimestre,8.2,8.4,1.0,9.8
+2026108,carla pereira 19,MATEMÁTICA,1 bimestre,7.4,9.8,1.5,8.6
+2026108,carla pereira 19,MATEMÁTICA,2 bimestre,7.1,8.4,1.1,7.5
+2026109,rafael santos 13,ARTE,1 bimestre,8.7,9.1,0.6,8.3
+2026109,rafael santos 13,ARTE,2 bimestre,7.3,8.8,1.9,9.0
+2026109,rafael santos 13,CIÊNCIAS,1 bimestre,7.2,8.1,1.3,8.2
+2026109,rafael santos 13,CIÊNCIAS,2 bimestre,9.5,9.4,1.4,8.1
+2026109,rafael santos 13,COOPERATIVISMO,1 bimestre,7.8,7.3,1.0,8.2
+2026109,rafael santos 13,COOPERATIVISMO,2 bimestre,9.0,9.0,0.6,8.2
+2026109,rafael santos 13,EDUCAÇÃO FÍSICA,1 bimestre,7.5,7.5,1.7,7.1
+2026109,rafael santos 13,EDUCAÇÃO FÍSICA,2 bimestre,8.3,7.5,1.8,8.7
+2026109,rafael santos 13,FILOSOFIA,1 bimestre,7.7,8.5,1.6,9.9
+2026109,rafael santos 13,FILOSOFIA,2 bimestre,7.7,9.7,1.9,9.7
+2026109,rafael santos 13,GEOGRAFIA,1 bimestre,8.9,8.9,1.1,9.3
+2026109,rafael santos 13,GEOGRAFIA,2 bimestre,8.6,9.0,1.1,9.2
+2026109,rafael santos 13,HISTÓRIA,1 bimestre,9.5,7.4,1.7,8.6
+2026109,rafael santos 13,HISTÓRIA,2 bimestre,9.5,8.3,1.1,9.7
+2026109,rafael santos 13,MATEMÁTICA,1 bimestre,7.8,9.5,1.2,8.5
+2026109,rafael santos 13,MATEMÁTICA,2 bimestre,7.9,8.7,1.0,7.1
+2026110,carla gomes 20,ARTE,1 bimestre,9.1,9.1,1.0,7.7
+2026110,carla gomes 20,ARTE,2 bimestre,7.6,9.6,1.7,8.3
+2026110,carla gomes 20,CIÊNCIAS,1 bimestre,7.4,8.1,1.4,8.4
+2026110,carla gomes 20,CIÊNCIAS,2 bimestre,9.3,10.0,0.8,8.4
+2026110,carla gomes 20,COOPERATIVISMO,1 bimestre,8.3,7.9,0.8,7.2
+2026110,carla gomes 20,COOPERATIVISMO,2 bimestre,9.7,8.3,1.2,9.8
+2026110,carla gomes 20,EDUCAÇÃO FÍSICA,1 bimestre,9.3,7.4,1.3,8.3
+2026110,carla gomes 20,EDUCAÇÃO FÍSICA,2 bimestre,9.4,9.2,1.5,8.0
+2026110,carla gomes 20,FILOSOFIA,1 bimestre,9.4,7.2,0.7,8.0
+2026110,carla gomes 20,FILOSOFIA,2 bimestre,7.2,7.7,1.7,9.8
+2026110,carla gomes 20,GEOGRAFIA,1 bimestre,7.9,7.8,0.9,7.8
+2026110,carla gomes 20,GEOGRAFIA,2 bimestre,7.1,9.8,0.8,8.3
+2026110,carla gomes 20,HISTÓRIA,1 bimestre,7.0,9.6,1.6,9.8
+2026110,carla gomes 20,HISTÓRIA,2 bimestre,9.3,7.9,0.9,9.1
+2026110,carla gomes 20,MATEMÁTICA,1 bimestre,8.1,8.7,0.5,7.2
+2026110,carla gomes 20,MATEMÁTICA,2 bimestre,8.6,8.7,1.6,7.4
+2026111,mateus pereira 21,ARTE,1 bimestre,8.2,7.5,0.8,8.0
+2026111,mateus pereira 21,ARTE,2 bimestre,7.8,7.3,0.6,7.6
+2026111,mateus pereira 21,CIÊNCIAS,1 bimestre,7.2,8.9,0.9,7.8
+2026111,mateus pereira 21,CIÊNCIAS,2 bimestre,8.0,9.0,1.8,9.3
+2026111,mateus pereira 21,COOPERATIVISMO,1 bimestre,9.2,8.5,1.5,8.7
+2026111,mateus pereira 21,COOPERATIVISMO,2 bimestre,7.6,7.6,0.9,9.7
+2026111,mateus pereira 21,EDUCAÇÃO FÍSICA,1 bimestre,8.6,9.2,1.0,8.2
+2026111,mateus pereira 21,EDUCAÇÃO FÍSICA,2 bimestre,7.4,7.5,1.7,8.8
+2026111,mateus pereira 21,FILOSOFIA,1 bimestre,8.0,9.4,0.9,9.9
+2026111,mateus pereira 21,FILOSOFIA,2 bimestre,8.0,8.0,1.0,7.4
+2026111,mateus pereira 21,GEOGRAFIA,1 bimestre,7.3,8.9,1.8,9.4
+2026111,mateus pereira 21,GEOGRAFIA,2 bimestre,7.4,8.6,0.7,7.1
+2026111,mateus pereira 21,HISTÓRIA,1 bimestre,9.0,8.6,0.6,7.1
+2026111,mateus pereira 21,HISTÓRIA,2 bimestre,10.0,7.1,1.2,8.5
+2026111,mateus pereira 21,MATEMÁTICA,1 bimestre,7.4,7.5,1.0,9.3
+2026111,mateus pereira 21,MATEMÁTICA,2 bimestre,8.5,8.9,2.0,9.3
+2026112,thiago gomes 11,ARTE,1 bimestre,8.9,9.0,1.3,8.9
+2026112,thiago gomes 11,ARTE,2 bimestre,7.1,8.3,0.9,7.4
+2026112,thiago gomes 11,CIÊNCIAS,1 bimestre,7.3,8.8,1.3,7.8
+2026112,thiago gomes 11,CIÊNCIAS,2 bimestre,8.4,8.5,0.8,9.0
+2026112,thiago gomes 11,COOPERATIVISMO,1 bimestre,9.3,9.4,1.4,8.5
+2026112,thiago gomes 11,COOPERATIVISMO,2 bimestre,7.2,7.9,0.6,9.9
+2026112,thiago gomes 11,EDUCAÇÃO FÍSICA,1 bimestre,7.4,7.5,1.8,9.8
+2026112,thiago gomes 11,EDUCAÇÃO FÍSICA,2 bimestre,9.3,7.0,0.5,8.1
+2026112,thiago gomes 11,FILOSOFIA,1 bimestre,7.4,7.1,1.2,9.8
+2026112,thiago gomes 11,FILOSOFIA,2 bimestre,8.0,9.0,1.5,7.8
+2026112,thiago gomes 11,GEOGRAFIA,1 bimestre,9.0,7.6,0.7,9.1
+2026112,thiago gomes 11,GEOGRAFIA,2 bimestre,7.3,10.0,0.8,8.8
+2026112,thiago gomes 11,HISTÓRIA,1 bimestre,8.2,7.4,0.5,8.9
+2026112,thiago gomes 11,HISTÓRIA,2 bimestre,9.4,9.5,1.2,9.3
+2026112,thiago gomes 11,MATEMÁTICA,1 bimestre,9.0,9.2,1.2,8.9
+2026112,thiago gomes 11,MATEMÁTICA,2 bimestre,9.4,8.2,1.7,8.8
+2026113,thiago alves 33,ARTE,1 bimestre,8.1,8.6,1.8,7.4
+2026113,thiago alves 33,ARTE,2 bimestre,9.4,9.6,0.7,9.6
+2026113,thiago alves 33,CIÊNCIAS,1 bimestre,10.0,9.2,1.7,10.0
+2026113,thiago alves 33,CIÊNCIAS,2 bimestre,8.8,7.9,1.8,8.8
+2026113,thiago alves 33,COOPERATIVISMO,1 bimestre,8.7,7.8,1.6,7.2
+2026113,thiago alves 33,COOPERATIVISMO,2 bimestre,9.8,8.0,0.7,8.3
+2026113,thiago alves 33,EDUCAÇÃO FÍSICA,1 bimestre,7.1,9.1,1.9,9.5
+2026113,thiago alves 33,EDUCAÇÃO FÍSICA,2 bimestre,7.4,7.4,1.7,9.8
+2026113,thiago alves 33,FILOSOFIA,1 bimestre,8.4,8.5,1.0,9.7
+2026113,thiago alves 33,FILOSOFIA,2 bimestre,8.9,7.9,0.9,9.7
+2026113,thiago alves 33,GEOGRAFIA,1 bimestre,7.0,8.0,1.3,7.4
+2026113,thiago alves 33,GEOGRAFIA,2 bimestre,7.3,9.4,1.8,9.5
+2026113,thiago alves 33,HISTÓRIA,1 bimestre,9.7,8.7,1.7,8.2
+2026113,thiago alves 33,HISTÓRIA,2 bimestre,9.0,10.0,0.8,8.2
+2026113,thiago alves 33,MATEMÁTICA,1 bimestre,8.4,7.4,0.6,9.5
+2026113,thiago alves 33,MATEMÁTICA,2 bimestre,9.9,8.2,0.6,7.2
+2026114,thiago oliveira 74,ARTE,1 bimestre,8.0,8.4,1.0,8.5
+2026114,thiago oliveira 74,ARTE,2 bimestre,9.6,8.8,1.5,8.1
+2026114,thiago oliveira 74,CIÊNCIAS,1 bimestre,9.2,9.0,0.7,8.7
+2026114,thiago oliveira 74,CIÊNCIAS,2 bimestre,7.8,9.4,1.1,10.0
+2026114,thiago oliveira 74,COOPERATIVISMO,1 bimestre,7.3,9.3,1.5,9.3
+2026114,thiago oliveira 74,COOPERATIVISMO,2 bimestre,7.9,8.5,1.7,7.7
+2026114,thiago oliveira 74,EDUCAÇÃO FÍSICA,1 bimestre,7.7,8.7,1.3,7.8
+2026114,thiago oliveira 74,EDUCAÇÃO FÍSICA,2 bimestre,7.9,7.8,1.7,9.0
+2026114,thiago oliveira 74,FILOSOFIA,1 bimestre,9.5,9.9,1.2,7.2
+2026114,thiago oliveira 74,FILOSOFIA,2 bimestre,7.1,7.9,1.9,8.6
+2026114,thiago oliveira 74,GEOGRAFIA,1 bimestre,7.8,8.2,1.4,9.0
+2026114,thiago oliveira 74,GEOGRAFIA,2 bimestre,7.5,9.9,1.3,7.4
+2026114,thiago oliveira 74,HISTÓRIA,1 bimestre,9.7,7.2,1.9,10.0
+2026114,thiago oliveira 74,HISTÓRIA,2 bimestre,9.1,9.3,1.0,9.8
+2026114,thiago oliveira 74,MATEMÁTICA,1 bimestre,8.6,9.2,1.9,9.9
+2026114,thiago oliveira 74,MATEMÁTICA,2 bimestre,9.5,7.9,1.9,8.9
+2026115,paula alves 20,ARTE,1 bimestre,8.1,8.7,1.7,8.0
+2026115,paula alves 20,ARTE,2 bimestre,8.7,8.0,1.7,8.4
+2026115,paula alves 20,CIÊNCIAS,1 bimestre,7.2,7.5,0.6,8.5
+2026115,paula alves 20,CIÊNCIAS,2 bimestre,7.3,7.3,1.9,9.6
+2026115,paula alves 20,COOPERATIVISMO,1 bimestre,8.4,10.0,0.5,8.8
+2026115,paula alves 20,COOPERATIVISMO,2 bimestre,8.8,8.4,1.1,8.4
+2026115,paula alves 20,EDUCAÇÃO FÍSICA,1 bimestre,8.2,9.2,0.7,7.6
+2026115,paula alves 20,EDUCAÇÃO FÍSICA,2 bimestre,7.5,7.8,1.3,7.3
+2026115,paula alves 20,FILOSOFIA,1 bimestre,9.6,7.9,0.7,9.0
+2026115,paula alves 20,FILOSOFIA,2 bimestre,7.1,8.9,1.5,7.6
+2026115,paula alves 20,GEOGRAFIA,1 bimestre,7.1,8.1,0.6,7.3
+2026115,paula alves 20,GEOGRAFIA,2 bimestre,7.8,7.9,1.3,9.0
+2026115,paula alves 20,HISTÓRIA,1 bimestre,8.8,7.4,0.8,9.6
+2026115,paula alves 20,HISTÓRIA,2 bimestre,8.7,9.6,1.1,8.8
+2026115,paula alves 20,MATEMÁTICA,1 bimestre,8.6,8.0,1.2,8.5
+2026115,paula alves 20,MATEMÁTICA,2 bimestre,7.6,7.9,1.7,9.7
+2026116,diego santos 62,ARTE,1 bimestre,7.6,9.0,1.0,10.0
+2026116,diego santos 62,ARTE,2 bimestre,8.0,8.2,1.4,9.4
+2026116,diego santos 62,CIÊNCIAS,1 bimestre,8.4,8.3,2.0,7.0
+2026116,diego santos 62,CIÊNCIAS,2 bimestre,9.7,7.4,1.7,8.9
+2026116,diego santos 62,COOPERATIVISMO,1 bimestre,8.0,9.6,0.5,7.7
+2026116,diego santos 62,COOPERATIVISMO,2 bimestre,8.7,8.1,1.4,7.1
+2026116,diego santos 62,EDUCAÇÃO FÍSICA,1 bimestre,7.3,7.4,0.8,8.4
+2026116,diego santos 62,EDUCAÇÃO FÍSICA,2 bimestre,9.3,9.7,1.8,7.6
+2026116,diego santos 62,FILOSOFIA,1 bimestre,8.3,7.6,0.9,8.5
+2026116,diego santos 62,FILOSOFIA,2 bimestre,7.2,7.7,1.9,8.4
+2026116,diego santos 62,GEOGRAFIA,1 bimestre,8.3,7.0,0.9,9.6
+2026116,diego santos 62,GEOGRAFIA,2 bimestre,7.5,8.2,0.5,8.4
+2026116,diego santos 62,HISTÓRIA,1 bimestre,7.1,9.5,1.7,9.4
+2026116,diego santos 62,HISTÓRIA,2 bimestre,7.9,9.5,1.3,8.1
+2026116,diego santos 62,MATEMÁTICA,1 bimestre,8.9,7.0,0.7,9.2
+2026116,diego santos 62,MATEMÁTICA,2 bimestre,7.7,8.8,1.1,9.6
+2026117,sofia oliveira 17,ARTE,1 bimestre,7.8,7.6,1.2,7.0
+2026117,sofia oliveira 17,ARTE,2 bimestre,7.1,8.7,1.3,10.0
+2026117,sofia oliveira 17,CIÊNCIAS,1 bimestre,7.6,7.8,0.7,9.8
+2026117,sofia oliveira 17,CIÊNCIAS,2 bimestre,9.3,9.5,1.9,8.6
+2026117,sofia oliveira 17,COOPERATIVISMO,1 bimestre,8.4,8.0,1.4,8.4
+2026117,sofia oliveira 17,COOPERATIVISMO,2 bimestre,8.4,9.8,2.0,9.4
+2026117,sofia oliveira 17,EDUCAÇÃO FÍSICA,1 bimestre,9.3,9.0,0.7,7.2
+2026117,sofia oliveira 17,EDUCAÇÃO FÍSICA,2 bimestre,9.1,9.2,0.6,9.8
+2026117,sofia oliveira 17,FILOSOFIA,1 bimestre,7.3,7.9,1.5,7.5
+2026117,sofia oliveira 17,FILOSOFIA,2 bimestre,7.2,8.0,1.6,8.2
+2026117,sofia oliveira 17,GEOGRAFIA,1 bimestre,9.0,8.7,0.5,10.0
+2026117,sofia oliveira 17,GEOGRAFIA,2 bimestre,7.1,9.9,1.3,9.9
+2026117,sofia oliveira 17,HISTÓRIA,1 bimestre,7.3,8.5,0.8,7.2
+2026117,sofia oliveira 17,HISTÓRIA,2 bimestre,8.9,7.6,1.4,7.3
+2026117,sofia oliveira 17,MATEMÁTICA,1 bimestre,8.0,9.3,1.2,8.9
+2026117,sofia oliveira 17,MATEMÁTICA,2 bimestre,8.9,9.5,1.0,9.1
+2026118,mateus ferreira 54,ARTE,1 bimestre,7.7,8.2,1.1,9.9
+2026118,mateus ferreira 54,ARTE,2 bimestre,7.5,9.4,1.0,9.2
+2026118,mateus ferreira 54,CIÊNCIAS,1 bimestre,8.3,8.7,1.7,9.4
+2026118,mateus ferreira 54,CIÊNCIAS,2 bimestre,9.6,7.2,1.5,7.4
+2026118,mateus ferreira 54,COOPERATIVISMO,1 bimestre,8.2,8.6,1.1,8.6
+2026118,mateus ferreira 54,COOPERATIVISMO,2 bimestre,10.0,7.4,1.5,8.2
+2026118,mateus ferreira 54,EDUCAÇÃO FÍSICA,1 bimestre,7.4,7.5,1.9,9.6
+2026118,mateus ferreira 54,EDUCAÇÃO FÍSICA,2 bimestre,9.7,10.0,0.8,8.1
+2026118,mateus ferreira 54,FILOSOFIA,1 bimestre,9.0,8.5,1.1,8.1
+2026118,mateus ferreira 54,FILOSOFIA,2 bimestre,8.8,8.7,0.7,8.4
+2026118,mateus ferreira 54,GEOGRAFIA,1 bimestre,8.7,8.7,0.8,9.2
+2026118,mateus ferreira 54,GEOGRAFIA,2 bimestre,7.1,8.1,1.7,8.7
+2026118,mateus ferreira 54,HISTÓRIA,1 bimestre,7.8,9.1,1.4,9.4
+2026118,mateus ferreira 54,HISTÓRIA,2 bimestre,9.2,8.8,1.2,7.4
+2026118,mateus ferreira 54,MATEMÁTICA,1 bimestre,7.8,8.3,1.4,8.5
+2026118,mateus ferreira 54,MATEMÁTICA,2 bimestre,7.9,7.0,1.2,7.9
+2026119,felipe ferreira 54,ARTE,1 bimestre,8.0,7.3,0.7,8.7
+2026119,felipe ferreira 54,ARTE,2 bimestre,7.2,7.1,1.6,8.1
+2026119,felipe ferreira 54,CIÊNCIAS,1 bimestre,7.4,7.8,1.5,7.8
+2026119,felipe ferreira 54,CIÊNCIAS,2 bimestre,8.5,7.4,1.4,7.9
+2026119,felipe ferreira 54,COOPERATIVISMO,1 bimestre,8.9,9.4,1.4,7.9
+2026119,felipe ferreira 54,COOPERATIVISMO,2 bimestre,7.8,8.0,0.7,7.5
+2026119,felipe ferreira 54,EDUCAÇÃO FÍSICA,1 bimestre,9.4,8.2,1.2,8.8
+2026119,felipe ferreira 54,EDUCAÇÃO FÍSICA,2 bimestre,8.8,7.2,1.7,7.5
+2026119,felipe ferreira 54,FILOSOFIA,1 bimestre,9.2,9.3,1.6,8.7
+2026119,felipe ferreira 54,FILOSOFIA,2 bimestre,7.0,8.1,1.4,8.2
+2026119,felipe ferreira 54,GEOGRAFIA,1 bimestre,9.6,7.9,0.9,7.8
+2026119,felipe ferreira 54,GEOGRAFIA,2 bimestre,8.0,8.7,1.6,9.0
+2026119,felipe ferreira 54,HISTÓRIA,1 bimestre,9.4,9.7,1.7,7.1
+2026119,felipe ferreira 54,HISTÓRIA,2 bimestre,9.2,7.6,0.7,8.9
+2026119,felipe ferreira 54,MATEMÁTICA,1 bimestre,8.0,7.2,0.7,7.0
+2026119,felipe ferreira 54,MATEMÁTICA,2 bimestre,9.7,7.1,0.8,8.2
+2026120,eduarda gomes 82,ARTE,1 bimestre,9.3,7.9,1.1,7.6
+2026120,eduarda gomes 82,ARTE,2 bimestre,9.9,8.9,1.9,7.9
+2026120,eduarda gomes 82,CIÊNCIAS,1 bimestre,9.3,9.3,1.5,9.9
+2026120,eduarda gomes 82,CIÊNCIAS,2 bimestre,8.2,7.4,1.5,9.2
+2026120,eduarda gomes 82,COOPERATIVISMO,1 bimestre,8.7,7.6,1.3,7.9
+2026120,eduarda gomes 82,COOPERATIVISMO,2 bimestre,8.3,8.9,1.6,7.7
+2026120,eduarda gomes 82,EDUCAÇÃO FÍSICA,1 bimestre,8.2,7.8,0.8,9.4
+2026120,eduarda gomes 82,EDUCAÇÃO FÍSICA,2 bimestre,9.7,8.1,1.6,9.7
+2026120,eduarda gomes 82,FILOSOFIA,1 bimestre,9.5,7.5,1.9,8.1
+2026120,eduarda gomes 82,FILOSOFIA,2 bimestre,8.0,7.2,1.2,7.3
+2026120,eduarda gomes 82,GEOGRAFIA,1 bimestre,7.7,8.0,1.7,9.6
+2026120,eduarda gomes 82,GEOGRAFIA,2 bimestre,7.9,9.6,1.8,9.3
+2026120,eduarda gomes 82,HISTÓRIA,1 bimestre,7.4,9.1,1.9,9.0
+2026120,eduarda gomes 82,HISTÓRIA,2 bimestre,8.0,8.5,1.5,8.5
+2026120,eduarda gomes 82,MATEMÁTICA,1 bimestre,7.4,7.9,1.7,9.6
+2026120,eduarda gomes 82,MATEMÁTICA,2 bimestre,7.4,9.9,1.0,9.0
