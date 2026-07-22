@@ -22,11 +22,12 @@ try:
     while True:
         resp = str(input('Gostaria de um relatorio de criticidade do bimestre escolhido?'
                          '\n [1] SIM'
-                         '\n [2] NÃO')).upper().strip()
+                         '\n [2] NÃO'
+                         'Digite a opção: ')).upper().strip()
         if resp in ['1', '2']:
             break
         print('Opção inválida!.')
-    if resp == 'S':
+    if resp == '1':
         gerar_criticidade = True
         # Guardamos os dois retornos da função!
         df_rel, df_crit = (rl.relatorio(bimestre_escolhido, df_recuperacao, gerar_criticidade))
