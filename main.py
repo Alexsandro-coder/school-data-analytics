@@ -20,10 +20,12 @@ try:
     # Chama a função de filtro definida para verificar os bimestres
     bimestre_escolhido = fl.visualizar_bimestres(df_recuperacao)
     while True:
-        resp = str(input('Gostaria de um relatorio de criticidade do bimestre escolhido? [S/N]:')).upper().strip()
-        if resp in ['S', 'N']:
+        resp = str(input('Gostaria de um relatorio de criticidade do bimestre escolhido?'
+                         '\n [1] SIM'
+                         '\n [2] NÃO')).upper().strip()
+        if resp in ['1', '2']:
             break
-        print('Opção inválida! Digite S ou N.')
+        print('Opção inválida!.')
     if resp == 'S':
         gerar_criticidade = True
         # Guardamos os dois retornos da função!
@@ -34,7 +36,7 @@ try:
         print('\n--- Relatório de criticidade ---')
         print(df_crit)
         while True:
-            resp = str(input('Gostaria de comparar o relatorio de criticidade com outro bimestre ou gerar um grafico?'
+            resp = str(input('Gostaria de comparar esse bimestre com outro ou gerar um grafico?'
                              '\n [1] Comparar bimestres'
                              '\n [2] Gerar um grafico'
                              'Digite a opção: ')).upper().strip()

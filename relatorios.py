@@ -27,8 +27,6 @@ def relatorio(bimestre_escolhido,df_recuperacao, gerar_criticidade=False):
         return df_relatorio, df_criticidade
     return df_relatorio
 
-
-
 def situacao (relatorio,df,bimestre_de_comparacao):
     alunos_recuperacao = len(relatorio['matricula'].unique())
     percentual_recuperacao = alunos_recuperacao/len(df['matricula'].unique())*100
