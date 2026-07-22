@@ -46,8 +46,11 @@ try:
             bimestre_de_comparacao = fl.comparar_bimestres(bimestre_escolhido, df_recuperacao)
             # Buscamos o relatório do outro bimestre também com criticidade!
             df_rel_comp, df_crit_comp = rl.relatorio(bimestre_de_comparacao, df_recuperacao, gerar_criticidade)
-            print('\n--- Criticidade bimestre comparado ---')
-            print(rl.situacao(df_rel_comp,df, bimestre_de_comparacao))
+            print('\n--- bimestre comparados ---')
+            bimestre1 = rl.situacao(df_rel,df, bimestre_escolhido)
+            bimestre2 = rl.situacao(df_rel_comp,df, bimestre_de_comparacao)
+            df_comparacao = pd.concat([bimestre1, bimestre2], ignore_index=True)
+            print(df_comparacao)
         elif resp == '2':
             gf.grafico_de_criticidade(df_crit)
 
