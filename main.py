@@ -36,13 +36,15 @@ try:
         # Guardamos os dois retornos da função!
         df_rel, df_crit = (relatorio(bimestre_escolhido, df_recuperacao, gerar_criticidade))
         print('\n--- Relatório principal ---')
+        print(f'\nTotal de alunos em recuperação: {len(df_rel["nome"].unique())}')# Mostrar quantos alunos ficaram de recuperação
         print(df_rel)
         print('\n--- Relatório de criticidade ---')
         print(df_crit)
         while True:
             resp = str(input('Gostaria de comparar o relatorio de criticidade com outro bimestre ou gerar um grafico?'
                              '\n [1] Comparar bimestres'
-                             '\n [2] Gerar um grafico')).upper().strip()
+                             '\n [2] Gerar um grafico'
+                             'Digite a opção: ')).upper().strip()
             if resp in ['1', '2']:
                 break
             print('Opção inválida!.')

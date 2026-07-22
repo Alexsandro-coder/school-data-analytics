@@ -31,7 +31,7 @@ def definir_grau_alerta(total):
     if total <= 2:
         return 'LEVE'
     elif total <= 4:
-        return 'ATENÇÃO'
+        return 'MEDIO'
     else:
         return 'CRÍTICO'
 
