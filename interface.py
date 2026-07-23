@@ -37,6 +37,22 @@ def perguntar_acao():
         print('Opção inválida!.')
     return resp
 
+def exibir_relatorio_principal(df_rel, titulo="Relatório principal"):
+    print(f'\n--- {titulo} ---')
+    print(f'\nTotal de alunos em recuperação: {len(df_rel["matricula"].unique())}')  # Mostrar quantos alunos ficaram de recuperação
+    print(df_rel)
+
+def processar_comparacao(bimestre_escolhido, df_recuperacao, df_rel, df):
+    gerar_criticidade = True
+    bimestre_de_comparacao = fl.comparar_bimestres(bimestre_escolhido, df_recuperacao)
+    # Buscamos o relatório do outro bimestre também com criticidade!
+    df_rel_comp, df_crit_comp = rl.relatorio(bimestre_de_comparacao, df_recuperacao, gerar_criticidade)
+    print('\n--- bimestre comparados ---')
+    bimestre1 = rl.situacao(df_rel, df, bimestre_escolhido)
+    bimestre2 = rl.situacao(df_rel_comp, df, bimestre_de_comparacao)
+    df_comparacao = pd.concat([bimestre1, bimestre2], ignore_index=True)
+    print(df_comparacao)
+
 def iniciar():
     df = carregar_dados()
     # Chama a função de filtro definida para a recuperação
@@ -50,30 +66,18 @@ def iniciar():
             gerar_criticidade = True
             # Guardamos os dois retornos da função!
             df_rel, df_crit = (rl.relatorio(bimestre_escolhido, df_recuperacao, gerar_criticidade))
-            print('\n--- Relatório principal ---')
-            print(f'\nTotal de alunos em recuperação: {len(df_rel["matricula"].unique())}')# Mostrar quantos alunos ficaram de recuperação
-            print(df_rel)
+            exibir_relatorio_principal(df_rel)
             print('\n--- Relatório de criticidade ---')
             print(df_crit)
             resp = perguntar_acao()
             if resp == '1':
-                gerar_criticidade = True
-                bimestre_de_comparacao = fl.comparar_bimestres(bimestre_escolhido, df_recuperacao)
-                # Buscamos o relatório do outro bimestre também com criticidade!
-                df_rel_comp, df_crit_comp = rl.relatorio(bimestre_de_comparacao, df_recuperacao, gerar_criticidade)
-                print('\n--- bimestre comparados ---')
-                bimestre1 = rl.situacao(df_rel,df, bimestre_escolhido)
-                bimestre2 = rl.situacao(df_rel_comp,df, bimestre_de_comparacao)
-                df_comparacao = pd.concat([bimestre1, bimestre2], ignore_index=True)
-                print(df_comparacao)
+                processar_comparacao(bimestre_escolhido, df_recuperacao, df_rel, df)
             elif resp == '2':
                 gf.grafico_de_criticidade(df_crit)
 
         else:
             gerar_criticidade = False
             df_rel = rl.relatorio(bimestre_escolhido, df_recuperacao, gerar_criticidade)
-            print('\n--- Relatório Principal ---')
-            print(f'\nTotal de alunos em recuperação: {len(df_rel["matricula"].unique())}')# Mostrar quantos alunos ficaram de recuperação
-            print(df_rel)
+            exibir_relatorio_principal(df_rel)
     except Exception as e:
         print(f"Ocorreu um erro: {e}")
