@@ -4,17 +4,19 @@ Projeto: school-data-analytics
 Função principal: Processa dados de alunos, gera relatórios de recuperação,
 criticidade, compara bimestres e cria visualizações.
 """
-def iniciar():
-    import pandas as pd
-    import filtros as fl
-    import relatorios as rl
-    import graficos as gf
+import pandas as pd
+import filtros as fl
+import relatorios as rl
+import graficos as gf
 
-    pd.set_option('display.width', None)#faz com que o csv apareça por completo
-
-    df = pd.read_csv('alunos_fake_projeto_atualizado.csv')
-    # Visualização original dos dados
+def carregar_dados():
+    df = pd.read_csv('alunos_fake_projeto_atualizado.csv')  # Visualização original dos dados
+    pd.set_option('display.width', None)  # faz com que o csv apareça por completo
     print(df.head())
+    return df
+
+def iniciar():
+    df = carregar_dados()
 
     # Chama a função de filtro definida para a recuperação
     df_recuperacao = fl.preparar_dados_recuperacao(df)
