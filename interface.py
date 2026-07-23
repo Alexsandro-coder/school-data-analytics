@@ -15,23 +15,37 @@ def carregar_dados():
     print(df.head())
     return df
 
+def perguntar_criticidade():
+    while True:
+        resp = str(input('Gostaria de um relatorio de criticidade do bimestre escolhido?'
+                         '\n [1] SIM'
+                         '\n [2] NÃO'
+                         '\nDigite a opção:')).upper().strip()
+        if resp in ['1', '2']:
+            break
+        print('Opção inválida!.')
+    return resp
+
+def perguntar_acao():
+    while True:
+        resp = str(input('Gostaria de comparar esse bimestre com outro ou gerar um grafico?'
+                         '\n [1] Comparar bimestres'
+                         '\n [2] Gerar um grafico'
+                         '\nDigite a opção: ')).upper().strip()
+        if resp in ['1', '2']:
+            break
+        print('Opção inválida!.')
+    return resp
+
 def iniciar():
     df = carregar_dados()
-
     # Chama a função de filtro definida para a recuperação
     df_recuperacao = fl.preparar_dados_recuperacao(df)
     try:
         print('Qual bimestre gostaria de gerar um relatorio?')
         # Chama a função de filtro definida para verificar os bimestres
         bimestre_escolhido = fl.visualizar_bimestres(df_recuperacao)
-        while True:
-            resp = str(input('Gostaria de um relatorio de criticidade do bimestre escolhido?'
-                             '\n [1] SIM'
-                             '\n [2] NÃO'
-                             '\nDigite a opção:')).upper().strip()
-            if resp in ['1', '2']:
-                break
-            print('Opção inválida!.')
+        resp = perguntar_criticidade()
         if resp == '1':
             gerar_criticidade = True
             # Guardamos os dois retornos da função!
@@ -41,14 +55,7 @@ def iniciar():
             print(df_rel)
             print('\n--- Relatório de criticidade ---')
             print(df_crit)
-            while True:
-                resp = str(input('Gostaria de comparar esse bimestre com outro ou gerar um grafico?'
-                                 '\n [1] Comparar bimestres'
-                                 '\n [2] Gerar um grafico'
-                                 '\nDigite a opção: ')).upper().strip()
-                if resp in ['1', '2']:
-                    break
-                print('Opção inválida!.')
+            resp = perguntar_acao()
             if resp == '1':
                 gerar_criticidade = True
                 bimestre_de_comparacao = fl.comparar_bimestres(bimestre_escolhido, df_recuperacao)
