@@ -15,23 +15,12 @@ def carregar_dados():
     print(df.head())
     return df
 
-def perguntar_criticidade():
+def perguntar_acao(pergunta = '',opcao1 = 'SIM', opcao2 = 'NAO'):
     while True:
-        resp = str(input('Gostaria de um relatorio de criticidade do bimestre escolhido?'
-                         '\n [1] SIM'
-                         '\n [2] NÃO'
-                         '\nDigite a opção:')).upper().strip()
-        if resp in ['1', '2']:
-            break
-        print('Opção inválida!.')
-    return resp
-
-def perguntar_acao():
-    while True:
-        resp = str(input('Gostaria de comparar esse bimestre com outro ou gerar um grafico?'
-                         '\n [1] Comparar bimestres'
-                         '\n [2] Gerar um grafico'
-                         '\nDigite a opção: ')).upper().strip()
+        resp = str(input(f'{pergunta}: '
+                         f'\n [1] {opcao1}'
+                         f'\n [2] {opcao2}'
+                         '\nDigite a opção: ')).strip()
         if resp in ['1', '2']:
             break
         print('Opção inválida!.')
@@ -61,7 +50,7 @@ def iniciar():
         print('Qual bimestre gostaria de gerar um relatorio?')
         # Chama a função de filtro definida para verificar os bimestres
         bimestre_escolhido = fl.visualizar_bimestres(df_recuperacao)
-        resp = perguntar_criticidade()
+        resp = perguntar_acao('Gostaria de um relatorio de criticidade do bimestre escolhido?')
         if resp == '1':
             gerar_criticidade = True
             # Guardamos os dois retornos da função!
@@ -69,7 +58,9 @@ def iniciar():
             exibir_relatorio_principal(df_rel)
             print('\n--- Relatório de criticidade ---')
             print(df_crit)
-            resp = perguntar_acao()
+            resp = perguntar_acao('Gostaria de comparar esse bimestre com outro ou gerar um grafico?'
+                                  ,'COMPARAR'
+                                  ,'GERAR GRAFICO')
             if resp == '1':
                 processar_comparacao(bimestre_escolhido, df_recuperacao, df_rel, df)
             elif resp == '2':
