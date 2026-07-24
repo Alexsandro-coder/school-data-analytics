@@ -8,9 +8,10 @@ import pandas as pd
 import filtros as fl
 import relatorios as rl
 import graficos as gf
+from dados import config as con
 
 def carregar_dados():
-    df = pd.read_csv('alunos_fake_projeto_atualizado.csv')  # Visualização original dos dados
+    df = pd.read_csv(con.ARQUIVO_DADOS)  # Visualização original dos dados
     pd.set_option('display.width', None)  # faz com que o csv apareça por completo
     print(df.head())
     return df
