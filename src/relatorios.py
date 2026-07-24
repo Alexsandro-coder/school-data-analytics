@@ -1,5 +1,7 @@
 import pandas as pd
-from filtros import definir_grau_alerta, visualizar_bimestres
+from src.filtros import definir_grau_alerta
+
+
 def relatorio_pronto(bimestre_escolhido,df_recuperacao):
     # formatação do relatorio
     relatorio = df_recuperacao[df_recuperacao['fase de nota'] == bimestre_escolhido][

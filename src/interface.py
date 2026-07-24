@@ -5,9 +5,7 @@ Função principal: Processa dados de alunos, gera relatórios de recuperação,
 criticidade, compara bimestres e cria visualizações.
 """
 import pandas as pd
-import filtros as fl
-import relatorios as rl
-import graficos as gf
+from src import filtros as fl, graficos as gf, relatorios as rl
 from dados import config as con
 
 def carregar_dados():
