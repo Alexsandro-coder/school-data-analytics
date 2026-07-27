@@ -128,4 +128,4 @@ Abaixo está o gráfico gerado pelo sistema mostrando a quantidade de alunos por
 Este projeto está sob a licença [MIT](LICENSE).
 
 Desenvolvido por **Alex Sandro Rodrigues** 👋  
-[GitHub](www.linkedin.com/in/alex-sandro-rodrigues-rodrigues-nobre-junior-5468821b0) | [LinkedIn](https://github.com/Alexsandro-coder)
+[GitHub](https://github.com/Alexsandro-coder) | [LinkedIn](https://www.linkedin.com/in/alex-sandro-rodrigues-rodrigues-nobre-junior-5468821b0/)
