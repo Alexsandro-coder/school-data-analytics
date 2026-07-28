@@ -1,6 +1,7 @@
 # School Data Analytics
 
-> Sistema interativo para análise de desempenho acadêmico, diagnóstico de criticidade em estudantes e geração de relatórios pedagógicos.
+> > Ferramenta CLI para automatizar a identificação de alunos em recuperação 
+> e classificar o grau de risco acadêmico a partir de dados escolares.
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3.14%2B-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
@@ -28,6 +29,21 @@ O **School Data Analytics** foi desenvolvido para automatizar a leitura dos dado
 - **Comparativo Bimestral**: Compara percentuais de recuperação e média de matérias pendentes entre diferentes bimestres.
 - **Interface CLI Interativa**: Menu simples e guiado via terminal para navegação do usuário.
 
+---
+
+## <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/settings.svg" width="22" height="22" align="center" /> O que NÃO faz (ainda)
+
+- Não lê exportações reais do Activesoft sem tratamento manual prévio 
+  (dados de entrada precisam seguir o formato do CSV de exemplo)
+- Não possui interface gráfica — uso via terminal
+- Não persiste dados entre sessões além dos relatórios exportados
+
+---
+
+## <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/settings.svg" width="22" height="22" align="center" /> Aviso sobre dados e privacidade
+Este projeto usa dados fictícios para fins de demonstração. Não deve ser 
+usado com dados reais de estudantes sem anonimização e controles de 
+acesso adequados (LGPD).
 ---
 
 ## <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/console.svg" width="22" height="22" align="center" /> Tecnologias Utilizadas
@@ -114,12 +130,22 @@ Abaixo está o gráfico gerado pelo sistema mostrando a quantidade de alunos por
 
 ---
 
-## <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/todo.svg" width="22" height="22" align="center" /> Roadmap (Próximos Passos)
+### <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/todo.svg" width="22" height="22" align="center" /> Roadmap Próximos passos (curto prazo)
 
-- [ ] Integrar com **Gemini API** para geração automática de diagnóstico pedagógico humanizado via IA.
-- [ ] Implementar exportação de relatórios em planilhas **Excel (.xlsx)** com formatação condicional.
-- [ ] Adicionar testes unitários com `pytest` na pasta `tests/`.
-- [ ] Criar interface web interativa (Streamlit ou web app).
+- Testes automatizados com pytest para filtros.py e relatorios.py
+- Exportação de relatórios em Excel com formatação condicional
+- Tratamento robusto de inconsistências em exports reais (encoding, 
+  colunas variáveis)
+- Relatório de disciplina crítica: matéria com maior índice de recuperação por bimestre
+- Relatório individual do aluno: evolução de desempenho ao longo dos bimestres
+
+---
+
+### <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/todo.svg" width="22" height="22" align="center" /> Roadmap Visão de longo prazo (exploratório)
+
+- Interface web (Streamlit)
+- Geração assistida por IA de sugestões de diagnóstico pedagógico 
+  (com revisão humana obrigatória antes de qualquer publicação)
 
 ---
 
