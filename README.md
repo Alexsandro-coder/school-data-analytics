@@ -40,7 +40,7 @@ O **School Data Analytics** foi desenvolvido para automatizar a leitura dos dado
 
 ---
 
-## <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/settings.svg" width="22" height="22" align="center" /> Aviso sobre dados e privacidade
+## img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/readme.svg" width="22" height="22" align="center" /> Aviso sobre dados e privacidade
 Este projeto usa dados fictícios para fins de demonstração. Não deve ser 
 usado com dados reais de estudantes sem anonimização e controles de 
 acesso adequados (LGPD).
@@ -130,21 +130,21 @@ Abaixo está o gráfico gerado pelo sistema mostrando a quantidade de alunos por
 
 ---
 
-### <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/todo.svg" width="22" height="22" align="center" /> Roadmap Próximos passos (curto prazo)
+### <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/todo.svg" width="22" height="22" align="center" /> Próximos passos (curto prazo)
 
-- Testes automatizados com pytest para filtros.py e relatorios.py
-- Exportação de relatórios em Excel com formatação condicional
-- Tratamento robusto de inconsistências em exports reais (encoding, 
+- [] Testes automatizados com pytest para filtros.py e relatorios.py
+- [] Exportação de relatórios em Excel com formatação condicional
+- [] Tratamento robusto de inconsistências em exports reais (encoding, 
   colunas variáveis)
-- Relatório de disciplina crítica: matéria com maior índice de recuperação por bimestre
-- Relatório individual do aluno: evolução de desempenho ao longo dos bimestres
+- [] Relatório de disciplina crítica: matéria com maior índice de recuperação por bimestre
+- [] Relatório individual do aluno: evolução de desempenho ao longo dos bimestres
 
 ---
 
-### <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/todo.svg" width="22" height="22" align="center" /> Roadmap Visão de longo prazo (exploratório)
+### <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/todo.svg" width="22" height="22" align="center" /> Visão de longo prazo (exploratório)
 
-- Interface web (Streamlit)
-- Geração assistida por IA de sugestões de diagnóstico pedagógico 
+- [] Interface web (Streamlit)
+- [] Geração assistida por IA de sugestões de diagnóstico pedagógico 
   (com revisão humana obrigatória antes de qualquer publicação)
 
 ---
